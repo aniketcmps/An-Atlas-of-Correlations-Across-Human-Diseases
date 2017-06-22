@@ -1,0 +1,3248 @@
+{
+"nodes":
+[
+ {
+   "id": "acetaminophen-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "acupuncture-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "acute-bronchitis-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "addiction-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "adrenal-gland-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "aids-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "allergy-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "ana-test-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "ankle-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "anxiety-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "arm-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "arthritis-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "autoimmune-disorder-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "baby-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "back-pain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bicep-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "blindness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "blood-pressure-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "blood-test-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "brain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "broken-arm-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "broken-shoulder-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "broken-toe-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "bruise-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "bulging-disc-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "bursitis-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "carpal-tunnel-syndrome-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "cat-scan-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "celiac-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cheekbones-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "chronic-fatigue-syndrome-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "chronic-obstructive-pulmonary-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "chronic-pain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "coldness-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "cortisone-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "cyst-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "degenerative-disc-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "dementia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "depo-provera-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "depression-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "diabetes-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "diet-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "dislocation-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "drainage-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "drowsiness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ehlers-danlos-syndrome-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "elbow-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "epidural-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "epilepsy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "exercise-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "eyes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 18
+ },
+ {
+   "id": "fatigue-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fear-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fibromyalgia-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "fingernail-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "finger-questions",
+   "group": 1,
+   "clusterid": 21
+ },
+ {
+   "id": "flu-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "foot-questions",
+   "group": 1,
+   "clusterid": 22
+ },
+ {
+   "id": "forearm-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "fracture-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "grayness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hair-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "hamstring-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "hand-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "headache-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "head-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "healing-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "heart-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "herniated-disc-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "herpes-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "hives-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "immune-system-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "injection-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "injury-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "insurance-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "iron-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "irritable-bowel-syndrome-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "jaw-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "knee-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "lactic-acid-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "ligament-questions",
+   "group": 1,
+   "clusterid": 21
+ },
+ {
+   "id": "lip-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "lump-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "lupus-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "luteinizing-hormone-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "magnesium-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "marijuana-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "menopause-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "mitral-valve-prolapse-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "movement-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "muscle-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "narcotic-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nausea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "neck-questions",
+   "group": 1,
+   "clusterid": 23
+ },
+ {
+   "id": "nerve-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "neuropathy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "newborn-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "nose-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "numbness-questions",
+   "group": 1,
+   "clusterid": 18
+ },
+ {
+   "id": "osteoarthritis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "osteoporosis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pain-management-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 23
+ },
+ {
+   "id": "physical-therapy-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pinched-nerve-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "pregnancy-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "pressure-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "primary-biliary-cirrhosis-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "rash-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "referred-pain-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "reflex-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "restless-legs-syndrome-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "rheumatoid-arthritis-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "ribcage-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "rotator-cuff-injury-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "rotator-cuff-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "running-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "sciatica-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "seizure-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "sepsis-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "shingles-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "short-stature-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "shoulder-blade-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "shoulder-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "skin-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "sleep-disorder-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sleepwalking-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "soft-tissue-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "spine-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "splint-questions",
+   "group": 1,
+   "clusterid": 21
+ },
+ {
+   "id": "sprain-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "stem-cell-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "steroid-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "stitches-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "stress-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "sweating-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "systemic-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "tai-chi-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tenderness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tendonitis-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "tendon-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "testosterone-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "thirst-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "tightness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "toe-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "tooth-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "trauma-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "type-2-diabetes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "virus-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "vitamin-d-deficiency-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "vitamin-d-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "vitamin-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "walking-questions",
+   "group": 1,
+   "clusterid": 22
+ },
+ {
+   "id": "weakness-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "weight-loss-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weight-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "workout-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "wound-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "wrist-questions",
+   "group": 1,
+   "clusterid": 24
+ },
+ {
+   "id": "x-ray-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "yeast-infection-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "yoga-questions",
+   "group": 1,
+   "clusterid": 1
+ }
+],
+"links":
+[
+ {
+   "source": "ankle-questions",
+   "target": "sprain-questions",
+   "value": 17
+ },
+ {
+   "source": "sprain-questions",
+   "target": "ankle-questions",
+   "value": 17
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "pain-questions",
+   "value": 16
+ },
+ {
+   "source": "pain-questions",
+   "target": "fibromyalgia-questions",
+   "value": 16
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "shoulder-questions",
+   "value": 11
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "rotator-cuff-questions",
+   "value": 11
+ },
+ {
+   "source": "swelling-questions",
+   "target": "sprain-questions",
+   "value": 9
+ },
+ {
+   "source": "sprain-questions",
+   "target": "swelling-questions",
+   "value": 9
+ },
+ {
+   "source": "pain-questions",
+   "target": "sprain-questions",
+   "value": 8
+ },
+ {
+   "source": "sprain-questions",
+   "target": "pain-questions",
+   "value": 8
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "surgery-questions",
+   "value": 7
+ },
+ {
+   "source": "surgery-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 7
+ },
+ {
+   "source": "surgery-questions",
+   "target": "rotator-cuff-questions",
+   "value": 6
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "surgery-questions",
+   "value": 6
+ },
+ {
+   "source": "hand-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 5
+ },
+ {
+   "source": "walking-questions",
+   "target": "sprain-questions",
+   "value": 5
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "wrist-questions",
+   "value": 5
+ },
+ {
+   "source": "fracture-questions",
+   "target": "sprain-questions",
+   "value": 5
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "hand-questions",
+   "value": 5
+ },
+ {
+   "source": "sprain-questions",
+   "target": "fracture-questions",
+   "value": 5
+ },
+ {
+   "source": "wrist-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 5
+ },
+ {
+   "source": "sprain-questions",
+   "target": "walking-questions",
+   "value": 5
+ },
+ {
+   "source": "sprain-questions",
+   "target": "injury-questions",
+   "value": 4
+ },
+ {
+   "source": "pain-questions",
+   "target": "lupus-questions",
+   "value": 4
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "arm-questions",
+   "value": 4
+ },
+ {
+   "source": "sprain-questions",
+   "target": "wrist-questions",
+   "value": 4
+ },
+ {
+   "source": "sprain-questions",
+   "target": "bruise-questions",
+   "value": 4
+ },
+ {
+   "source": "wrist-questions",
+   "target": "sprain-questions",
+   "value": 4
+ },
+ {
+   "source": "exercise-questions",
+   "target": "fibromyalgia-questions",
+   "value": 4
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "exercise-questions",
+   "value": 4
+ },
+ {
+   "source": "lupus-questions",
+   "target": "pain-questions",
+   "value": 4
+ },
+ {
+   "source": "pain-questions",
+   "target": "rotator-cuff-questions",
+   "value": 4
+ },
+ {
+   "source": "arm-questions",
+   "target": "rotator-cuff-questions",
+   "value": 4
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "pain-questions",
+   "value": 4
+ },
+ {
+   "source": "injury-questions",
+   "target": "sprain-questions",
+   "value": 4
+ },
+ {
+   "source": "bruise-questions",
+   "target": "sprain-questions",
+   "value": 4
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "neck-questions",
+   "value": 3
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "arthritis-questions",
+   "value": 3
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "depression-questions",
+   "value": 3
+ },
+ {
+   "source": "sprain-questions",
+   "target": "vision-questions",
+   "value": 3
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "walking-questions",
+   "target": "fibromyalgia-questions",
+   "value": 3
+ },
+ {
+   "source": "swelling-questions",
+   "target": "fibromyalgia-questions",
+   "value": 3
+ },
+ {
+   "source": "vision-questions",
+   "target": "sprain-questions",
+   "value": 3
+ },
+ {
+   "source": "cortisone-questions",
+   "target": "rotator-cuff-questions",
+   "value": 3
+ },
+ {
+   "source": "neck-questions",
+   "target": "fibromyalgia-questions",
+   "value": 3
+ },
+ {
+   "source": "neck-questions",
+   "target": "rotator-cuff-questions",
+   "value": 3
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "neck-questions",
+   "value": 3
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "cortisone-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fibromyalgia-questions",
+   "value": 3
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "walking-questions",
+   "value": 3
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "swelling-questions",
+   "value": 3
+ },
+ {
+   "source": "arthritis-questions",
+   "target": "fibromyalgia-questions",
+   "value": 3
+ },
+ {
+   "source": "depression-questions",
+   "target": "fibromyalgia-questions",
+   "value": 3
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "baby-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "knee-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "surgery-questions",
+   "value": 2
+ },
+ {
+   "source": "skin-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "hand-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "movement-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "anxiety-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "vision-questions",
+   "value": 2
+ },
+ {
+   "source": "bicep-questions",
+   "target": "rotator-cuff-questions",
+   "value": 2
+ },
+ {
+   "source": "healing-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "foot-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "neck-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "lupus-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "muscle-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "finger-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "degenerative-disc-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "hand-questions",
+   "value": 2
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "movement-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "running-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 2
+ },
+ {
+   "source": "coldness-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "jaw-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "healing-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "foot-questions",
+   "value": 2
+ },
+ {
+   "source": "foot-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "muscle-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "hand-questions",
+   "value": 2
+ },
+ {
+   "source": "walking-questions",
+   "target": "lupus-questions",
+   "value": 2
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "forearm-questions",
+   "value": 2
+ },
+ {
+   "source": "running-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "finger-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "injury-questions",
+   "target": "rotator-cuff-questions",
+   "value": 2
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "injury-questions",
+   "value": 2
+ },
+ {
+   "source": "drug-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "brain-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "drug-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "steroid-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "muscle-questions",
+   "value": 2
+ },
+ {
+   "source": "muscle-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "neck-questions",
+   "value": 2
+ },
+ {
+   "source": "head-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "diet-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "movement-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "chronic-fatigue-syndrome-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "weakness-questions",
+   "value": 2
+ },
+ {
+   "source": "vision-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "steroid-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "knee-questions",
+   "value": 2
+ },
+ {
+   "source": "arm-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "surgery-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "healing-questions",
+   "target": "rotator-cuff-questions",
+   "value": 2
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "diet-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "lupus-questions",
+   "value": 2
+ },
+ {
+   "source": "finger-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "forearm-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "weakness-questions",
+   "target": "sprain-questions",
+   "value": 2
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "arm-questions",
+   "value": 2
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "finger-questions",
+   "value": 2
+ },
+ {
+   "source": "brain-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "healing-questions",
+   "value": 2
+ },
+ {
+   "source": "jaw-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "bicep-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "foot-questions",
+   "value": 2
+ },
+ {
+   "source": "lupus-questions",
+   "target": "walking-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "chronic-fatigue-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "hand-questions",
+   "target": "rotator-cuff-questions",
+   "value": 2
+ },
+ {
+   "source": "movement-questions",
+   "target": "rotator-cuff-questions",
+   "value": 2
+ },
+ {
+   "source": "baby-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "osteoarthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "coldness-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "skin-questions",
+   "value": 2
+ },
+ {
+   "source": "sprain-questions",
+   "target": "head-questions",
+   "value": 2
+ },
+ {
+   "source": "degenerative-disc-disease-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "coldness-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "soft-tissue-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "blindness-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "aids-questions",
+   "value": 1
+ },
+ {
+   "source": "movement-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "cheekbones-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "blood-test-questions",
+   "value": 1
+ },
+ {
+   "source": "luteinizing-hormone-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "irritable-bowel-syndrome-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "herniated-disc-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "ana-test-questions",
+   "value": 1
+ },
+ {
+   "source": "elbow-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "ligament-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "acetaminophen-questions",
+   "value": 1
+ },
+ {
+   "source": "sepsis-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "immune-system-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "stem-cell-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "fingernail-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "workout-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "epidural-questions",
+   "value": 1
+ },
+ {
+   "source": "chronic-obstructive-pulmonary-disease-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "ribcage-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "lip-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "cat-scan-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "shingles-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "numbness-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "running-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "acute-bronchitis-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "tooth-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "chronic-pain-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "iron-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "tendon-questions",
+   "value": 1
+ },
+ {
+   "source": "fatigue-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "mitral-valve-prolapse-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "sciatica-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "forearm-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "vitamin-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "wrist-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "numbness-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "seizure-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "fear-questions",
+   "value": 1
+ },
+ {
+   "source": "spine-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "depression-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "tenderness-questions",
+   "value": 1
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "seizure-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "x-ray-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "trauma-questions",
+   "value": 1
+ },
+ {
+   "source": "lump-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "eyes-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-loss-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "acute-bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "chronic-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "iron-questions",
+   "value": 1
+ },
+ {
+   "source": "tendon-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "drowsiness-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "mitral-valve-prolapse-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "injury-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "allergy-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "autoimmune-disorder-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "systemic-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "chronic-obstructive-pulmonary-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "addiction-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "numbness-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "sleepwalking-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-d-deficiency-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "depo-provera-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "coldness-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "seizure-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "head-questions",
+   "value": 1
+ },
+ {
+   "source": "drainage-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "blindness-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "narcotic-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "elbow-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "physical-therapy-questions",
+   "value": 1
+ },
+ {
+   "source": "shingles-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "referred-pain-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "referred-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "pinched-nerve-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "arthritis-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "pinched-nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "arthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "tightness-questions",
+   "value": 1
+ },
+ {
+   "source": "bursitis-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "yoga-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "stitches-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "virus-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "spine-questions",
+   "value": 1
+ },
+ {
+   "source": "bulging-disc-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "yoga-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "splint-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "herpes-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "spine-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "bulging-disc-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "nausea-questions",
+   "value": 1
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "tendonitis-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "toe-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "wound-questions",
+   "value": 1
+ },
+ {
+   "source": "cyst-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-injury-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "tightness-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "broken-arm-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "thirst-questions",
+   "value": 1
+ },
+ {
+   "source": "toe-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "stitches-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "cyst-questions",
+   "value": 1
+ },
+ {
+   "source": "broken-shoulder-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "nausea-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "bursitis-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "broken-arm-questions",
+   "value": 1
+ },
+ {
+   "source": "thirst-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "tendonitis-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "skin-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "virus-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "rotator-cuff-injury-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "shoulder-blade-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "dementia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "bursitis-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "tendon-questions",
+   "value": 1
+ },
+ {
+   "source": "adrenal-gland-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "shoulder-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-d-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "foot-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "sleep-disorder-questions",
+   "value": 1
+ },
+ {
+   "source": "acupuncture-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "broken-toe-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "celiac-disease-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "splint-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "broken-shoulder-questions",
+   "value": 1
+ },
+ {
+   "source": "ligament-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "shoulder-blade-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "bursitis-questions",
+   "value": 1
+ },
+ {
+   "source": "tendon-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "adrenal-gland-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "rheumatoid-arthritis-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "foot-questions",
+   "value": 1
+ },
+ {
+   "source": "sleep-disorder-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "acupuncture-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "broken-toe-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "celiac-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "wound-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "rash-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "heart-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "grayness-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "marijuana-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "steroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hives-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "newborn-questions",
+   "value": 1
+ },
+ {
+   "source": "marijuana-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "steroid-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "hives-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "ligament-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "grayness-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "restless-legs-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "ankle-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "acetaminophen-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "lactic-acid-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "forearm-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "immune-system-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "neuropathy-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "pain-management-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "sweating-questions",
+   "value": 1
+ },
+ {
+   "source": "primary-biliary-cirrhosis-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "ribcage-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "depression-questions",
+   "value": 1
+ },
+ {
+   "source": "tenderness-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "skin-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "spine-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "dislocation-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "trauma-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "ehlers-danlos-syndrome-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "hamstring-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "nerve-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "tai-chi-questions",
+   "value": 1
+ },
+ {
+   "source": "numbness-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "dementia-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "aids-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "tooth-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "magnesium-questions",
+   "value": 1
+ },
+ {
+   "source": "reflex-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "elbow-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "fatigue-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "yeast-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "vitamin-d-questions",
+   "value": 1
+ },
+ {
+   "source": "splint-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "herniated-disc-questions",
+   "value": 1
+ },
+ {
+   "source": "ana-test-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "neuropathy-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "seizure-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-management-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "sweating-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "nerve-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "nerve-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "depo-provera-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "rash-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "sleepwalking-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "dislocation-questions",
+   "value": 1
+ },
+ {
+   "source": "head-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "ehlers-danlos-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "hamstring-questions",
+   "value": 1
+ },
+ {
+   "source": "narcotic-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "elbow-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "lump-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "cat-scan-questions",
+   "value": 1
+ },
+ {
+   "source": "tai-chi-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "running-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "newborn-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "hair-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "luteinizing-hormone-questions",
+   "value": 1
+ },
+ {
+   "source": "magnesium-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "reflex-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "drowsiness-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "irritable-bowel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "rheumatoid-arthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "splint-questions",
+   "value": 1
+ },
+ {
+   "source": "sciatica-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "ligament-questions",
+   "value": 1
+ },
+ {
+   "source": "restless-legs-syndrome-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "ankle-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "lactic-acid-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "hand-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "fear-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "primary-biliary-cirrhosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "vitamin-d-deficiency-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "herpes-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "x-ray-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "soft-tissue-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "drainage-questions",
+   "value": 1
+ },
+ {
+   "source": "eyes-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lip-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "movement-questions",
+   "value": 1
+ },
+ {
+   "source": "physical-therapy-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "cheekbones-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "sprain-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "weight-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "yeast-infection-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "injury-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "rotator-cuff-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "testosterone-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "allergy-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "sepsis-questions",
+   "value": 1
+ },
+ {
+   "source": "systemic-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "wrist-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "stem-cell-questions",
+   "value": 1
+ },
+ {
+   "source": "autoimmune-disorder-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "fingernail-questions",
+   "value": 1
+ },
+ {
+   "source": "sprain-questions",
+   "target": "workout-questions",
+   "value": 1
+ },
+ {
+   "source": "epidural-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rotator-cuff-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "addiction-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ }
+]
+}

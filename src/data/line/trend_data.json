@@ -1,0 +1,1202 @@
+[
+ {
+   "year": 2010,
+   "topicName": "scoliosis",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "scoliosis",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "scoliosis",
+   "count": 5
+ },
+ {
+   "year": 2013,
+   "topicName": "scoliosis",
+   "count": 16
+ },
+ {
+   "year": 2014,
+   "topicName": "scoliosis",
+   "count": 7
+ },
+ {
+   "year": 2010,
+   "topicName": "osteoporosis",
+   "count": 5
+ },
+ {
+   "year": 2011,
+   "topicName": "osteoporosis",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "osteoporosis",
+   "count": 3
+ },
+ {
+   "year": 2013,
+   "topicName": "osteoporosis",
+   "count": 3
+ },
+ {
+   "year": 2014,
+   "topicName": "osteoporosis",
+   "count": 3
+ },
+ {
+   "year": 2010,
+   "topicName": "bone-spurs",
+   "count": 1
+ },
+ {
+   "year": 2011,
+   "topicName": "bone-spurs",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "bone-spurs",
+   "count": 1
+ },
+ {
+   "year": 2013,
+   "topicName": "bone-spurs",
+   "count": 3
+ },
+ {
+   "year": 2014,
+   "topicName": "bone-spurs",
+   "count": 8
+ },
+ {
+   "year": 2010,
+   "topicName": "fracture",
+   "count": 5
+ },
+ {
+   "year": 2011,
+   "topicName": "fracture",
+   "count": 12
+ },
+ {
+   "year": 2012,
+   "topicName": "fracture",
+   "count": 15
+ },
+ {
+   "year": 2013,
+   "topicName": "fracture",
+   "count": 21
+ },
+ {
+   "year": 2014,
+   "topicName": "fracture",
+   "count": 35
+ },
+ {
+   "year": 2010,
+   "topicName": "osteoarthritis",
+   "count": 3
+ },
+ {
+   "year": 2011,
+   "topicName": "osteoarthritis",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "osteoarthritis",
+   "count": 1
+ },
+ {
+   "year": 2013,
+   "topicName": "osteoarthritis",
+   "count": 9
+ },
+ {
+   "year": 2014,
+   "topicName": "osteoarthritis",
+   "count": 3
+ },
+ {
+   "year": 2010,
+   "topicName": "sprain",
+   "count": 4
+ },
+ {
+   "year": 2011,
+   "topicName": "sprain",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "sprain",
+   "count": 7
+ },
+ {
+   "year": 2013,
+   "topicName": "sprain",
+   "count": 10
+ },
+ {
+   "year": 2014,
+   "topicName": "sprain",
+   "count": 13
+ },
+ {
+   "year": 2010,
+   "topicName": "fibromyalgia",
+   "count": 20
+ },
+ {
+   "year": 2011,
+   "topicName": "fibromyalgia",
+   "count": 10
+ },
+ {
+   "year": 2012,
+   "topicName": "fibromyalgia",
+   "count": 10
+ },
+ {
+   "year": 2013,
+   "topicName": "fibromyalgia",
+   "count": 19
+ },
+ {
+   "year": 2014,
+   "topicName": "fibromyalgia",
+   "count": 14
+ },
+ {
+   "year": 2010,
+   "topicName": "carpal-tunnel-syndrome",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "carpal-tunnel-syndrome",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "carpal-tunnel-syndrome",
+   "count": 2
+ },
+ {
+   "year": 2013,
+   "topicName": "carpal-tunnel-syndrome",
+   "count": 7
+ },
+ {
+   "year": 2014,
+   "topicName": "carpal-tunnel-syndrome",
+   "count": 10
+ },
+ {
+   "year": 2010,
+   "topicName": "lupus",
+   "count": 8
+ },
+ {
+   "year": 2011,
+   "topicName": "lupus",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "lupus",
+   "count": 3
+ },
+ {
+   "year": 2013,
+   "topicName": "lupus",
+   "count": 11
+ },
+ {
+   "year": 2014,
+   "topicName": "lupus",
+   "count": 5
+ },
+ {
+   "year": 2010,
+   "topicName": "rotator-cuff",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "rotator-cuff",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "rotator-cuff",
+   "count": 5
+ },
+ {
+   "year": 2013,
+   "topicName": "rotator-cuff",
+   "count": 6
+ },
+ {
+   "year": 2014,
+   "topicName": "rotator-cuff",
+   "count": 8
+ },
+ {
+   "year": 2010,
+   "topicName": "artery",
+   "count": 1
+ },
+ {
+   "year": 2011,
+   "topicName": "artery",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "artery",
+   "count": 8
+ },
+ {
+   "year": 2013,
+   "topicName": "artery",
+   "count": 8
+ },
+ {
+   "year": 2014,
+   "topicName": "artery",
+   "count": 21
+ },
+ {
+   "year": 2010,
+   "topicName": "congestive-heart-failure",
+   "count": 2
+ },
+ {
+   "year": 2011,
+   "topicName": "congestive-heart-failure",
+   "count": 4
+ },
+ {
+   "year": 2012,
+   "topicName": "congestive-heart-failure",
+   "count": 1
+ },
+ {
+   "year": 2013,
+   "topicName": "congestive-heart-failure",
+   "count": 6
+ },
+ {
+   "year": 2014,
+   "topicName": "congestive-heart-failure",
+   "count": 12
+ },
+ {
+   "year": 2010,
+   "topicName": "arrhythmias",
+   "count": 7
+ },
+ {
+   "year": 2011,
+   "topicName": "arrhythmias",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "arrhythmias",
+   "count": 0
+ },
+ {
+   "year": 2013,
+   "topicName": "arrhythmias",
+   "count": 2
+ },
+ {
+   "year": 2014,
+   "topicName": "arrhythmias",
+   "count": 3
+ },
+ {
+   "year": 2010,
+   "topicName": "heart-attack",
+   "count": 5
+ },
+ {
+   "year": 2011,
+   "topicName": "heart-attack",
+   "count": 4
+ },
+ {
+   "year": 2012,
+   "topicName": "heart-attack",
+   "count": 8
+ },
+ {
+   "year": 2013,
+   "topicName": "heart-attack",
+   "count": 13
+ },
+ {
+   "year": 2014,
+   "topicName": "heart-attack",
+   "count": 22
+ },
+ {
+   "year": 2010,
+   "topicName": "heart-disease",
+   "count": 5
+ },
+ {
+   "year": 2011,
+   "topicName": "heart-disease",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "heart-disease",
+   "count": 11
+ },
+ {
+   "year": 2013,
+   "topicName": "heart-disease",
+   "count": 8
+ },
+ {
+   "year": 2014,
+   "topicName": "heart-disease",
+   "count": 7
+ },
+ {
+   "year": 2010,
+   "topicName": "thyroid",
+   "count": 5
+ },
+ {
+   "year": 2011,
+   "topicName": "thyroid",
+   "count": 3
+ },
+ {
+   "year": 2012,
+   "topicName": "thyroid",
+   "count": 24
+ },
+ {
+   "year": 2013,
+   "topicName": "thyroid",
+   "count": 49
+ },
+ {
+   "year": 2014,
+   "topicName": "thyroid",
+   "count": 42
+ },
+ {
+   "year": 2010,
+   "topicName": "hypothyroidism",
+   "count": 2
+ },
+ {
+   "year": 2011,
+   "topicName": "hypothyroidism",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "hypothyroidism",
+   "count": 6
+ },
+ {
+   "year": 2013,
+   "topicName": "hypothyroidism",
+   "count": 5
+ },
+ {
+   "year": 2014,
+   "topicName": "hypothyroidism",
+   "count": 17
+ },
+ {
+   "year": 2010,
+   "topicName": "diabetes",
+   "count": 28
+ },
+ {
+   "year": 2011,
+   "topicName": "diabetes",
+   "count": 14
+ },
+ {
+   "year": 2012,
+   "topicName": "diabetes",
+   "count": 67
+ },
+ {
+   "year": 2013,
+   "topicName": "diabetes",
+   "count": 93
+ },
+ {
+   "year": 2014,
+   "topicName": "diabetes",
+   "count": 89
+ },
+ {
+   "year": 2010,
+   "topicName": "menopause",
+   "count": 11
+ },
+ {
+   "year": 2011,
+   "topicName": "menopause",
+   "count": 6
+ },
+ {
+   "year": 2012,
+   "topicName": "menopause",
+   "count": 10
+ },
+ {
+   "year": 2013,
+   "topicName": "menopause",
+   "count": 38
+ },
+ {
+   "year": 2014,
+   "topicName": "menopause",
+   "count": 49
+ },
+ {
+   "year": 2010,
+   "topicName": "type-2-diabetes",
+   "count": 3
+ },
+ {
+   "year": 2011,
+   "topicName": "type-2-diabetes",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "type-2-diabetes",
+   "count": 10
+ },
+ {
+   "year": 2013,
+   "topicName": "type-2-diabetes",
+   "count": 10
+ },
+ {
+   "year": 2014,
+   "topicName": "type-2-diabetes",
+   "count": 14
+ },
+ {
+   "year": 2010,
+   "topicName": "genital-herpes",
+   "count": 11
+ },
+ {
+   "year": 2011,
+   "topicName": "genital-herpes",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "genital-herpes",
+   "count": 8
+ },
+ {
+   "year": 2013,
+   "topicName": "genital-herpes",
+   "count": 37
+ },
+ {
+   "year": 2014,
+   "topicName": "genital-herpes",
+   "count": 35
+ },
+ {
+   "year": 2010,
+   "topicName": "chlamydia",
+   "count": 4
+ },
+ {
+   "year": 2011,
+   "topicName": "chlamydia",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "chlamydia",
+   "count": 12
+ },
+ {
+   "year": 2013,
+   "topicName": "chlamydia",
+   "count": 37
+ },
+ {
+   "year": 2014,
+   "topicName": "chlamydia",
+   "count": 33
+ },
+ {
+   "year": 2010,
+   "topicName": "trichomoniasis",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "trichomoniasis",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "trichomoniasis",
+   "count": 4
+ },
+ {
+   "year": 2013,
+   "topicName": "trichomoniasis",
+   "count": 10
+ },
+ {
+   "year": 2014,
+   "topicName": "trichomoniasis",
+   "count": 6
+ },
+ {
+   "year": 2010,
+   "topicName": "ovarian-cancer",
+   "count": 3
+ },
+ {
+   "year": 2011,
+   "topicName": "ovarian-cancer",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "ovarian-cancer",
+   "count": 1
+ },
+ {
+   "year": 2013,
+   "topicName": "ovarian-cancer",
+   "count": 3
+ },
+ {
+   "year": 2014,
+   "topicName": "ovarian-cancer",
+   "count": 6
+ },
+ {
+   "year": 2010,
+   "topicName": "infertility",
+   "count": 5
+ },
+ {
+   "year": 2011,
+   "topicName": "infertility",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "infertility",
+   "count": 4
+ },
+ {
+   "year": 2013,
+   "topicName": "infertility",
+   "count": 5
+ },
+ {
+   "year": 2014,
+   "topicName": "infertility",
+   "count": 11
+ },
+ {
+   "year": 2010,
+   "topicName": "erectile-dysfunction",
+   "count": 6
+ },
+ {
+   "year": 2011,
+   "topicName": "erectile-dysfunction",
+   "count": 6
+ },
+ {
+   "year": 2012,
+   "topicName": "erectile-dysfunction",
+   "count": 3
+ },
+ {
+   "year": 2013,
+   "topicName": "erectile-dysfunction",
+   "count": 12
+ },
+ {
+   "year": 2014,
+   "topicName": "erectile-dysfunction",
+   "count": 21
+ },
+ {
+   "year": 2010,
+   "topicName": "prostate-cancer",
+   "count": 13
+ },
+ {
+   "year": 2011,
+   "topicName": "prostate-cancer",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "prostate-cancer",
+   "count": 6
+ },
+ {
+   "year": 2013,
+   "topicName": "prostate-cancer",
+   "count": 13
+ },
+ {
+   "year": 2014,
+   "topicName": "prostate-cancer",
+   "count": 14
+ },
+ {
+   "year": 2010,
+   "topicName": "gonorrhea",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "gonorrhea",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "gonorrhea",
+   "count": 4
+ },
+ {
+   "year": 2013,
+   "topicName": "gonorrhea",
+   "count": 10
+ },
+ {
+   "year": 2014,
+   "topicName": "gonorrhea",
+   "count": 3
+ },
+ {
+   "year": 2010,
+   "topicName": "testicular-cancer",
+   "count": 1
+ },
+ {
+   "year": 2011,
+   "topicName": "testicular-cancer",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "testicular-cancer",
+   "count": 0
+ },
+ {
+   "year": 2013,
+   "topicName": "testicular-cancer",
+   "count": 5
+ },
+ {
+   "year": 2014,
+   "topicName": "testicular-cancer",
+   "count": 8
+ },
+ {
+   "year": 2010,
+   "topicName": "gallstone",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "gallstone",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "gallstone",
+   "count": 2
+ },
+ {
+   "year": 2013,
+   "topicName": "gallstone",
+   "count": 9
+ },
+ {
+   "year": 2014,
+   "topicName": "gallstone",
+   "count": 11
+ },
+ {
+   "year": 2010,
+   "topicName": "hemorrhoid",
+   "count": 3
+ },
+ {
+   "year": 2011,
+   "topicName": "hemorrhoid",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "hemorrhoid",
+   "count": 0
+ },
+ {
+   "year": 2013,
+   "topicName": "hemorrhoid",
+   "count": 20
+ },
+ {
+   "year": 2014,
+   "topicName": "hemorrhoid",
+   "count": 16
+ },
+ {
+   "year": 2010,
+   "topicName": "diverticulitis",
+   "count": 2
+ },
+ {
+   "year": 2011,
+   "topicName": "diverticulitis",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "diverticulitis",
+   "count": 4
+ },
+ {
+   "year": 2013,
+   "topicName": "diverticulitis",
+   "count": 5
+ },
+ {
+   "year": 2014,
+   "topicName": "diverticulitis",
+   "count": 9
+ },
+ {
+   "year": 2010,
+   "topicName": "polyp",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "polyp",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "polyp",
+   "count": 3
+ },
+ {
+   "year": 2013,
+   "topicName": "polyp",
+   "count": 1
+ },
+ {
+   "year": 2014,
+   "topicName": "polyp",
+   "count": 14
+ },
+ {
+   "year": 2010,
+   "topicName": "hepatitis-c",
+   "count": 3
+ },
+ {
+   "year": 2011,
+   "topicName": "hepatitis-c",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "hepatitis-c",
+   "count": 1
+ },
+ {
+   "year": 2013,
+   "topicName": "hepatitis-c",
+   "count": 11
+ },
+ {
+   "year": 2014,
+   "topicName": "hepatitis-c",
+   "count": 4
+ },
+ {
+   "year": 2010,
+   "topicName": "kidney-stone",
+   "count": 2
+ },
+ {
+   "year": 2011,
+   "topicName": "kidney-stone",
+   "count": 4
+ },
+ {
+   "year": 2012,
+   "topicName": "kidney-stone",
+   "count": 12
+ },
+ {
+   "year": 2013,
+   "topicName": "kidney-stone",
+   "count": 22
+ },
+ {
+   "year": 2014,
+   "topicName": "kidney-stone",
+   "count": 24
+ },
+ {
+   "year": 2010,
+   "topicName": "urinary-tract-infection",
+   "count": 7
+ },
+ {
+   "year": 2011,
+   "topicName": "urinary-tract-infection",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "urinary-tract-infection",
+   "count": 5
+ },
+ {
+   "year": 2013,
+   "topicName": "urinary-tract-infection",
+   "count": 12
+ },
+ {
+   "year": 2014,
+   "topicName": "urinary-tract-infection",
+   "count": 15
+ },
+ {
+   "year": 2010,
+   "topicName": "kidney-infection",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "kidney-infection",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "kidney-infection",
+   "count": 1
+ },
+ {
+   "year": 2013,
+   "topicName": "kidney-infection",
+   "count": 8
+ },
+ {
+   "year": 2014,
+   "topicName": "kidney-infection",
+   "count": 12
+ },
+ {
+   "year": 2010,
+   "topicName": "kidney-failure",
+   "count": 0
+ },
+ {
+   "year": 2011,
+   "topicName": "kidney-failure",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "kidney-failure",
+   "count": 1
+ },
+ {
+   "year": 2013,
+   "topicName": "kidney-failure",
+   "count": 3
+ },
+ {
+   "year": 2014,
+   "topicName": "kidney-failure",
+   "count": 5
+ },
+ {
+   "year": 2010,
+   "topicName": "kidney-disease",
+   "count": 2
+ },
+ {
+   "year": 2011,
+   "topicName": "kidney-disease",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "kidney-disease",
+   "count": 2
+ },
+ {
+   "year": 2013,
+   "topicName": "kidney-disease",
+   "count": 5
+ },
+ {
+   "year": 2014,
+   "topicName": "kidney-disease",
+   "count": 10
+ },
+ {
+   "year": 2010,
+   "topicName": "parkinsons-disease",
+   "count": 10
+ },
+ {
+   "year": 2011,
+   "topicName": "parkinsons-disease",
+   "count": 4
+ },
+ {
+   "year": 2012,
+   "topicName": "parkinsons-disease",
+   "count": 2
+ },
+ {
+   "year": 2013,
+   "topicName": "parkinsons-disease",
+   "count": 2
+ },
+ {
+   "year": 2014,
+   "topicName": "parkinsons-disease",
+   "count": 2
+ },
+ {
+   "year": 2010,
+   "topicName": "alzheimers-disease",
+   "count": 5
+ },
+ {
+   "year": 2011,
+   "topicName": "alzheimers-disease",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "alzheimers-disease",
+   "count": 2
+ },
+ {
+   "year": 2013,
+   "topicName": "alzheimers-disease",
+   "count": 5
+ },
+ {
+   "year": 2014,
+   "topicName": "alzheimers-disease",
+   "count": 1
+ },
+ {
+   "year": 2010,
+   "topicName": "epilepsy",
+   "count": 2
+ },
+ {
+   "year": 2011,
+   "topicName": "epilepsy",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "epilepsy",
+   "count": 2
+ },
+ {
+   "year": 2013,
+   "topicName": "epilepsy",
+   "count": 3
+ },
+ {
+   "year": 2014,
+   "topicName": "epilepsy",
+   "count": 4
+ },
+ {
+   "year": 2010,
+   "topicName": "multiple-sclerosis",
+   "count": 8
+ },
+ {
+   "year": 2011,
+   "topicName": "multiple-sclerosis",
+   "count": 1
+ },
+ {
+   "year": 2012,
+   "topicName": "multiple-sclerosis",
+   "count": 3
+ },
+ {
+   "year": 2013,
+   "topicName": "multiple-sclerosis",
+   "count": 6
+ },
+ {
+   "year": 2014,
+   "topicName": "multiple-sclerosis",
+   "count": 6
+ },
+ {
+   "year": 2010,
+   "topicName": "pneumonia",
+   "count": 2
+ },
+ {
+   "year": 2011,
+   "topicName": "pneumonia",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "pneumonia",
+   "count": 10
+ },
+ {
+   "year": 2013,
+   "topicName": "pneumonia",
+   "count": 22
+ },
+ {
+   "year": 2014,
+   "topicName": "pneumonia",
+   "count": 28
+ },
+ {
+   "year": 2010,
+   "topicName": "chronic-obstructive-pulmonary-disease",
+   "count": 3
+ },
+ {
+   "year": 2011,
+   "topicName": "chronic-obstructive-pulmonary-disease",
+   "count": 0
+ },
+ {
+   "year": 2012,
+   "topicName": "chronic-obstructive-pulmonary-disease",
+   "count": 3
+ },
+ {
+   "year": 2013,
+   "topicName": "chronic-obstructive-pulmonary-disease",
+   "count": 8
+ },
+ {
+   "year": 2014,
+   "topicName": "chronic-obstructive-pulmonary-disease",
+   "count": 11
+ },
+ {
+   "year": 2010,
+   "topicName": "asthma",
+   "count": 11
+ },
+ {
+   "year": 2011,
+   "topicName": "asthma",
+   "count": 3
+ },
+ {
+   "year": 2012,
+   "topicName": "asthma",
+   "count": 12
+ },
+ {
+   "year": 2013,
+   "topicName": "asthma",
+   "count": 22
+ },
+ {
+   "year": 2014,
+   "topicName": "asthma",
+   "count": 21
+ },
+ {
+   "year": 2010,
+   "topicName": "bronchitis",
+   "count": 1
+ },
+ {
+   "year": 2011,
+   "topicName": "bronchitis",
+   "count": 2
+ },
+ {
+   "year": 2012,
+   "topicName": "bronchitis",
+   "count": 5
+ },
+ {
+   "year": 2013,
+   "topicName": "bronchitis",
+   "count": 19
+ },
+ {
+   "year": 2014,
+   "topicName": "bronchitis",
+   "count": 21
+ },
+ {
+   "year": 2010,
+   "topicName": "cough",
+   "count": 6
+ },
+ {
+   "year": 2011,
+   "topicName": "cough",
+   "count": 10
+ },
+ {
+   "year": 2012,
+   "topicName": "cough",
+   "count": 75
+ },
+ {
+   "year": 2013,
+   "topicName": "cough",
+   "count": 117
+ },
+ {
+   "year": 2014,
+   "topicName": "cough",
+   "count": 75
+ }
+]

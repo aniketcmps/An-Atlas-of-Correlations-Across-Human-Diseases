@@ -1,0 +1,2888 @@
+{
+  "nodes":
+  [
+   {
+     "id": "fracture-questions",
+     "group": 2,
+     "clusterid": 1
+   },
+   {
+     "id": "pain-questions",
+     "group": 1,
+     "clusterid": 6
+   },
+   {
+     "id": "swelling-questions",
+     "group": 1,
+     "clusterid": 10
+   },
+   {
+     "id": "bruise-questions",
+     "group": 1,
+     "clusterid": 17
+   },
+   {
+     "id": "ankle-questions",
+     "group": 1,
+     "clusterid": 9
+   },
+   {
+     "id": "healing-questions",
+     "group": 1,
+     "clusterid": 11
+   },
+   {
+     "id": "surgery-questions",
+     "group": 1,
+     "clusterid": 16
+   },
+   {
+     "id": "leg-questions",
+     "group": 1,
+     "clusterid": 15
+   },
+   {
+     "id": "walking-questions",
+     "group": 1,
+     "clusterid": 6
+   },
+   {
+     "id": "hand-questions",
+     "group": 1,
+     "clusterid": 6
+   },
+   {
+     "id": "foot-questions",
+     "group": 1,
+     "clusterid": 13
+   },
+   {
+     "id": "movement-questions",
+     "group": 1,
+     "clusterid": 16
+   },
+   {
+     "id": "sprain-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "pressure-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "scoliosis-questions",
+     "group": 2,
+     "clusterid": 2
+   },
+   {
+     "id": "finger-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "spine-questions",
+     "group": 1,
+     "clusterid": 19
+   },
+   {
+     "id": "stress-fracture-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "toe-questions",
+     "group": 1,
+     "clusterid": 18
+   },
+   {
+     "id": "knee-questions",
+     "group": 1,
+     "clusterid": 15
+   },
+   {
+     "id": "x-ray-questions",
+     "group": 1,
+     "clusterid": 17
+   },
+   {
+     "id": "osteoarthritis-questions",
+     "group": 2,
+     "clusterid": 5
+   },
+   {
+     "id": "weight-questions",
+     "group": 1,
+     "clusterid": 12
+   },
+   {
+     "id": "exercise-questions",
+     "group": 1,
+     "clusterid": 15
+   },
+   {
+     "id": "trauma-questions",
+     "group": 1,
+     "clusterid": 9
+   },
+   {
+     "id": "injury-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "wrist-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "skin-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "arthritis-questions",
+     "group": 1,
+     "clusterid": 6
+   },
+   {
+     "id": "arm-questions",
+     "group": 1,
+     "clusterid": 11
+   },
+   {
+     "id": "bone-spurs-questions",
+     "group": 2,
+     "clusterid": 4
+   },
+   {
+     "id": "shin-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "physical-therapy-questions",
+     "group": 1,
+     "clusterid": 6
+   },
+   {
+     "id": "back-pain-questions",
+     "group": 1,
+     "clusterid": 19
+   },
+   {
+     "id": "osteoporosis-questions",
+     "group": 2,
+     "clusterid": 3
+   },
+   {
+     "id": "fever-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "sunscreen-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "fibromyalgia-questions",
+     "group": 1,
+     "clusterid": 10
+   },
+   {
+     "id": "injection-questions",
+     "group": 1,
+     "clusterid": 12
+   },
+   {
+     "id": "range-of-motion-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "tibia-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "head-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "thumb-questions",
+     "group": 1,
+     "clusterid": 6
+   },
+   {
+     "id": "femur-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "acne-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "birth-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "vision-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "pelvis-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "shoulder-questions",
+     "group": 1,
+     "clusterid": 14
+   },
+   {
+     "id": "numbness-questions",
+     "group": 1,
+     "clusterid": 12
+   },
+   {
+     "id": "tooth-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "big-toe-questions",
+     "group": 1,
+     "clusterid": 11
+   },
+   {
+     "id": "heel-questions",
+     "group": 1,
+     "clusterid": 9
+   },
+   {
+     "id": "stress-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "elbow-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "dislocation-questions",
+     "group": 1,
+     "clusterid": 12
+   },
+   {
+     "id": "menopause-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "rheumatoid-arthritis-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "drug-questions",
+     "group": 1,
+     "clusterid": 7
+   },
+   {
+     "id": "cervix-questions",
+     "group": 1,
+     "clusterid": 9
+   },
+   {
+     "id": "nerve-questions",
+     "group": 1,
+     "clusterid": 9
+   },
+   {
+     "id": "family-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "neck-questions",
+     "group": 1,
+     "clusterid": 15
+   },
+   {
+     "id": "cat-scan-questions",
+     "group": 1,
+     "clusterid": 9
+   },
+   {
+     "id": "little-finger-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "degenerative-disc-disease-questions",
+     "group": 1,
+     "clusterid": 10
+   },
+   {
+     "id": "muscle-questions",
+     "group": 1,
+     "clusterid": 13
+   },
+   {
+     "id": "spina-bifida-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "wrinkle-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "treadmill-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "toddler-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "immune-system-questions",
+     "group": 1,
+     "clusterid": 12
+   },
+   {
+     "id": "confusion-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "inflammation-questions",
+     "group": 1,
+     "clusterid": 9
+   },
+   {
+     "id": "ibuprofen-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "coldness-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "fingernail-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "occulta-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "exercise-stress-test-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "insurance-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "calf-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "flu-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "skull-fracture-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "drainage-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "antidepressant-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "hematoma-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "soft-tissue-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "vitamin-questions",
+     "group": 1,
+     "clusterid": 8
+   },
+   {
+     "id": "vitamin-d-deficiency-questions",
+     "group": 1,
+     "clusterid": 3
+   },
+   {
+     "id": "obesity-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "b12-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "lower-jaw-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "milk-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "ribcage-questions",
+     "group": 1,
+     "clusterid": 3
+   },
+   {
+     "id": "pore-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "head-injury-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "jaw-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "magnetic-resonance-imaging-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "lump-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "nose-questions",
+     "group": 1,
+     "clusterid": 6
+   },
+   {
+     "id": "splint-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "chest-questions",
+     "group": 1,
+     "clusterid": 12
+   },
+   {
+     "id": "osteopenia-questions",
+     "group": 1,
+     "clusterid": 3
+   },
+   {
+     "id": "baby-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "taste-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "brain-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "cold-sore-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "penis-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "food-questions",
+     "group": 1,
+     "clusterid": 3
+   },
+   {
+     "id": "hike-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "shock-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "pilates-questions",
+     "group": 1,
+     "clusterid": 3
+   },
+   {
+     "id": "mouth-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "canker-sore-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "masturbation-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "referred-pain-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "tailbone-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "burn-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "labor-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "breast-questions",
+     "group": 1,
+     "clusterid": 17
+   },
+   {
+     "id": "chronic-obstructive-pulmonary-disease-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "erection-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "antibiotic-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "testicle-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "ligament-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "acupuncture-questions",
+     "group": 1,
+     "clusterid": 4
+   },
+   {
+     "id": "laminotomy-questions",
+     "group": 1,
+     "clusterid": 4
+   },
+   {
+     "id": "ears-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "tendon-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "wisdom-tooth-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "graft-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "spinal-fusion-questions",
+     "group": 1,
+     "clusterid": 3
+   },
+   {
+     "id": "supplement-questions",
+     "group": 1,
+     "clusterid": 4
+   },
+   {
+     "id": "hip-replacement",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "orange-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "cartilage-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "height-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "weakness-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "collarbone-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "ejaculation-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "heart-questions",
+     "group": 1,
+     "clusterid": 2
+   },
+   {
+     "id": "stroke-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "running-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "vitamin-d-questions",
+     "group": 1,
+     "clusterid": 3
+   },
+   {
+     "id": "epidural-questions",
+     "group": 1,
+     "clusterid": 4
+   },
+   {
+     "id": "period-questions",
+     "group": 1,
+     "clusterid": 1
+   },
+   {
+     "id": "tendonitis-questions",
+     "group": 1,
+     "clusterid": 5
+   },
+   {
+     "id": "spinach-questions",
+     "group": 1,
+     "clusterid": 3
+   }
+  ]  ,
+  "links":
+ [
+ {
+   "source": "fracture-questions",
+   "target": "pain-questions",
+   "value": 20
+ },
+ {
+   "source": "pain-questions",
+   "target": "fracture-questions",
+   "value": 20
+ },
+ {
+   "source": "swelling-questions",
+   "target": "fracture-questions",
+   "value": 8
+ },
+ {
+   "source": "fracture-questions",
+   "target": "healing-questions",
+   "value": 8
+ },
+ {
+   "source": "bruise-questions",
+   "target": "fracture-questions",
+   "value": 8
+ },
+ {
+   "source": "ankle-questions",
+   "target": "fracture-questions",
+   "value": 8
+ },
+ {
+   "source": "healing-questions",
+   "target": "fracture-questions",
+   "value": 8
+ },
+ {
+   "source": "fracture-questions",
+   "target": "bruise-questions",
+   "value": 8
+ },
+ {
+   "source": "fracture-questions",
+   "target": "ankle-questions",
+   "value": 8
+ },
+ {
+   "source": "fracture-questions",
+   "target": "swelling-questions",
+   "value": 8
+ },
+ {
+   "source": "fracture-questions",
+   "target": "surgery-questions",
+   "value": 8
+ },
+ {
+   "source": "surgery-questions",
+   "target": "fracture-questions",
+   "value": 8
+ },
+ {
+   "source": "fracture-questions",
+   "target": "walking-questions",
+   "value": 7
+ },
+ {
+   "source": "fracture-questions",
+   "target": "hand-questions",
+   "value": 7
+ },
+ {
+   "source": "fracture-questions",
+   "target": "leg-questions",
+   "value": 7
+ },
+ {
+   "source": "leg-questions",
+   "target": "fracture-questions",
+   "value": 7
+ },
+ {
+   "source": "walking-questions",
+   "target": "fracture-questions",
+   "value": 7
+ },
+ {
+   "source": "hand-questions",
+   "target": "fracture-questions",
+   "value": 7
+ },
+ {
+   "source": "fracture-questions",
+   "target": "movement-questions",
+   "value": 6
+ },
+ {
+   "source": "foot-questions",
+   "target": "fracture-questions",
+   "value": 6
+ },
+ {
+   "source": "movement-questions",
+   "target": "fracture-questions",
+   "value": 6
+ },
+ {
+   "source": "fracture-questions",
+   "target": "foot-questions",
+   "value": 6
+ },
+ {
+   "source": "pain-questions",
+   "target": "scoliosis-questions",
+   "value": 5
+ },
+ {
+   "source": "fracture-questions",
+   "target": "pressure-questions",
+   "value": 5
+ },
+ {
+   "source": "sprain-questions",
+   "target": "fracture-questions",
+   "value": 5
+ },
+ {
+   "source": "pressure-questions",
+   "target": "fracture-questions",
+   "value": 5
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "pain-questions",
+   "value": 5
+ },
+ {
+   "source": "fracture-questions",
+   "target": "sprain-questions",
+   "value": 5
+ },
+ {
+   "source": "finger-questions",
+   "target": "fracture-questions",
+   "value": 4
+ },
+ {
+   "source": "fracture-questions",
+   "target": "finger-questions",
+   "value": 4
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "spine-questions",
+   "value": 4
+ },
+ {
+   "source": "fracture-questions",
+   "target": "toe-questions",
+   "value": 4
+ },
+ {
+   "source": "fracture-questions",
+   "target": "stress-fracture-questions",
+   "value": 4
+ },
+ {
+   "source": "spine-questions",
+   "target": "scoliosis-questions",
+   "value": 4
+ },
+ {
+   "source": "stress-fracture-questions",
+   "target": "fracture-questions",
+   "value": 4
+ },
+ {
+   "source": "toe-questions",
+   "target": "fracture-questions",
+   "value": 4
+ },
+ {
+   "source": "knee-questions",
+   "target": "osteoarthritis-questions",
+   "value": 3
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "weight-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "trauma-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "wrist-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "skin-questions",
+   "value": 3
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "arthritis-questions",
+   "value": 3
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "knee-questions",
+   "value": 3
+ },
+ {
+   "source": "weight-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "exercise-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "trauma-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "injury-questions",
+   "value": 3
+ },
+ {
+   "source": "injury-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "wrist-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "skin-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "exercise-questions",
+   "value": 3
+ },
+ {
+   "source": "arthritis-questions",
+   "target": "osteoarthritis-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "x-ray-questions",
+   "value": 3
+ },
+ {
+   "source": "arm-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "arm-questions",
+   "value": 3
+ },
+ {
+   "source": "pain-questions",
+   "target": "bone-spurs-questions",
+   "value": 3
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "surgery-questions",
+   "value": 3
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "pain-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "shin-questions",
+   "value": 3
+ },
+ {
+   "source": "shin-questions",
+   "target": "fracture-questions",
+   "value": 3
+ },
+ {
+   "source": "surgery-questions",
+   "target": "bone-spurs-questions",
+   "value": 3
+ },
+ {
+   "source": "fracture-questions",
+   "target": "sunscreen-questions",
+   "value": 2
+ },
+ {
+   "source": "arthritis-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "shoulder-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "leg-questions",
+   "value": 2
+ },
+ {
+   "source": "movement-questions",
+   "target": "scoliosis-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "head-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "arthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "leg-questions",
+   "target": "scoliosis-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "range-of-motion-questions",
+   "value": 2
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "birth-questions",
+   "value": 2
+ },
+ {
+   "source": "physical-therapy-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "movement-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "thumb-questions",
+   "value": 2
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "scoliosis-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "fever-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "tibia-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "knee-questions",
+   "value": 2
+ },
+ {
+   "source": "sunscreen-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "injection-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "fever-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "leg-questions",
+   "target": "osteoarthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "back-pain-questions",
+   "value": 2
+ },
+ {
+   "source": "knee-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "injection-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "shoulder-questions",
+   "value": 2
+ },
+ {
+   "source": "range-of-motion-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "exercise-questions",
+   "target": "osteoarthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "physical-therapy-questions",
+   "value": 2
+ },
+ {
+   "source": "tibia-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "swelling-questions",
+   "value": 2
+ },
+ {
+   "source": "head-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "thumb-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "femur-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "vision-questions",
+   "value": 2
+ },
+ {
+   "source": "acne-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "pelvis-questions",
+   "value": 2
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "leg-questions",
+   "value": 2
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "osteoarthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "birth-questions",
+   "target": "scoliosis-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "scoliosis-questions",
+   "value": 2
+ },
+ {
+   "source": "swelling-questions",
+   "target": "osteoarthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "femur-questions",
+   "value": 2
+ },
+ {
+   "source": "vision-questions",
+   "target": "scoliosis-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "acne-questions",
+   "value": 2
+ },
+ {
+   "source": "pelvis-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "scoliosis-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "exercise-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "osteoporosis-questions",
+   "value": 2
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "osteoporosis-questions",
+   "value": 2
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "fibromyalgia-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "numbness-questions",
+   "value": 2
+ },
+ {
+   "source": "foot-questions",
+   "target": "osteoarthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "tooth-questions",
+   "value": 2
+ },
+ {
+   "source": "numbness-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "healing-questions",
+   "value": 2
+ },
+ {
+   "source": "tooth-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "heel-questions",
+   "value": 2
+ },
+ {
+   "source": "big-toe-questions",
+   "target": "bone-spurs-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "stress-questions",
+   "value": 2
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "foot-questions",
+   "value": 2
+ },
+ {
+   "source": "heel-questions",
+   "target": "bone-spurs-questions",
+   "value": 2
+ },
+ {
+   "source": "stress-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "elbow-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "dislocation-questions",
+   "target": "fracture-questions",
+   "value": 2
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "big-toe-questions",
+   "value": 2
+ },
+ {
+   "source": "healing-questions",
+   "target": "bone-spurs-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "elbow-questions",
+   "value": 2
+ },
+ {
+   "source": "fracture-questions",
+   "target": "dislocation-questions",
+   "value": 2
+ },
+ {
+   "source": "knee-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "shoulder-questions",
+   "value": 1
+ },
+ {
+   "source": "rheumatoid-arthritis-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "healing-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "cervix-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "numbness-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "nerve-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "immune-system-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "cervix-questions",
+   "value": 1
+ },
+ {
+   "source": "thumb-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "vitamin-d-deficiency-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "spina-bifida-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "big-toe-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "wrinkle-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "treadmill-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "milk-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "toddler-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "immune-system-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "walking-questions",
+   "value": 1
+ },
+ {
+   "source": "dislocation-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "big-toe-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "cat-scan-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "little-finger-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "degenerative-disc-disease-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "cervix-questions",
+   "value": 1
+ },
+ {
+   "source": "physical-therapy-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "ribcage-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "spina-bifida-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "trauma-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "obesity-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "big-toe-questions",
+   "value": 1
+ },
+ {
+   "source": "wrinkle-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "treadmill-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "magnetic-resonance-imaging-questions",
+   "value": 1
+ },
+ {
+   "source": "toddler-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "immune-system-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "walking-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "head-injury-questions",
+   "value": 1
+ },
+ {
+   "source": "inflammation-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "ibuprofen-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "coldness-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "vitamin-questions",
+   "value": 1
+ },
+ {
+   "source": "fingernail-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "degenerative-disc-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "toe-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "cat-scan-questions",
+   "value": 1
+ },
+ {
+   "source": "hand-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "occulta-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "movement-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "pore-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-stress-test-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "calf-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "skull-fracture-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "knee-questions",
+   "value": 1
+ },
+ {
+   "source": "drainage-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "antidepressant-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "rheumatoid-arthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "ankle-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "soft-tissue-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "healing-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "lower-jaw-questions",
+   "value": 1
+ },
+ {
+   "source": "immune-system-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "cervix-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "lump-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "exercise-stress-test-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "calf-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "hematoma-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "drainage-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "dislocation-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "ankle-questions",
+   "value": 1
+ },
+ {
+   "source": "soft-tissue-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "big-toe-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "jaw-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "numbness-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "fingernail-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "degenerative-disc-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "cat-scan-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-d-deficiency-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "obesity-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "x-ray-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "skull-fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "ibuprofen-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "b12-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "lower-jaw-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "milk-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "toe-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "trauma-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "ribcage-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "cat-scan-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "thumb-questions",
+   "value": 1
+ },
+ {
+   "source": "pore-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "splint-questions",
+   "value": 1
+ },
+ {
+   "source": "degenerative-disc-disease-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "head-injury-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "hematoma-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "antidepressant-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "inflammation-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "b12-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "jaw-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "coldness-questions",
+   "value": 1
+ },
+ {
+   "source": "magnetic-resonance-imaging-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "little-finger-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "occulta-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "physical-therapy-questions",
+   "value": 1
+ },
+ {
+   "source": "lump-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "splint-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "movement-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "shoulder-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "chest-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "spine-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "supplement-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "spine-questions",
+   "value": 1
+ },
+ {
+   "source": "osteopenia-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "hike-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "shock-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "tailbone-questions",
+   "value": 1
+ },
+ {
+   "source": "baby-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "heart-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "foot-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "laminotomy-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "pilates-questions",
+   "value": 1
+ },
+ {
+   "source": "taste-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "cold-sore-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "toe-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "breast-questions",
+   "value": 1
+ },
+ {
+   "source": "penis-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "ears-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "referred-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "spine-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "hike-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "shock-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "orange-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "baby-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "chest-questions",
+   "value": 1
+ },
+ {
+   "source": "foot-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "inflammation-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "pilates-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "mouth-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "degenerative-disc-disease-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "brain-questions",
+   "value": 1
+ },
+ {
+   "source": "canker-sore-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "toe-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "masturbation-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "cartilage-questions",
+   "value": 1
+ },
+ {
+   "source": "referred-pain-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "chest-questions",
+   "value": 1
+ },
+ {
+   "source": "spine-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "vitamin-questions",
+   "value": 1
+ },
+ {
+   "source": "tailbone-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "testicle-questions",
+   "value": 1
+ },
+ {
+   "source": "burn-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "ligament-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "epidural-questions",
+   "value": 1
+ },
+ {
+   "source": "labor-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "breast-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "chronic-obstructive-pulmonary-disease-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "toe-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "cold-sore-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "tendon-questions",
+   "value": 1
+ },
+ {
+   "source": "erection-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "weakness-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "wisdom-tooth-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "graft-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "spinal-fusion-questions",
+   "value": 1
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "movement-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "hip-replacement",
+   "value": 1
+ },
+ {
+   "source": "bruise-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "osteopenia-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "testicle-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "burn-questions",
+   "value": 1
+ },
+ {
+   "source": "ligament-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "acupuncture-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "laminotomy-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "labor-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "breast-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "canker-sore-questions",
+   "value": 1
+ },
+ {
+   "source": "ears-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "tendon-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "erection-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "stroke-questions",
+   "value": 1
+ },
+ {
+   "source": "wisdom-tooth-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "graft-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "spinal-fusion-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "antibiotic-questions",
+   "value": 1
+ },
+ {
+   "source": "supplement-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "hip-replacement",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "running-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "vitamin-d-questions",
+   "value": 1
+ },
+ {
+   "source": "orange-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "tendonitis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "degenerative-disc-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "toe-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "spinach-questions",
+   "value": 1
+ },
+ {
+   "source": "cartilage-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "taste-questions",
+   "value": 1
+ },
+ {
+   "source": "height-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "weakness-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "heel-questions",
+   "value": 1
+ },
+ {
+   "source": "breast-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "penis-questions",
+   "value": 1
+ },
+ {
+   "source": "nerve-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "collarbone-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "bruise-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "ejaculation-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "stroke-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "heel-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "masturbation-questions",
+   "value": 1
+ },
+ {
+   "source": "movement-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "collarbone-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoporosis-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "running-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-d-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "ejaculation-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "chest-questions",
+   "target": "scoliosis-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "acupuncture-questions",
+   "value": 1
+ },
+ {
+   "source": "epidural-questions",
+   "target": "bone-spurs-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-spurs-questions",
+   "target": "inflammation-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "fracture-questions",
+   "value": 1
+ },
+ {
+   "source": "tendonitis-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "chronic-obstructive-pulmonary-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "spinach-questions",
+   "target": "osteoporosis-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "fracture-questions",
+   "target": "mouth-questions",
+   "value": 1
+ },
+ {
+   "source": "scoliosis-questions",
+   "target": "height-questions",
+   "value": 1
+ }
+]
+}

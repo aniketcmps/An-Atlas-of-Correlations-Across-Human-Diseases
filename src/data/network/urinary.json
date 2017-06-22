@@ -1,0 +1,2498 @@
+{
+"nodes":
+[
+ {
+   "id": "acetaminophen-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "acupuncture-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "amoxicillin-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "anemia-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "ankle-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "antibiotic-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "appendix-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "baby-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "back-pain-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "bacterium-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "birth-control-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "bladder-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "bladder-stone-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "blood-clot-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "blood-pressure-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "blood-test-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "brain-hemorrhage-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "breastfeed-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bruise-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "burn-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "caffeine-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "calcium-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cardiac-arrest-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "catheter-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cat-scan-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cats-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "cholesterol-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "circulation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "colon-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "confusion-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "congestive-heart-failure-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "cyst-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "dementia-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "diabetes-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "dialysis-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "diet-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "drug-overdose-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "drug-test-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "ears-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "edema-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "emergency-room-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "enema-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "erection-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "estrogen-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "exercise-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "eyes-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "fever-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "fingernail-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "food-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "gallbladder-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "grains-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hallucination-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "headache-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "head-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "healing-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "heart-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "high-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "injury-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "insurance-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "jaw-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "kidney-cancer-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "kidney-disease-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "kidney-failure-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "kidney-infection-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "kidney-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "kidney-stone-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "laboratory-test-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "lightheadedness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lithotripsy-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "liver-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "lung-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "magnetic-resonance-imaging-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "marijuana-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "masturbation-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "methicillin-resistant-staphylococcus-aureus-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "movement-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nausea-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "neck-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "neuropathy-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "newborn-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "nose-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "nutrition-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "orange-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ovary-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "peanut-butter-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "penis-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pepper-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "period-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "potassium-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "pre-existing-condition",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pregnancy-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "pressure-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "protein-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "rash-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "sepsis-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "shingles-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "short-stature-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "skin-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "smell-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "soda-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sore-throat-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "spotting-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "staph-infection-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "stent-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "stomach-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "strep-throat-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "stroke-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "supplement-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "temperature-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "testicle-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "throat-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "thyroidectomy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tightness-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "tonsil-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "toothache-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "urethra-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "uric-acid-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "urinalysis-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "urinary-tract-infection-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "urinary-tract-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "urination-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "vaccines-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "vagina-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "vinegar-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "virus-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "weakness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weight-loss-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "x-ray-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "yeast-infection-questions",
+   "group": 1,
+   "clusterid": 8
+ }
+],
+"links":
+[
+ {
+   "source": "kidney-stone-questions",
+   "target": "pain-questions",
+   "value": 19
+ },
+ {
+   "source": "pain-questions",
+   "target": "kidney-stone-questions",
+   "value": 19
+ },
+ {
+   "source": "kidney-questions",
+   "target": "kidney-stone-questions",
+   "value": 12
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "kidney-questions",
+   "value": 12
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "urination-questions",
+   "value": 9
+ },
+ {
+   "source": "urination-questions",
+   "target": "kidney-stone-questions",
+   "value": 9
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "antibiotic-questions",
+   "value": 7
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "kidney-infection-questions",
+   "value": 7
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 6
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "antibiotic-questions",
+   "value": 6
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "vision-questions",
+   "value": 4
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "pain-questions",
+   "value": 4
+ },
+ {
+   "source": "pain-questions",
+   "target": "kidney-infection-questions",
+   "value": 4
+ },
+ {
+   "source": "pain-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 4
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "pain-questions",
+   "value": 4
+ },
+ {
+   "source": "vision-questions",
+   "target": "kidney-stone-questions",
+   "value": 4
+ },
+ {
+   "source": "kidney-questions",
+   "target": "kidney-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "vision-questions",
+   "value": 3
+ },
+ {
+   "source": "vision-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 3
+ },
+ {
+   "source": "drinking-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 3
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 3
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "drinking-questions",
+   "value": 3
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "stent-questions",
+   "value": 3
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 3
+ },
+ {
+   "source": "stent-questions",
+   "target": "kidney-stone-questions",
+   "value": 3
+ },
+ {
+   "source": "diet-questions",
+   "target": "kidney-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "diet-questions",
+   "value": 3
+ },
+ {
+   "source": "catheter-questions",
+   "target": "kidney-stone-questions",
+   "value": 3
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "catheter-questions",
+   "value": 3
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "kidney-questions",
+   "value": 3
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "food-questions",
+   "value": 2
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "burn-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "pregnancy-questions",
+   "value": 2
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "pregnancy-questions",
+   "value": 2
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "kidney-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "rash-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "pregnancy-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "orange-questions",
+   "value": 2
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "kidney-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "orange-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "kidney-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "cat-scan-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "amoxicillin-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "potassium-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "antibiotic-questions",
+   "value": 2
+ },
+ {
+   "source": "bladder-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "amoxicillin-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "movement-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "cat-scan-questions",
+   "value": 2
+ },
+ {
+   "source": "movement-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "potassium-questions",
+   "target": "kidney-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "bladder-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "kidney-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "kidney-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "food-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 2
+ },
+ {
+   "source": "calcium-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "food-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "burn-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "burn-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "calcium-questions",
+   "value": 2
+ },
+ {
+   "source": "drinking-questions",
+   "target": "kidney-stone-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "bacterium-questions",
+   "value": 2
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "bladder-questions",
+   "target": "kidney-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "back-pain-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "bladder-questions",
+   "value": 2
+ },
+ {
+   "source": "burn-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "drinking-questions",
+   "value": 2
+ },
+ {
+   "source": "rash-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "food-questions",
+   "target": "kidney-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "nose-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "dialysis-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "soda-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "baby-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "bruise-questions",
+   "value": 1
+ },
+ {
+   "source": "uric-acid-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "cats-questions",
+   "value": 1
+ },
+ {
+   "source": "edema-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "sore-throat-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "liver-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "cyst-questions",
+   "value": 1
+ },
+ {
+   "source": "sepsis-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "laboratory-test-questions",
+   "value": 1
+ },
+ {
+   "source": "lithotripsy-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "penis-questions",
+   "value": 1
+ },
+ {
+   "source": "pepper-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "stomach-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "liver-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "cholesterol-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "staph-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "rash-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "ankle-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "kidney-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "vaccines-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-clot-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "estrogen-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "yeast-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "newborn-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "enema-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "urethra-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "anemia-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "nausea-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "methicillin-resistant-staphylococcus-aureus-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "kidney-questions",
+   "value": 1
+ },
+ {
+   "source": "cardiac-arrest-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "urinalysis-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-hemorrhage-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "skin-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "stomach-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "head-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "peanut-butter-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "nutrition-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "estrogen-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "yeast-infection-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "tonsil-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "enema-questions",
+   "value": 1
+ },
+ {
+   "source": "urethra-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "anemia-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "methicillin-resistant-staphylococcus-aureus-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "cardiac-arrest-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "blood-test-questions",
+   "value": 1
+ },
+ {
+   "source": "rash-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "stomach-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "circulation-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "dialysis-questions",
+   "value": 1
+ },
+ {
+   "source": "birth-control-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "peanut-butter-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "nutrition-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "marijuana-questions",
+   "value": 1
+ },
+ {
+   "source": "dementia-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "acupuncture-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "ankle-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "vaccines-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "bladder-stone-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "sepsis-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "hallucination-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "strep-throat-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "newborn-questions",
+   "value": 1
+ },
+ {
+   "source": "breastfeed-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "sepsis-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "acetaminophen-questions",
+   "value": 1
+ },
+ {
+   "source": "acetaminophen-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "hallucination-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "breastfeed-questions",
+   "value": 1
+ },
+ {
+   "source": "toothache-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "toothache-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "heart-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "stent-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "x-ray-questions",
+   "value": 1
+ },
+ {
+   "source": "erection-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "testicle-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "newborn-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "lithotripsy-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "erection-questions",
+   "value": 1
+ },
+ {
+   "source": "testicle-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "stent-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 1
+ },
+ {
+   "source": "stent-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "virus-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "masturbation-questions",
+   "value": 1
+ },
+ {
+   "source": "virus-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "lithotripsy-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "colon-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "tonsil-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "newborn-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "gallbladder-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "masturbation-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "colon-questions",
+   "value": 1
+ },
+ {
+   "source": "strep-throat-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "gallbladder-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "stent-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "protein-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "shingles-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "temperature-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "thyroidectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "appendix-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "neuropathy-questions",
+   "value": 1
+ },
+ {
+   "source": "ovary-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "weakness-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "injury-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "caffeine-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "tightness-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroidectomy-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "appendix-questions",
+   "value": 1
+ },
+ {
+   "source": "neuropathy-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "cyst-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "lightheadedness-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "injury-questions",
+   "value": 1
+ },
+ {
+   "source": "protein-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "rash-questions",
+   "value": 1
+ },
+ {
+   "source": "dialysis-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "spotting-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "emergency-room-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "eyes-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "shingles-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "throat-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-clot-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "caffeine-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "eyes-questions",
+   "value": 1
+ },
+ {
+   "source": "rash-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "temperature-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "dialysis-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "ovary-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "emergency-room-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "magnetic-resonance-imaging-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-overdose-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "tightness-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "vagina-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "cyst-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "spotting-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "weakness-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "drug-overdose-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "throat-questions",
+   "value": 1
+ },
+ {
+   "source": "vagina-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "blood-clot-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "lightheadedness-questions",
+   "value": 1
+ },
+ {
+   "source": "magnetic-resonance-imaging-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "pre-existing-condition",
+   "value": 1
+ },
+ {
+   "source": "kidney-cancer-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-test-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "weight-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "urinalysis-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "brain-hemorrhage-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "fever-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "emergency-room-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "stroke-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "head-questions",
+   "value": 1
+ },
+ {
+   "source": "fingernail-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "yeast-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "vinegar-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "lung-questions",
+   "value": 1
+ },
+ {
+   "source": "baby-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "ears-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "edema-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "blood-clot-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "strep-throat-questions",
+   "value": 1
+ },
+ {
+   "source": "healing-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "protein-questions",
+   "value": 1
+ },
+ {
+   "source": "jaw-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "supplement-questions",
+   "value": 1
+ },
+ {
+   "source": "grains-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "stomach-questions",
+   "value": 1
+ },
+ {
+   "source": "nausea-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "bacterium-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "emergency-room-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "birth-control-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "fingernail-questions",
+   "value": 1
+ },
+ {
+   "source": "yeast-infection-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "marijuana-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "dementia-questions",
+   "value": 1
+ },
+ {
+   "source": "vinegar-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "lung-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "baby-questions",
+   "value": 1
+ },
+ {
+   "source": "cats-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "bladder-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "sore-throat-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "healing-questions",
+   "value": 1
+ },
+ {
+   "source": "protein-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "cyst-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "supplement-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "grains-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "lithotripsy-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "kidney-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "penis-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "urinary-tract-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "fever-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "liver-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "circulation-questions",
+   "value": 1
+ },
+ {
+   "source": "stroke-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "staph-infection-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "skin-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-failure-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "kidney-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "soda-questions",
+   "value": 1
+ },
+ {
+   "source": "baby-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "bruise-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "uric-acid-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "ears-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "acupuncture-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "strep-throat-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "liver-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "jaw-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "sepsis-questions",
+   "value": 1
+ },
+ {
+   "source": "laboratory-test-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "pre-existing-condition",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "kidney-stone-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "drug-test-questions",
+   "value": 1
+ },
+ {
+   "source": "urinary-tract-infection-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-stone-questions",
+   "target": "pepper-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-infection-questions",
+   "target": "urinary-tract-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-loss-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "urinary-tract-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "kidney-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "smell-questions",
+   "value": 1
+ }
+]
+}

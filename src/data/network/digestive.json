@@ -1,0 +1,2258 @@
+{
+"nodes":
+[
+ {
+   "id": "abdominal-pain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "acetaminophen-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "antibiotic-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "anus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "anxiety-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "appendix-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "aspirin-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "back-pain-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "bacterial-vaginosis-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "biopsy-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "bladder-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "blister-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "blood-sugar-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "blood-test-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "bowel-movement-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "brain-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "burn-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cancer-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "cervix-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "colon-cancer-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "colonoscopy-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "colon-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "concentration-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "constipation-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cyst-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "depression-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "diabetes-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "diarrhea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "diet-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "diverticulitis-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "diverticulosis-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "dizziness-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "ears-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "endoscopy-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "epidural-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "erection-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "fatigue-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "fear-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fiber-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "finger-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "food-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "fruit-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "gallbladder-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "gallstone-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "hand-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "headache-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "head-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "heart-attack-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "heart-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "hemangioma-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "hemmorhoid-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hemorrhoid-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "hepatitis-a-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "hepatitis-c-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "herpes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hiv-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "hydrocortisone-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hysterectomy-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "ibuprofen-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "infection-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "injection-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "injury-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "intestine-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "jaw-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "jelly-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lactose-intolerance-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "liver-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "lump-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "magnetic-resonance-imaging-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "marijuana-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "meal-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "menopause-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "menstrual-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "migraine-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "milk-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "movement-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nose-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "oatmeal-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "over-the-counter-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ovulation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "oxycodone-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "pancreas-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "penis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "period-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "platelet-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "polyp-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "popcorn-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "pregnancy-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "pressure-ulcer-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "protein-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "rectum-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "running-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "sinus-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "skin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "small-intestine-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "sperm-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "spotting-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "stomach-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "stress-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "stroke-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 18
+ },
+ {
+   "id": "sweating-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "temperature-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "thermal-ablation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "throat-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "tooth-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "tumor-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "uterus-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "vagina-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "vertigo-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "vitamin-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "vomit-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "walking-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weight-gain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weight-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "yogurt-questions",
+   "group": 1,
+   "clusterid": 3
+ }
+],
+"links":
+[
+ {
+   "source": "hemorrhoid-questions",
+   "target": "pain-questions",
+   "value": 8
+ },
+ {
+   "source": "pain-questions",
+   "target": "hemorrhoid-questions",
+   "value": 8
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "pain-questions",
+   "value": 8
+ },
+ {
+   "source": "pain-questions",
+   "target": "gallstone-questions",
+   "value": 8
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "pain-questions",
+   "value": 6
+ },
+ {
+   "source": "pain-questions",
+   "target": "diverticulitis-questions",
+   "value": 6
+ },
+ {
+   "source": "bowel-movement-questions",
+   "target": "hemorrhoid-questions",
+   "value": 4
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "bowel-movement-questions",
+   "value": 4
+ },
+ {
+   "source": "drinking-questions",
+   "target": "hemorrhoid-questions",
+   "value": 4
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "drinking-questions",
+   "value": 4
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "liver-questions",
+   "value": 4
+ },
+ {
+   "source": "polyp-questions",
+   "target": "cancer-questions",
+   "value": 4
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "surgery-questions",
+   "value": 4
+ },
+ {
+   "source": "liver-questions",
+   "target": "hepatitis-c-questions",
+   "value": 4
+ },
+ {
+   "source": "surgery-questions",
+   "target": "hemorrhoid-questions",
+   "value": 4
+ },
+ {
+   "source": "cancer-questions",
+   "target": "polyp-questions",
+   "value": 4
+ },
+ {
+   "source": "colonoscopy-questions",
+   "target": "hemorrhoid-questions",
+   "value": 3
+ },
+ {
+   "source": "anus-questions",
+   "target": "hemorrhoid-questions",
+   "value": 3
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "rectum-questions",
+   "value": 3
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "anus-questions",
+   "value": 3
+ },
+ {
+   "source": "rectum-questions",
+   "target": "hemorrhoid-questions",
+   "value": 3
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "liver-questions",
+   "value": 3
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "colonoscopy-questions",
+   "value": 3
+ },
+ {
+   "source": "polyp-questions",
+   "target": "uterus-questions",
+   "value": 3
+ },
+ {
+   "source": "liver-questions",
+   "target": "gallstone-questions",
+   "value": 3
+ },
+ {
+   "source": "uterus-questions",
+   "target": "polyp-questions",
+   "value": 3
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "diverticulitis-questions",
+   "value": 3
+ },
+ {
+   "source": "polyp-questions",
+   "target": "colonoscopy-questions",
+   "value": 3
+ },
+ {
+   "source": "polyp-questions",
+   "target": "sinus-questions",
+   "value": 3
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "diverticulosis-questions",
+   "value": 3
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "antibiotic-questions",
+   "value": 3
+ },
+ {
+   "source": "sinus-questions",
+   "target": "polyp-questions",
+   "value": 3
+ },
+ {
+   "source": "diverticulosis-questions",
+   "target": "diverticulitis-questions",
+   "value": 3
+ },
+ {
+   "source": "colonoscopy-questions",
+   "target": "polyp-questions",
+   "value": 3
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "leg-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "polyp-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "movement-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "walking-questions",
+   "value": 2
+ },
+ {
+   "source": "fear-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "bladder-questions",
+   "target": "gallstone-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "vagina-questions",
+   "value": 2
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "stomach-questions",
+   "value": 2
+ },
+ {
+   "source": "herpes-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "fear-questions",
+   "value": 2
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "diet-questions",
+   "value": 2
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "bladder-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "skin-questions",
+   "value": 2
+ },
+ {
+   "source": "leg-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "polyp-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "walking-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "colon-questions",
+   "target": "polyp-questions",
+   "value": 2
+ },
+ {
+   "source": "vagina-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "stomach-questions",
+   "target": "diverticulitis-questions",
+   "value": 2
+ },
+ {
+   "source": "movement-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "polyp-questions",
+   "target": "colon-questions",
+   "value": 2
+ },
+ {
+   "source": "skin-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "polyp-questions",
+   "target": "surgery-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "lump-questions",
+   "value": 2
+ },
+ {
+   "source": "diet-questions",
+   "target": "gallstone-questions",
+   "value": 2
+ },
+ {
+   "source": "polyp-questions",
+   "target": "rectum-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "swelling-questions",
+   "value": 2
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "gallstone-questions",
+   "value": 2
+ },
+ {
+   "source": "rectum-questions",
+   "target": "polyp-questions",
+   "value": 2
+ },
+ {
+   "source": "surgery-questions",
+   "target": "polyp-questions",
+   "value": 2
+ },
+ {
+   "source": "swelling-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "blood-test-questions",
+   "value": 2
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "lump-questions",
+   "target": "hemorrhoid-questions",
+   "value": 2
+ },
+ {
+   "source": "period-questions",
+   "target": "polyp-questions",
+   "value": 2
+ },
+ {
+   "source": "cervix-questions",
+   "target": "polyp-questions",
+   "value": 2
+ },
+ {
+   "source": "polyp-questions",
+   "target": "period-questions",
+   "value": 2
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "stomach-questions",
+   "value": 2
+ },
+ {
+   "source": "polyp-questions",
+   "target": "cervix-questions",
+   "value": 2
+ },
+ {
+   "source": "polyp-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 2
+ },
+ {
+   "source": "stomach-questions",
+   "target": "gallstone-questions",
+   "value": 2
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "polyp-questions",
+   "value": 2
+ },
+ {
+   "source": "hand-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "fruit-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "epidural-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "meal-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "ovulation-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "bacterial-vaginosis-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "small-intestine-questions",
+   "value": 1
+ },
+ {
+   "source": "fiber-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "finger-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "pancreas-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "hiv-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "erection-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "penis-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "hemangioma-questions",
+   "value": 1
+ },
+ {
+   "source": "cancer-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-sugar-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "depression-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "intestine-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "colonoscopy-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "popcorn-questions",
+   "value": 1
+ },
+ {
+   "source": "platelet-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "lactose-intolerance-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "hysterectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "jelly-questions",
+   "value": 1
+ },
+ {
+   "source": "endoscopy-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "antibiotic-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "hysterectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "colon-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "hiv-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "fiber-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "erection-questions",
+   "value": 1
+ },
+ {
+   "source": "hemangioma-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "anxiety-questions",
+   "value": 1
+ },
+ {
+   "source": "ears-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "bowel-movement-questions",
+   "value": 1
+ },
+ {
+   "source": "popcorn-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "stomach-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "aspirin-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "fruit-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "epidural-questions",
+   "value": 1
+ },
+ {
+   "source": "jaw-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "migraine-questions",
+   "value": 1
+ },
+ {
+   "source": "small-intestine-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "pancreas-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "bowel-movement-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "fiber-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "vagina-questions",
+   "value": 1
+ },
+ {
+   "source": "head-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "fatigue-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "running-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menstrual-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "heart-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "intestine-questions",
+   "value": 1
+ },
+ {
+   "source": "abdominal-pain-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "milk-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "tumor-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "protein-questions",
+   "value": 1
+ },
+ {
+   "source": "biopsy-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "constipation-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "hydrocortisone-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "oxycodone-questions",
+   "value": 1
+ },
+ {
+   "source": "burn-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "sweating-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "spotting-questions",
+   "value": 1
+ },
+ {
+   "source": "vagina-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "blister-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "concentration-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "pressure-ulcer-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "blood-sugar-questions",
+   "value": 1
+ },
+ {
+   "source": "magnetic-resonance-imaging-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "ears-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "intestine-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "abdominal-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "stroke-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "lactose-intolerance-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "aspirin-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "throat-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-gain-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "protein-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "biopsy-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "constipation-questions",
+   "value": 1
+ },
+ {
+   "source": "hydrocortisone-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "oxycodone-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "jelly-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "burn-questions",
+   "value": 1
+ },
+ {
+   "source": "sweating-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "spotting-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "hysterectomy-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "bowel-movement-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "menstrual-questions",
+   "value": 1
+ },
+ {
+   "source": "depression-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "hemmorhoid-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "colonoscopy-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "platelet-questions",
+   "value": 1
+ },
+ {
+   "source": "tumor-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "stomach-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "marijuana-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "vitamin-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "vitamin-questions",
+   "value": 1
+ },
+ {
+   "source": "diarrhea-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "oatmeal-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "meal-questions",
+   "value": 1
+ },
+ {
+   "source": "ovulation-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "endoscopy-questions",
+   "value": 1
+ },
+ {
+   "source": "appendix-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterial-vaginosis-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "vomit-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "ibuprofen-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "finger-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "head-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-a-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "fatigue-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "running-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "penis-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "hemmorhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "bowel-movement-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "throat-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "milk-questions",
+   "value": 1
+ },
+ {
+   "source": "marijuana-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "weight-gain-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "diarrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "oatmeal-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "jaw-questions",
+   "value": 1
+ },
+ {
+   "source": "hysterectomy-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "migraine-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "appendix-questions",
+   "value": 1
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "vomit-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "ibuprofen-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "colon-cancer-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "blister-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "hepatitis-a-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "concentration-questions",
+   "value": 1
+ },
+ {
+   "source": "fiber-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-ulcer-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "intestine-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "magnetic-resonance-imaging-questions",
+   "value": 1
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "stroke-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "tooth-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "yogurt-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "sperm-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "cyst-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "heart-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "injury-questions",
+   "value": 1
+ },
+ {
+   "source": "sperm-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "yogurt-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "dizziness-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "vertigo-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "infection-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "thermal-ablation-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "acetaminophen-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "tooth-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "brain-questions",
+   "value": 1
+ },
+ {
+   "source": "vertigo-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "acetaminophen-questions",
+   "value": 1
+ },
+ {
+   "source": "injury-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "diverticulitis-questions",
+   "target": "temperature-questions",
+   "value": 1
+ },
+ {
+   "source": "biopsy-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "thermal-ablation-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "over-the-counter-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "gallbladder-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "over-the-counter-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "cyst-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "gallbladder-questions",
+   "value": 1
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "infection-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "temperature-questions",
+   "target": "diverticulitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "biopsy-questions",
+   "value": 1
+ }
+]
+}

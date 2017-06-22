@@ -1,0 +1,8153 @@
+{
+"nodes":
+[
+ {
+   "id": "ablation-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "acetaminophen-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "acetone-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "acne-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "addiction-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "adrenal-gland-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "alcoholism-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "allergic-reaction-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "anemia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "anger-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "angioplasty-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ankle-pain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "antibiotic-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "antidepressant-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "anti-inflammatory-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "anus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "anxiety-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "apnea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "appendix-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "arm-questions",
+   "group": 1,
+   "clusterid": 21
+ },
+ {
+   "id": "artery-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "arthritis-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "aspirin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "asthma-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "autoimmune-disorder-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "baby-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "back-pain-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "bacterium-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "baldness-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "benign-prostatic-hyperplasia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "benign-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "big-toe-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bioidentical-hormone-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "biopsy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "birth-control-pill-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "birth-control-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "birth-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bladder-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "blindness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "blister-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bloating-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "blood-clot-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "blood-donation-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "blood-loss-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "blood-pressure-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "blood-sugar-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "blood-test-questions",
+   "group": 1,
+   "clusterid": 18
+ },
+ {
+   "id": "boil-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bowel-movement-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "brain-cancer-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "brain-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "breast-cancer-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "breast-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "bruise-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "burn-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "calcium-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "calorie-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cancer-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "care-giver-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "carrot-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cats-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "celiac-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cervical-cancer-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "cervix-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "chest-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "choking-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cholesterol-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "chronic-fatigue-syndrome-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "chronic-obstructive-pulmonary-disease-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "clitoris-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "cocaine-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "coffee-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "coldness-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "cold-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "colonoscopy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "coma-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "concentration-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "confusion-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "connective-tissue-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "constipation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "cooking-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "corpulence-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "cough-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "cpap-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "cramps-questions",
+   "group": 1,
+   "clusterid": 22
+ },
+ {
+   "id": "craving-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "creatinine-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "crying-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "cuts-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cyst-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "dairy-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "dementia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "dental-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "depression-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "diabetes-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "diabetic-neuropathy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "diarrhea-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "diet-questions",
+   "group": 1,
+   "clusterid": 18
+ },
+ {
+   "id": "dizziness-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "dog-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "double-vision-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "drainage-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 22
+ },
+ {
+   "id": "drowsiness-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "dry-skin-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "ears-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "echocardiogram-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ectopic-pregnancy-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "edema-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ejaculation-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "emphysema-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "endometriosis-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "endoscopy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "epilepsy-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "erectile-dysfunction-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "erection-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "estrogen-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "exercise-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "eyes-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "fatigue-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "fear-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "feeding-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "fertility-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fever-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "fiber-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fibromyalgia-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "fingernail-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "finger-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "first-trimester-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "flatulence-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "flax-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "flu-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "food-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "foot-questions",
+   "group": 1,
+   "clusterid": 21
+ },
+ {
+   "id": "forgetfulness-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "fruit-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "gallbladder-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "gallbladder-removal-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "gallstone-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "garlic-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "gastric-bypass-surgery-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "gestational-diabetes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "giddiness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ginkgo-biloba-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "goiter-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "graves-disease-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "hair-loss-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "hair-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "hallucination-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "hand-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "headache-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "head-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "healing-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "healthy-eating-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "heart-attack-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "heart-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "heart-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "heat-exhaustion-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "height-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "hemochromatosis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hemorrhoid-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "hepatitis-c-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "herpes-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "high-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "high-cholesterol-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "hike-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hip-replacement",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hives-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "hiv-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hormone-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "hormone-replacement-therapy-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "hot-flash-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "human-papillomavirus-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "hunger-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "hydrocephalus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hyperglycemia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hyperthyroidism-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hypoglycemia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hypothyroidism-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "hysterectomy-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "ibuprofen-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "infertility-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "injection-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "injury-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "insomnia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "insulin-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "insulin-resistance-questions",
+   "group": 1,
+   "clusterid": 23
+ },
+ {
+   "id": "insurance-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "intestine-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "iodine-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "iron-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "irregularity-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "irritability-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "irritable-bowel-syndrome-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "itch-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "jaw-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "juice-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "kidney-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "kidney-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "knee-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "kyphosis-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "lactose-intolerance-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "leep-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "lemon-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "libido-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "lightheadedness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "limb-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "liver-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "low-carb-diet-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lubricants-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "lump-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "lung-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lupus-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "lymph-node-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "marijuana-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "masturbation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "meal-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "meat-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "medicare-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "memory-loss-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "menopause-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "menstrual-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "metabolism-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "migraine-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "milk-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "mood-swing-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "morning-sickness-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "mouth-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "movement-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "multivitamin-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "muscle-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "nail-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nausea-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "neck-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "nerve-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nervousness-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "neuropathy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nipple-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "nodule-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "nose-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "numbness-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "nutrition-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "oatmeal-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "obesity-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "oil-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "okra-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "oral-glucose-tolerance-test-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "organ-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "osteoarthritis-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "ovary-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "overactive-bladder-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "over-the-counter-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "ovulation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "oxygen-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pacemaker-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 22
+ },
+ {
+   "id": "pancreas-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pancreatitis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "panic-attack-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "pap-test-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "paralysis-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "peanut-butter-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "penicillin-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "penis-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "perimenopause-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "period-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "pineapple-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pituitary-gland-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "poisoning-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "poison-ivy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "polyp-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "positron-emission-tomography-scan-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "post-menopause-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "potassium-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "pregnancy-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "pregnancy-test-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "premature-ejaculation-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "premature-menopause-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "pressure-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "pulse-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "puncture-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "quit-smoking-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "rash-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "reaction-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "rectum-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "restlessness-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "rheumatoid-arthritis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ring-finger-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ringworm-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "roast-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "running-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "sadness-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "salt-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "scalp-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "seizure-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "shingles-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "shin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "short-stature-questions",
+   "group": 1,
+   "clusterid": 22
+ },
+ {
+   "id": "short-term-memory-loss-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "shoulder-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "sinus-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "skin-questions",
+   "group": 1,
+   "clusterid": 22
+ },
+ {
+   "id": "sleep-apnea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sleepiness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "smell-questions",
+   "group": 1,
+   "clusterid": 23
+ },
+ {
+   "id": "smoking-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "snorer-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "soda-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sodium-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "spasm-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "spine-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "splinter-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "spotting-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "stent-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "steroid-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "stomach-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "stress-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "stretch-mark-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "stroke-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "suicide-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "supplement-questions",
+   "group": 1,
+   "clusterid": 19
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 18
+ },
+ {
+   "id": "swallow-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "sweating-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "sweet-potato-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "syrup-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "systemic-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tampon-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "taste-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tattoo-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tea-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "temperature-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "tenderness-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "testosterone-questions",
+   "group": 1,
+   "clusterid": 23
+ },
+ {
+   "id": "thigh-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "thirst-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "throat-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "thumb-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "thymoma-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "thyroid-cancer-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "thyroid-disease-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "thyroidectomy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "thyroid-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "tic-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "toenail-fungus-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "toenail-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "toe-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tongue-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "tooth-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "treadmill-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "triglyceride-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tumor-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "turkey-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "type-1-diabetes-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "type-2-diabetes-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "ultrasound-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "underactive-thyroid-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "urination-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "uterus-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "vaginal-discharge-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "vaginal-yeast-infection-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "vagina-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "vasectomy-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "vegetable-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "virus-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "vitamin-d-deficiency-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "vitamin-d-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "vitamin-questions",
+   "group": 1,
+   "clusterid": 16
+ },
+ {
+   "id": "vomit-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "waist-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "walking-questions",
+   "group": 1,
+   "clusterid": 20
+ },
+ {
+   "id": "watermelon-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weakness-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "weight-gain-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "weight-loss-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "weight-questions",
+   "group": 1,
+   "clusterid": 17
+ },
+ {
+   "id": "wine-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "workout-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "wound-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "yeast-infection-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "yeast-questions",
+   "group": 1,
+   "clusterid": 1
+ }
+],
+"links":
+[
+ {
+   "source": "period-questions",
+   "target": "menopause-questions",
+   "value": 39
+ },
+ {
+   "source": "menopause-questions",
+   "target": "period-questions",
+   "value": 39
+ },
+ {
+   "source": "blood-sugar-questions",
+   "target": "diabetes-questions",
+   "value": 21
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "blood-sugar-questions",
+   "value": 21
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "insulin-questions",
+   "value": 19
+ },
+ {
+   "source": "insulin-questions",
+   "target": "diabetes-questions",
+   "value": 19
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "drinking-questions",
+   "value": 16
+ },
+ {
+   "source": "drinking-questions",
+   "target": "diabetes-questions",
+   "value": 16
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "diet-questions",
+   "value": 15
+ },
+ {
+   "source": "diet-questions",
+   "target": "diabetes-questions",
+   "value": 15
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "foot-questions",
+   "value": 14
+ },
+ {
+   "source": "foot-questions",
+   "target": "diabetes-questions",
+   "value": 14
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "vision-questions",
+   "value": 12
+ },
+ {
+   "source": "vision-questions",
+   "target": "diabetes-questions",
+   "value": 12
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "weight-questions",
+   "value": 11
+ },
+ {
+   "source": "weight-questions",
+   "target": "diabetes-questions",
+   "value": 11
+ },
+ {
+   "source": "menopause-questions",
+   "target": "pregnancy-questions",
+   "value": 11
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "menopause-questions",
+   "value": 11
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 10
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "diabetes-questions",
+   "value": 10
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "pain-questions",
+   "value": 9
+ },
+ {
+   "source": "hot-flash-questions",
+   "target": "menopause-questions",
+   "value": 9
+ },
+ {
+   "source": "pain-questions",
+   "target": "diabetes-questions",
+   "value": 9
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "weight-questions",
+   "value": 9
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hot-flash-questions",
+   "value": 9
+ },
+ {
+   "source": "weight-questions",
+   "target": "thyroid-questions",
+   "value": 9
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "diabetes-questions",
+   "value": 8
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "pregnancy-questions",
+   "value": 8
+ },
+ {
+   "source": "blood-sugar-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 8
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "blood-sugar-questions",
+   "value": 8
+ },
+ {
+   "source": "kidney-questions",
+   "target": "diabetes-questions",
+   "value": 7
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "family-questions",
+   "value": 7
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "leg-questions",
+   "value": 7
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "sweating-questions",
+   "value": 7
+ },
+ {
+   "source": "family-questions",
+   "target": "diabetes-questions",
+   "value": 7
+ },
+ {
+   "source": "sweating-questions",
+   "target": "diabetes-questions",
+   "value": 7
+ },
+ {
+   "source": "leg-questions",
+   "target": "diabetes-questions",
+   "value": 7
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "drug-questions",
+   "value": 7
+ },
+ {
+   "source": "drug-questions",
+   "target": "diabetes-questions",
+   "value": 7
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "kidney-questions",
+   "value": 7
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "hand-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "walking-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "heart-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "exercise-questions",
+   "value": 6
+ },
+ {
+   "source": "surgery-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "exercise-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "ovary-questions",
+   "target": "menopause-questions",
+   "value": 6
+ },
+ {
+   "source": "menopause-questions",
+   "target": "vagina-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "yeast-infection-questions",
+   "value": 6
+ },
+ {
+   "source": "vagina-questions",
+   "target": "menopause-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "skin-questions",
+   "value": 6
+ },
+ {
+   "source": "yeast-infection-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "cramps-questions",
+   "target": "menopause-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "period-questions",
+   "value": 6
+ },
+ {
+   "source": "menopause-questions",
+   "target": "sweating-questions",
+   "value": 6
+ },
+ {
+   "source": "menopause-questions",
+   "target": "cramps-questions",
+   "value": 6
+ },
+ {
+   "source": "period-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "sweating-questions",
+   "target": "menopause-questions",
+   "value": 6
+ },
+ {
+   "source": "menopause-questions",
+   "target": "ovary-questions",
+   "value": 6
+ },
+ {
+   "source": "skin-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "heart-questions",
+   "target": "diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 6
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "thyroid-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "walking-questions",
+   "value": 6
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "blood-test-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hand-questions",
+   "value": 6
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "surgery-questions",
+   "value": 6
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "heart-questions",
+   "value": 5
+ },
+ {
+   "source": "coldness-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "meal-questions",
+   "target": "diabetes-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "vision-questions",
+   "value": 5
+ },
+ {
+   "source": "menopause-questions",
+   "target": "pain-questions",
+   "value": 5
+ },
+ {
+   "source": "stomach-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "pain-questions",
+   "target": "menopause-questions",
+   "value": 5
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "diabetes-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hair-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "coldness-questions",
+   "value": 5
+ },
+ {
+   "source": "vision-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "breast-questions",
+   "target": "menopause-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hypothyroidism-questions",
+   "value": 5
+ },
+ {
+   "source": "menopause-questions",
+   "target": "breast-questions",
+   "value": 5
+ },
+ {
+   "source": "estrogen-questions",
+   "target": "menopause-questions",
+   "value": 5
+ },
+ {
+   "source": "menopause-questions",
+   "target": "estrogen-questions",
+   "value": 5
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "drug-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "drug-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 5
+ },
+ {
+   "source": "period-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "period-questions",
+   "value": 5
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "food-questions",
+   "value": 5
+ },
+ {
+   "source": "heart-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "stomach-questions",
+   "value": 5
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "blood-test-questions",
+   "value": 5
+ },
+ {
+   "source": "food-questions",
+   "target": "diabetes-questions",
+   "value": 5
+ },
+ {
+   "source": "hair-questions",
+   "target": "thyroid-questions",
+   "value": 5
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "meal-questions",
+   "value": 5
+ },
+ {
+   "source": "exercise-questions",
+   "target": "thyroid-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "headache-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "neck-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "oatmeal-questions",
+   "value": 4
+ },
+ {
+   "source": "eyes-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "running-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "hysterectomy-questions",
+   "target": "menopause-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "healing-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "coldness-questions",
+   "value": 4
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "throat-questions",
+   "value": 4
+ },
+ {
+   "source": "height-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "headache-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "dizziness-questions",
+   "value": 4
+ },
+ {
+   "source": "oatmeal-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "fatigue-questions",
+   "value": 4
+ },
+ {
+   "source": "arm-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "numbness-questions",
+   "value": 4
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "corpulence-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "muscle-questions",
+   "value": 4
+ },
+ {
+   "source": "gestational-diabetes-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "arm-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "toe-questions",
+   "value": 4
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "chest-questions",
+   "value": 4
+ },
+ {
+   "source": "baby-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "muscle-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "numbness-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "menopause-questions",
+   "target": "spotting-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fear-questions",
+   "value": 4
+ },
+ {
+   "source": "corpulence-questions",
+   "target": "thyroid-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "blood-pressure-questions",
+   "value": 4
+ },
+ {
+   "source": "toe-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "fear-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "gestational-diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "chest-questions",
+   "target": "thyroid-questions",
+   "value": 4
+ },
+ {
+   "source": "spotting-questions",
+   "target": "menopause-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "baby-questions",
+   "value": 4
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hysterectomy-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "running-questions",
+   "value": 4
+ },
+ {
+   "source": "throat-questions",
+   "target": "thyroid-questions",
+   "value": 4
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "exercise-questions",
+   "value": 4
+ },
+ {
+   "source": "neck-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "healing-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "fatigue-questions",
+   "target": "thyroid-questions",
+   "value": 4
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "eyes-questions",
+   "value": 4
+ },
+ {
+   "source": "coldness-questions",
+   "target": "diabetes-questions",
+   "value": 4
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "height-questions",
+   "value": 4
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "depression-questions",
+   "value": 3
+ },
+ {
+   "source": "drainage-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "injection-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "insulin-questions",
+   "value": 3
+ },
+ {
+   "source": "ultrasound-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "eyes-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "weight-questions",
+   "value": 3
+ },
+ {
+   "source": "diet-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "nipple-questions",
+   "value": 3
+ },
+ {
+   "source": "obesity-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "sweating-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "neuropathy-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "surgery-questions",
+   "value": 3
+ },
+ {
+   "source": "meal-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "nipple-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "drowsiness-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "skin-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "sinus-questions",
+   "value": 3
+ },
+ {
+   "source": "neuropathy-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "weight-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "uterus-questions",
+   "value": 3
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "tattoo-questions",
+   "value": 3
+ },
+ {
+   "source": "smoking-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fibromyalgia-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "burn-questions",
+   "value": 3
+ },
+ {
+   "source": "tattoo-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "dizziness-questions",
+   "value": 3
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hormone-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "injury-questions",
+   "value": 3
+ },
+ {
+   "source": "corpulence-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "liver-questions",
+   "value": 3
+ },
+ {
+   "source": "uterus-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "smoking-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "corpulence-questions",
+   "value": 3
+ },
+ {
+   "source": "liver-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "head-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "insurance-questions",
+   "value": 3
+ },
+ {
+   "source": "burn-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "hormone-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "depression-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "knee-questions",
+   "value": 3
+ },
+ {
+   "source": "injury-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 3
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "seizure-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "wound-questions",
+   "value": 3
+ },
+ {
+   "source": "iodine-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "boil-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "head-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "antibiotic-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "depression-questions",
+   "value": 3
+ },
+ {
+   "source": "knee-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "seizure-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "insurance-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "wound-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "iodine-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "boil-questions",
+   "value": 3
+ },
+ {
+   "source": "depression-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "obesity-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "weight-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "obesity-questions",
+   "value": 3
+ },
+ {
+   "source": "weight-gain-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "depression-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cholesterol-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "swelling-questions",
+   "value": 3
+ },
+ {
+   "source": "swelling-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "weight-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "vitamin-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "weight-gain-questions",
+   "value": 3
+ },
+ {
+   "source": "goiter-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "skin-questions",
+   "value": 3
+ },
+ {
+   "source": "bloating-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "short-stature-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "neck-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "drainage-questions",
+   "value": 3
+ },
+ {
+   "source": "insulin-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "eyes-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "drowsiness-questions",
+   "value": 3
+ },
+ {
+   "source": "skin-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "sweating-questions",
+   "value": 3
+ },
+ {
+   "source": "sinus-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "diet-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "meal-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "goiter-questions",
+   "value": 3
+ },
+ {
+   "source": "skin-questions",
+   "target": "menopause-questions",
+   "value": 3
+ },
+ {
+   "source": "menopause-questions",
+   "target": "bloating-questions",
+   "value": 3
+ },
+ {
+   "source": "depression-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "neck-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "obesity-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "heart-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "injection-questions",
+   "value": 3
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "ultrasound-questions",
+   "value": 3
+ },
+ {
+   "source": "surgery-questions",
+   "target": "thyroid-questions",
+   "value": 3
+ },
+ {
+   "source": "cold-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "ears-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "short-stature-questions",
+   "value": 2
+ },
+ {
+   "source": "pap-test-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "drug-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "scalp-questions",
+   "value": 2
+ },
+ {
+   "source": "sleep-apnea-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cooking-questions",
+   "value": 2
+ },
+ {
+   "source": "weight-gain-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "diarrhea-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "itch-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "nausea-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "stomach-questions",
+   "value": 2
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "diet-questions",
+   "value": 2
+ },
+ {
+   "source": "nail-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "head-questions",
+   "value": 2
+ },
+ {
+   "source": "waist-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "hypoglycemia-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "turkey-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "vomit-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "thyroid-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fatigue-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "rheumatoid-arthritis-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "stent-questions",
+   "value": 2
+ },
+ {
+   "source": "drinking-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "fertility-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "benign-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "family-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "nausea-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "dog-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "calcium-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "rheumatoid-arthritis-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "potassium-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "drinking-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cold-questions",
+   "value": 2
+ },
+ {
+   "source": "running-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "food-questions",
+   "value": 2
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "thyroid-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "hormone-replacement-therapy-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "pregnancy-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "stress-questions",
+   "value": 2
+ },
+ {
+   "source": "swelling-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "blister-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "baldness-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "panic-attack-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "supplement-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "tenderness-questions",
+   "value": 2
+ },
+ {
+   "source": "bladder-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "stress-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "spine-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "metabolism-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "blister-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "baldness-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "ovulation-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "supplement-questions",
+   "value": 2
+ },
+ {
+   "source": "tenderness-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "hunger-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "cholesterol-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "bladder-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hormone-replacement-therapy-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "oil-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "panic-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "lupus-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "vitamin-d-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fruit-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "sinus-questions",
+   "value": 2
+ },
+ {
+   "source": "coffee-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "tongue-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "nodule-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "high-cholesterol-questions",
+   "value": 2
+ },
+ {
+   "source": "big-toe-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "stroke-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-disease-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "libido-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "ovulation-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "lupus-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "vitamin-d-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "fruit-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "over-the-counter-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "coffee-questions",
+   "value": 2
+ },
+ {
+   "source": "tongue-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "big-toe-questions",
+   "value": 2
+ },
+ {
+   "source": "stroke-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "swelling-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "metabolism-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "nerve-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "antibiotic-questions",
+   "value": 2
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "weight-questions",
+   "value": 2
+ },
+ {
+   "source": "sinus-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "high-cholesterol-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "oil-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "nodule-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "finger-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "libido-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "type-1-diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "anemia-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "perimenopause-questions",
+   "value": 2
+ },
+ {
+   "source": "endometriosis-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "vitamin-questions",
+   "value": 2
+ },
+ {
+   "source": "birth-control-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "over-the-counter-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "spine-questions",
+   "value": 2
+ },
+ {
+   "source": "type-1-diabetes-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "anemia-questions",
+   "value": 2
+ },
+ {
+   "source": "perimenopause-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "endometriosis-questions",
+   "value": 2
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "birth-control-questions",
+   "value": 2
+ },
+ {
+   "source": "weight-questions",
+   "target": "hypothyroidism-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hunger-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "urination-questions",
+   "value": 2
+ },
+ {
+   "source": "nerve-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "cancer-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "cramps-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "swelling-questions",
+   "value": 2
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "salt-questions",
+   "value": 2
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "period-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cramps-questions",
+   "value": 2
+ },
+ {
+   "source": "swelling-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "salt-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "finger-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "vision-questions",
+   "value": 2
+ },
+ {
+   "source": "acne-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "injection-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "soda-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "stomach-questions",
+   "value": 2
+ },
+ {
+   "source": "urination-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "cats-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "period-questions",
+   "target": "hypothyroidism-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "okra-questions",
+   "value": 2
+ },
+ {
+   "source": "soda-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "stomach-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cats-questions",
+   "value": 2
+ },
+ {
+   "source": "hormone-questions",
+   "target": "hypothyroidism-questions",
+   "value": 2
+ },
+ {
+   "source": "vision-questions",
+   "target": "hypothyroidism-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "acne-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "over-the-counter-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "thyroidectomy-questions",
+   "value": 2
+ },
+ {
+   "source": "cyst-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "smoking-questions",
+   "value": 2
+ },
+ {
+   "source": "confusion-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "spotting-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "injection-questions",
+   "value": 2
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "cyst-questions",
+   "value": 2
+ },
+ {
+   "source": "smoking-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "hormone-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "confusion-questions",
+   "value": 2
+ },
+ {
+   "source": "spotting-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "over-the-counter-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "okra-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroidectomy-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "movement-questions",
+   "value": 2
+ },
+ {
+   "source": "stomach-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "blood-test-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-cancer-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "kidney-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "flu-questions",
+   "value": 2
+ },
+ {
+   "source": "anger-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "chest-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "drug-questions",
+   "target": "hypothyroidism-questions",
+   "value": 2
+ },
+ {
+   "source": "scalp-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "calcium-questions",
+   "value": 2
+ },
+ {
+   "source": "fatigue-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "stent-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diet-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "ears-questions",
+   "value": 2
+ },
+ {
+   "source": "flu-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "anger-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "chest-questions",
+   "value": 2
+ },
+ {
+   "source": "head-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "benign-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "waist-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "family-questions",
+   "value": 2
+ },
+ {
+   "source": "potassium-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "vitamin-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "nail-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "running-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fertility-questions",
+   "value": 2
+ },
+ {
+   "source": "menopause-questions",
+   "target": "pap-test-questions",
+   "value": 2
+ },
+ {
+   "source": "food-questions",
+   "target": "thyroid-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "sleep-apnea-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hypoglycemia-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "turkey-questions",
+   "value": 2
+ },
+ {
+   "source": "cooking-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "weight-gain-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "diarrhea-questions",
+   "value": 2
+ },
+ {
+   "source": "movement-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "itch-questions",
+   "target": "menopause-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "vomit-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "dog-questions",
+   "value": 2
+ },
+ {
+   "source": "medicare-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "lump-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "irritable-bowel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ejaculation-questions",
+   "value": 1
+ },
+ {
+   "source": "insulin-resistance-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "reaction-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hair-questions",
+   "value": 1
+ },
+ {
+   "source": "numbness-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "sadness-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "infertility-questions",
+   "value": 1
+ },
+ {
+   "source": "edema-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "intestine-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "colonoscopy-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "coma-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "swallow-questions",
+   "value": 1
+ },
+ {
+   "source": "suicide-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ablation-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "cervix-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "tongue-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "anxiety-questions",
+   "value": 1
+ },
+ {
+   "source": "crying-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "short-term-memory-loss-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "rectum-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "stomach-questions",
+   "value": 1
+ },
+ {
+   "source": "cyst-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "masturbation-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "pancreas-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "eyes-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "flatulence-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "gallbladder-removal-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "rash-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "endoscopy-questions",
+   "value": 1
+ },
+ {
+   "source": "milk-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "treadmill-questions",
+   "value": 1
+ },
+ {
+   "source": "injury-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "supplement-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "diarrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "stomach-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "infertility-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "erection-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "insulin-resistance-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "dry-skin-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "gallbladder-removal-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "rash-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "ultrasound-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "suicide-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "medicare-questions",
+   "value": 1
+ },
+ {
+   "source": "breast-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "constipation-questions",
+   "value": 1
+ },
+ {
+   "source": "ejaculation-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "brain-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "cervix-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "numbness-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "anti-inflammatory-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "crying-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "puncture-questions",
+   "value": 1
+ },
+ {
+   "source": "premature-menopause-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hyperglycemia-questions",
+   "value": 1
+ },
+ {
+   "source": "hyperglycemia-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "echocardiogram-questions",
+   "value": 1
+ },
+ {
+   "source": "echocardiogram-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "benign-prostatic-hyperplasia-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hot-flash-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "shin-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "suicide-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "scalp-questions",
+   "value": 1
+ },
+ {
+   "source": "bowel-movement-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "chest-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "sleepiness-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "tumor-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "low-carb-diet-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "depression-questions",
+   "value": 1
+ },
+ {
+   "source": "sodium-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "arthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "appendix-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "fever-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "pituitary-gland-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "shoulder-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "gastric-bypass-surgery-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "osteoarthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "iron-questions",
+   "value": 1
+ },
+ {
+   "source": "graves-disease-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "restlessness-questions",
+   "value": 1
+ },
+ {
+   "source": "craving-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "watermelon-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "walking-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "yeast-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hand-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "seizure-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "bruise-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "urination-questions",
+   "value": 1
+ },
+ {
+   "source": "irritability-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-donation-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "human-papillomavirus-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "quit-smoking-questions",
+   "value": 1
+ },
+ {
+   "source": "marijuana-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "concentration-questions",
+   "value": 1
+ },
+ {
+   "source": "syrup-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "alcoholism-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hydrocephalus-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "dairy-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hunger-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "gallstone-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "supplement-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "milk-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "testosterone-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hike-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "craving-questions",
+   "value": 1
+ },
+ {
+   "source": "fever-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "antidepressant-questions",
+   "value": 1
+ },
+ {
+   "source": "post-menopause-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "fever-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "movement-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "knee-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "gastric-bypass-surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "osteoarthritis-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hiv-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "graves-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "craving-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "pineapple-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "marijuana-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "walking-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "kyphosis-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "metabolism-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "migraine-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "bruise-questions",
+   "value": 1
+ },
+ {
+   "source": "urination-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "blood-donation-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "cervical-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "healthy-eating-questions",
+   "value": 1
+ },
+ {
+   "source": "hepatitis-c-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "anxiety-questions",
+   "value": 1
+ },
+ {
+   "source": "skin-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hives-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "alcoholism-questions",
+   "value": 1
+ },
+ {
+   "source": "hydrocephalus-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "anus-questions",
+   "value": 1
+ },
+ {
+   "source": "gallstone-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "premature-ejaculation-questions",
+   "value": 1
+ },
+ {
+   "source": "milk-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "benign-prostatic-hyperplasia-questions",
+   "value": 1
+ },
+ {
+   "source": "suicide-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "baby-questions",
+   "value": 1
+ },
+ {
+   "source": "bloating-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "chest-questions",
+   "value": 1
+ },
+ {
+   "source": "sleepiness-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "birth-control-questions",
+   "value": 1
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "craving-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "ibuprofen-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thigh-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "iron-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "injury-questions",
+   "value": 1
+ },
+ {
+   "source": "pituitary-gland-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "triglyceride-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "hysterectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "giddiness-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "weight-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "watermelon-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "irregularity-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "care-giver-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "potassium-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "sadness-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "nutrition-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "addiction-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "multivitamin-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fiber-questions",
+   "value": 1
+ },
+ {
+   "source": "hand-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "aspirin-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "birth-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "syrup-questions",
+   "value": 1
+ },
+ {
+   "source": "rash-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "leep-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "tic-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "pregnancy-test-questions",
+   "value": 1
+ },
+ {
+   "source": "drowsiness-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "panic-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "supplement-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "temperature-questions",
+   "value": 1
+ },
+ {
+   "source": "acetaminophen-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "shin-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "pulse-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "dry-skin-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "bowel-movement-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "pancreatitis-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "brain-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "lemon-questions",
+   "value": 1
+ },
+ {
+   "source": "cancer-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "low-carb-diet-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "craving-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "sodium-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "roast-questions",
+   "value": 1
+ },
+ {
+   "source": "creatinine-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "tooth-questions",
+   "value": 1
+ },
+ {
+   "source": "pineapple-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "irregularity-questions",
+   "value": 1
+ },
+ {
+   "source": "insulin-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "kyphosis-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "blood-test-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "seizure-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "sadness-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "nutrition-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "addiction-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "multivitamin-questions",
+   "value": 1
+ },
+ {
+   "source": "fiber-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "aspirin-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "skin-questions",
+   "value": 1
+ },
+ {
+   "source": "hives-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "rash-questions",
+   "value": 1
+ },
+ {
+   "source": "human-papillomavirus-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "tic-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-test-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "concentration-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "panic-attack-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "premature-ejaculation-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "temperature-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "acetaminophen-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "biopsy-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "pulse-questions",
+   "value": 1
+ },
+ {
+   "source": "scalp-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "bloating-questions",
+   "value": 1
+ },
+ {
+   "source": "pancreatitis-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hot-flash-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "lemon-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hike-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "corpulence-questions",
+   "value": 1
+ },
+ {
+   "source": "roast-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "clitoris-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "creatinine-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "appendix-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "adrenal-gland-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "knee-questions",
+   "value": 1
+ },
+ {
+   "source": "depression-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ginkgo-biloba-questions",
+   "value": 1
+ },
+ {
+   "source": "arthritis-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "thigh-questions",
+   "value": 1
+ },
+ {
+   "source": "hiv-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "brain-questions",
+   "value": 1
+ },
+ {
+   "source": "movement-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "triglyceride-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "restlessness-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "yeast-questions",
+   "value": 1
+ },
+ {
+   "source": "hormone-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "jaw-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "tenderness-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "birth-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "irritability-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hives-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "premature-menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "peanut-butter-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "cervical-cancer-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "quit-smoking-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "marijuana-questions",
+   "value": 1
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ring-finger-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 1
+ },
+ {
+   "source": "hives-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "lymph-node-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "dairy-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "weakness-questions",
+   "value": 1
+ },
+ {
+   "source": "hunger-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "bioidentical-hormone-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "tea-questions",
+   "value": 1
+ },
+ {
+   "source": "blindness-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "birth-control-pill-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "fever-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "shingles-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "waist-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "tumor-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "diabetic-neuropathy-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "vitamin-d-questions",
+   "value": 1
+ },
+ {
+   "source": "craving-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "antidepressant-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "positron-emission-tomography-scan-questions",
+   "value": 1
+ },
+ {
+   "source": "birth-control-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-loss-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "marijuana-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "potassium-questions",
+   "value": 1
+ },
+ {
+   "source": "head-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "autoimmune-disorder-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "birth-control-pill-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "migraine-questions",
+   "value": 1
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "lupus-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hepatitis-c-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "drowsiness-questions",
+   "value": 1
+ },
+ {
+   "source": "ring-finger-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hives-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "lymph-node-questions",
+   "value": 1
+ },
+ {
+   "source": "weakness-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "anus-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "dry-skin-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "bioidentical-hormone-questions",
+   "value": 1
+ },
+ {
+   "source": "tea-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "blindness-questions",
+   "value": 1
+ },
+ {
+   "source": "biopsy-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "baby-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "dairy-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "birth-control-pill-questions",
+   "value": 1
+ },
+ {
+   "source": "shingles-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "clitoris-questions",
+   "value": 1
+ },
+ {
+   "source": "waist-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "tooth-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-d-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "corpulence-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "ginkgo-biloba-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "ibuprofen-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "post-menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "positron-emission-tomography-scan-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "adrenal-gland-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hysterectomy-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "giddiness-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "care-giver-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "insulin-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "head-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "autoimmune-disorder-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "birth-control-pill-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "testosterone-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "lupus-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "metabolism-questions",
+   "value": 1
+ },
+ {
+   "source": "jaw-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "tenderness-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "hives-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "peanut-butter-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "leep-questions",
+   "value": 1
+ },
+ {
+   "source": "healthy-eating-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "liver-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "pulse-questions",
+   "value": 1
+ },
+ {
+   "source": "stretch-mark-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "limb-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "dental-questions",
+   "value": 1
+ },
+ {
+   "source": "bladder-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "gallbladder-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "forgetfulness-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "emphysema-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ringworm-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "vitamin-d-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "pacemaker-questions",
+   "value": 1
+ },
+ {
+   "source": "sweet-potato-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "flatulence-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "steroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "spasm-questions",
+   "value": 1
+ },
+ {
+   "source": "alcoholism-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "weakness-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "throat-questions",
+   "value": 1
+ },
+ {
+   "source": "allergic-reaction-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "sinus-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "penis-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "systemic-questions",
+   "value": 1
+ },
+ {
+   "source": "hysterectomy-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "head-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "thyroid-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "hormone-replacement-therapy-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "garlic-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "vagina-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "perimenopause-questions",
+   "value": 1
+ },
+ {
+   "source": "spotting-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "vaginal-yeast-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hormone-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "workout-questions",
+   "value": 1
+ },
+ {
+   "source": "cuts-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hip-replacement",
+   "value": 1
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "testosterone-questions",
+   "value": 1
+ },
+ {
+   "source": "angioplasty-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "toenail-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "fever-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "weight-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "yeast-infection-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "overactive-bladder-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "spasm-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "lung-questions",
+   "value": 1
+ },
+ {
+   "source": "splinter-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "irregularity-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "emphysema-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "thirst-questions",
+   "value": 1
+ },
+ {
+   "source": "ringworm-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-d-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetic-neuropathy-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "pacemaker-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "sweet-potato-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "flatulence-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "steroid-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "hair-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "cramps-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "alcoholism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "feeding-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "throat-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "allergic-reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "oxygen-questions",
+   "value": 1
+ },
+ {
+   "source": "penis-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "systemic-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hysterectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "lightheadedness-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "head-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-disease-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "flax-questions",
+   "value": 1
+ },
+ {
+   "source": "vagina-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "lymph-node-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "vaginal-yeast-infection-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "taste-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cuts-questions",
+   "value": 1
+ },
+ {
+   "source": "depression-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hip-replacement",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "bacterium-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "angioplasty-questions",
+   "value": 1
+ },
+ {
+   "source": "toenail-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "calcium-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "weight-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "concentration-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "morning-sickness-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "overactive-bladder-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "restlessness-questions",
+   "value": 1
+ },
+ {
+   "source": "lung-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "fingernail-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "irregularity-questions",
+   "value": 1
+ },
+ {
+   "source": "dog-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "pulse-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "concentration-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hallucination-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "apnea-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "bladder-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "height-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-loss-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "forgetfulness-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "ankle-pain-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "cancer-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "heat-exhaustion-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "hemorrhoid-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "poisoning-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hyperthyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hemochromatosis-questions",
+   "value": 1
+ },
+ {
+   "source": "sinus-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "garlic-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "mouth-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "perimenopause-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "spotting-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "organ-questions",
+   "value": 1
+ },
+ {
+   "source": "foot-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "workout-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ears-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "liver-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thumb-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "mood-swing-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "ejaculation-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "double-vision-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "vegetable-questions",
+   "value": 1
+ },
+ {
+   "source": "poison-ivy-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-loss-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "chronic-fatigue-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-loss-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "insomnia-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "snorer-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "potassium-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "shoulder-questions",
+   "value": 1
+ },
+ {
+   "source": "carrot-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "itch-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "connective-tissue-disease-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "acne-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "limb-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "cramps-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "gallbladder-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "tea-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "toenail-questions",
+   "value": 1
+ },
+ {
+   "source": "memory-loss-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "dementia-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hunger-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "first-trimester-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "menstrual-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "vasectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "juice-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "weakness-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hormone-replacement-therapy-questions",
+   "value": 1
+ },
+ {
+   "source": "flax-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "mouth-questions",
+   "value": 1
+ },
+ {
+   "source": "lymph-node-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "goiter-questions",
+   "value": 1
+ },
+ {
+   "source": "organ-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "foot-questions",
+   "value": 1
+ },
+ {
+   "source": "taste-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "ears-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "high-cholesterol-questions",
+   "value": 1
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "finger-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "anger-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "ejaculation-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "double-vision-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "poison-ivy-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "anxiety-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "hair-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "spasm-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "cpap-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "potassium-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "carrot-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "dog-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "liver-questions",
+   "value": 1
+ },
+ {
+   "source": "arthritis-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "stretch-mark-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "concentration-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "blood-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "tea-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "toenail-fungus-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "memory-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "thirst-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "dizziness-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "dementia-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "hunger-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "first-trimester-questions",
+   "value": 1
+ },
+ {
+   "source": "menstrual-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "vasectomy-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "feeding-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ankle-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "heat-exhaustion-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "breast-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "hemorrhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "paralysis-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "hyperthyroidism-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hemochromatosis-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "oxygen-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "mood-swing-questions",
+   "value": 1
+ },
+ {
+   "source": "baby-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "vegetable-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-loss-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "vaginal-discharge-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "restlessness-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "ectopic-pregnancy-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "snorer-questions",
+   "value": 1
+ },
+ {
+   "source": "fever-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "cervix-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "concentration-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "tampon-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "yeast-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "kidney-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "connective-tissue-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "splinter-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "underactive-thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "seizure-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "salt-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "penis-questions",
+   "value": 1
+ },
+ {
+   "source": "toenail-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "hallucination-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "dental-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "hair-questions",
+   "value": 1
+ },
+ {
+   "source": "height-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "liver-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "wine-questions",
+   "value": 1
+ },
+ {
+   "source": "cancer-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "temperature-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "cocaine-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "penicillin-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "migraine-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "juice-questions",
+   "value": 1
+ },
+ {
+   "source": "calorie-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-1-diabetes-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "itch-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-clot-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "spasm-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "poisoning-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "feeding-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "chronic-obstructive-pulmonary-disease-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "herpes-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "lubricants-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "nausea-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "burn-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-cancer-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "nervousness-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "acetone-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "liver-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "thumb-questions",
+   "value": 1
+ },
+ {
+   "source": "calcium-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cervix-questions",
+   "value": 1
+ },
+ {
+   "source": "chronic-fatigue-syndrome-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "tampon-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "morning-sickness-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "itch-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "arthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "acne-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "fingernail-questions",
+   "value": 1
+ },
+ {
+   "source": "underactive-thyroid-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "seizure-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "salt-questions",
+   "value": 1
+ },
+ {
+   "source": "penis-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "toenail-fungus-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "apnea-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "cramps-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "liver-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "wine-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "temperature-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "cocaine-questions",
+   "value": 1
+ },
+ {
+   "source": "penicillin-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "migraine-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "calorie-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "type-1-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "itch-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "blood-clot-questions",
+   "value": 1
+ },
+ {
+   "source": "cramps-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "paralysis-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "feeding-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "chronic-obstructive-pulmonary-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "antibiotic-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "lubricants-questions",
+   "value": 1
+ },
+ {
+   "source": "breast-cancer-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "nausea-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "burn-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "brain-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "goiter-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "lightheadedness-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "nervousness-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "acetone-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "depression-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "cholesterol-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "finger-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "anger-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "baby-questions",
+   "value": 1
+ },
+ {
+   "source": "high-cholesterol-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "vaginal-discharge-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "insomnia-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "ectopic-pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "cpap-questions",
+   "value": 1
+ },
+ {
+   "source": "celiac-disease-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "meal-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "lactose-intolerance-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "milk-questions",
+   "value": 1
+ },
+ {
+   "source": "foot-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "choking-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "tenderness-questions",
+   "value": 1
+ },
+ {
+   "source": "irritable-bowel-syndrome-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "vitamin-d-deficiency-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "thymoma-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "meat-questions",
+   "value": 1
+ },
+ {
+   "source": "over-the-counter-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "oral-glucose-tolerance-test-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "cyst-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "virus-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "masturbation-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "eyes-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "intestine-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "breast-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "choking-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "lump-questions",
+   "value": 1
+ },
+ {
+   "source": "diarrhea-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "insulin-resistance-questions",
+   "value": 1
+ },
+ {
+   "source": "thymoma-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "rectum-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "over-the-counter-questions",
+   "value": 1
+ },
+ {
+   "source": "oral-glucose-tolerance-test-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "virus-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "erection-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "pancreas-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "dry-skin-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "flatulence-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "celiac-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "edema-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "dairy-questions",
+   "value": 1
+ },
+ {
+   "source": "endoscopy-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "ablation-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "foot-questions",
+   "value": 1
+ },
+ {
+   "source": "supplement-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "tenderness-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "constipation-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-d-deficiency-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "short-term-memory-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "tongue-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "puncture-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "anti-inflammatory-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "menopause-questions",
+   "target": "sadness-questions",
+   "value": 1
+ },
+ {
+   "source": "meat-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "menopause-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "insulin-resistance-questions",
+   "value": 1
+ },
+ {
+   "source": "colonoscopy-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "meal-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "coma-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "ultrasound-questions",
+   "value": 1
+ },
+ {
+   "source": "swallow-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "treadmill-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "lactose-intolerance-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ }
+]
+}

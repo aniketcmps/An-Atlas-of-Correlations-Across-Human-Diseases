@@ -1,0 +1,2708 @@
+{
+"nodes":
+[
+ {
+   "id": "abdominal-pain-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "acne-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "allergy-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "antibiotic-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "antidepressant-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "anus-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "arm-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "aspirin-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "autism-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bacterial-vaginosis-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "bacterium-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "biopsy-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "blister-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "blood-pressure-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "blood-test-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "bone-density-test-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "breastfeed-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "breast-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "burn-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "buttocks-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cancer-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cervical-cancer-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "chlamydia-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "cholesterol-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "clitoris-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "coldness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cold-sore-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "condom-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "confusion-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "constipation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "cramps-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "dairy-product-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "dehydration-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "diabetes-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "drowsiness-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "dry-mouth-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "ejaculation-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "elbow-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "epididymitis-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "erectile-dysfunction-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "erection-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "exercise-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "exposure-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "fear-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "fertility-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "food-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "fruit-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "genital-herpes-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "genitalia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "gonorrhea-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "hair-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hand-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "healing-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "heartburn-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "hematoma-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "herpes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hiv-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "hormone-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "immunotherapy-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "implant-radiation-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "impotence-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "incontinence-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "infertility-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "injection-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "injury-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "insomnia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "insurance-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "itch-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "lip-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "long-term-effect-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "low-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "lump-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "massage-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "masturbation-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "medicare-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "mouth-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "movement-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "nerve-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nervousness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "oatmeal-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "obstructive-sleep-apnea-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "oral-herpes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "orchiectomy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "organ-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "over-the-counter-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "pelvic-area-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "penis-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "period-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "peripheral-neuropathy-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "plaque-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pregnancy-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "pregnancy-test-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "premature-ejaculation-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pressure-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "prostate-cancer-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "prostate-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "prostate-specific-antigen-test-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "prostatitis-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "protein-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "reaction-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "rectal-prolapse-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "salt-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "screening-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "scrotum-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "self-exam-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "sexually-transmitted-disease-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "sexual-problem-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "shingles-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "skin-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "sleepiness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "smell-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "soft-tissue-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "sore-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sperm-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "spit-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "stomach-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "stress-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "supplement-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "sweating-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "tenderness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "testicle-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "testicular-cancer-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "testosterone-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "throat-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "tomato-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "torso-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "typhoid-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "ultrasound-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "undescended-testicle-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "urethra-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "urination-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "vagina-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "vaginitis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "varicocele-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "vasectomy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "virus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "waist-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "walking-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "weakness-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "weight-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "yeast-infection-questions",
+   "group": 1,
+   "clusterid": 1
+ }
+],
+"links":
+[
+ {
+   "source": "genital-herpes-questions",
+   "target": "herpes-questions",
+   "value": 19
+ },
+ {
+   "source": "herpes-questions",
+   "target": "genital-herpes-questions",
+   "value": 19
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "erection-questions",
+   "value": 10
+ },
+ {
+   "source": "erection-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 10
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "cold-sore-questions",
+   "value": 9
+ },
+ {
+   "source": "cold-sore-questions",
+   "target": "genital-herpes-questions",
+   "value": 9
+ },
+ {
+   "source": "vagina-questions",
+   "target": "genital-herpes-questions",
+   "value": 8
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "vagina-questions",
+   "value": 8
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "cancer-questions",
+   "value": 7
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 7
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "genital-herpes-questions",
+   "value": 7
+ },
+ {
+   "source": "cancer-questions",
+   "target": "prostate-cancer-questions",
+   "value": 7
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "penis-questions",
+   "value": 7
+ },
+ {
+   "source": "penis-questions",
+   "target": "genital-herpes-questions",
+   "value": 7
+ },
+ {
+   "source": "drug-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 6
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "drug-questions",
+   "value": 6
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "virus-questions",
+   "value": 6
+ },
+ {
+   "source": "virus-questions",
+   "target": "genital-herpes-questions",
+   "value": 6
+ },
+ {
+   "source": "penis-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 5
+ },
+ {
+   "source": "burn-questions",
+   "target": "genital-herpes-questions",
+   "value": 5
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "burn-questions",
+   "value": 5
+ },
+ {
+   "source": "blister-questions",
+   "target": "genital-herpes-questions",
+   "value": 5
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "blister-questions",
+   "value": 5
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "penis-questions",
+   "value": 5
+ },
+ {
+   "source": "chlamydia-questions",
+   "target": "gonorrhea-questions",
+   "value": 4
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "chlamydia-questions",
+   "value": 4
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 4
+ },
+ {
+   "source": "immunotherapy-questions",
+   "target": "prostate-cancer-questions",
+   "value": 4
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "immunotherapy-questions",
+   "value": 4
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "gonorrhea-questions",
+   "value": 4
+ },
+ {
+   "source": "masturbation-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 4
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 4
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 4
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "masturbation-questions",
+   "value": 4
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "prostate-cancer-questions",
+   "value": 3
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 3
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "lip-questions",
+   "value": 3
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "blood-pressure-questions",
+   "value": 3
+ },
+ {
+   "source": "acne-questions",
+   "target": "genital-herpes-questions",
+   "value": 3
+ },
+ {
+   "source": "lip-questions",
+   "target": "genital-herpes-questions",
+   "value": 3
+ },
+ {
+   "source": "hormone-questions",
+   "target": "prostate-cancer-questions",
+   "value": 3
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "hormone-questions",
+   "value": 3
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "acne-questions",
+   "value": 3
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "prostate-questions",
+   "value": 3
+ },
+ {
+   "source": "injection-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 3
+ },
+ {
+   "source": "prostate-questions",
+   "target": "prostate-cancer-questions",
+   "value": 3
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "injection-questions",
+   "value": 3
+ },
+ {
+   "source": "erection-questions",
+   "target": "testicular-cancer-questions",
+   "value": 3
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 3
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "testicle-questions",
+   "value": 3
+ },
+ {
+   "source": "skin-questions",
+   "target": "genital-herpes-questions",
+   "value": 3
+ },
+ {
+   "source": "masturbation-questions",
+   "target": "prostate-cancer-questions",
+   "value": 3
+ },
+ {
+   "source": "hand-questions",
+   "target": "genital-herpes-questions",
+   "value": 3
+ },
+ {
+   "source": "ejaculation-questions",
+   "target": "prostate-cancer-questions",
+   "value": 3
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "erection-questions",
+   "value": 3
+ },
+ {
+   "source": "testicle-questions",
+   "target": "testicular-cancer-questions",
+   "value": 3
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "masturbation-questions",
+   "value": 3
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "premature-ejaculation-questions",
+   "value": 3
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "hand-questions",
+   "value": 3
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "ejaculation-questions",
+   "value": 3
+ },
+ {
+   "source": "premature-ejaculation-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 3
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "skin-questions",
+   "value": 3
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "pregnancy-questions",
+   "value": 3
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "testosterone-questions",
+   "value": 3
+ },
+ {
+   "source": "anus-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "medicare-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "insurance-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "anus-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "period-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "mouth-questions",
+   "value": 2
+ },
+ {
+   "source": "period-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "drug-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "vision-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "drug-questions",
+   "value": 2
+ },
+ {
+   "source": "mouth-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "genitalia-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "biopsy-questions",
+   "value": 2
+ },
+ {
+   "source": "vision-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "gonorrhea-questions",
+   "value": 2
+ },
+ {
+   "source": "food-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "period-questions",
+   "value": 2
+ },
+ {
+   "source": "family-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "impotence-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "condom-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "impotence-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "condom-questions",
+   "value": 2
+ },
+ {
+   "source": "genitalia-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "biopsy-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "period-questions",
+   "target": "gonorrhea-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "cholesterol-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "family-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "oral-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "sore-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "healing-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "testicle-questions",
+   "value": 2
+ },
+ {
+   "source": "healing-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "testicle-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "oral-herpes-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "stress-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "swelling-questions",
+   "value": 2
+ },
+ {
+   "source": "sexually-transmitted-disease-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "yeast-infection-questions",
+   "value": 2
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "peripheral-neuropathy-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "sore-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "prostate-cancer-questions",
+   "value": 2
+ },
+ {
+   "source": "peripheral-neuropathy-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "stress-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "drinking-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "sexually-transmitted-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "swelling-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "yeast-infection-questions",
+   "target": "genital-herpes-questions",
+   "value": 2
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "drinking-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "medicare-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "insurance-questions",
+   "value": 2
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "food-questions",
+   "value": 2
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "masturbation-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "coldness-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "urination-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "spit-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "prostate-specific-antigen-test-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "waist-questions",
+   "value": 1
+ },
+ {
+   "source": "spit-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-specific-antigen-test-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "waist-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "tomato-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "torso-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "urination-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "tomato-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "scrotum-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "heartburn-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "plaque-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "implant-radiation-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "supplement-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "elbow-questions",
+   "value": 1
+ },
+ {
+   "source": "oatmeal-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "over-the-counter-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "torso-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "hair-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "obstructive-sleep-apnea-questions",
+   "value": 1
+ },
+ {
+   "source": "coldness-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "skin-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "implant-radiation-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "fruit-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "obstructive-sleep-apnea-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "lump-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "organ-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "blood-test-questions",
+   "value": 1
+ },
+ {
+   "source": "drowsiness-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "urethra-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "soft-tissue-questions",
+   "value": 1
+ },
+ {
+   "source": "cervical-cancer-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "long-term-effect-questions",
+   "value": 1
+ },
+ {
+   "source": "supplement-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "hiv-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "skin-questions",
+   "value": 1
+ },
+ {
+   "source": "soft-tissue-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "cervical-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "long-term-effect-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "oatmeal-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "drowsiness-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "pelvic-area-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "lump-questions",
+   "value": 1
+ },
+ {
+   "source": "bone-density-test-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "scrotum-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "plaque-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "tenderness-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "fruit-questions",
+   "value": 1
+ },
+ {
+   "source": "elbow-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "over-the-counter-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "urethra-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "bone-density-test-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "organ-questions",
+   "value": 1
+ },
+ {
+   "source": "tenderness-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "hiv-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "buttocks-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "dehydration-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "sexually-transmitted-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "dry-mouth-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "sleepiness-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "testosterone-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "throat-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "vasectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "dairy-product-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "weakness-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "breast-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-test-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "sexual-problem-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "infertility-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "shingles-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "orchiectomy-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "fear-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "itch-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "dry-mouth-questions",
+   "value": 1
+ },
+ {
+   "source": "insomnia-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "stomach-questions",
+   "value": 1
+ },
+ {
+   "source": "vasectomy-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "constipation-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "weakness-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "breast-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "pregnancy-test-questions",
+   "value": 1
+ },
+ {
+   "source": "sexual-problem-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "varicocele-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "scrotum-questions",
+   "value": 1
+ },
+ {
+   "source": "shingles-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "fear-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "orchiectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "antibiotic-questions",
+   "value": 1
+ },
+ {
+   "source": "ejaculation-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "buttocks-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "dehydration-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "pelvic-area-questions",
+   "value": 1
+ },
+ {
+   "source": "low-blood-pressure-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "cancer-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "ejaculation-questions",
+   "value": 1
+ },
+ {
+   "source": "exposure-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "pelvic-area-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "abdominal-pain-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "ultrasound-questions",
+   "value": 1
+ },
+ {
+   "source": "erection-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "hematoma-questions",
+   "value": 1
+ },
+ {
+   "source": "autism-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "vaginitis-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "sweating-questions",
+   "value": 1
+ },
+ {
+   "source": "breastfeed-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "epididymitis-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "fertility-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "urination-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "movement-questions",
+   "value": 1
+ },
+ {
+   "source": "burn-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "chlamydia-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "urination-questions",
+   "value": 1
+ },
+ {
+   "source": "allergy-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "throat-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "ultrasound-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "erection-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "bacterium-questions",
+   "value": 1
+ },
+ {
+   "source": "infertility-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "autism-questions",
+   "value": 1
+ },
+ {
+   "source": "vaginitis-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "sweating-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "self-exam-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "breastfeed-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "epididymitis-questions",
+   "value": 1
+ },
+ {
+   "source": "fear-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "urination-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "sexually-transmitted-disease-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "anus-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "chlamydia-questions",
+   "value": 1
+ },
+ {
+   "source": "urination-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "nervousness-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "allergy-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "undescended-testicle-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "throat-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "throat-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "sleepiness-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "antidepressant-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "exposure-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "dairy-product-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "salt-questions",
+   "value": 1
+ },
+ {
+   "source": "scrotum-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "injury-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "rectal-prolapse-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "varicocele-questions",
+   "value": 1
+ },
+ {
+   "source": "aspirin-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "testicle-questions",
+   "value": 1
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "pelvic-area-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "burn-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "massage-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "burn-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "stomach-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "insomnia-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterial-vaginosis-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "constipation-questions",
+   "value": 1
+ },
+ {
+   "source": "sperm-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "typhoid-questions",
+   "value": 1
+ },
+ {
+   "source": "clitoris-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "screening-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "ejaculation-questions",
+   "value": 1
+ },
+ {
+   "source": "fear-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "testicle-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "fertility-questions",
+   "value": 1
+ },
+ {
+   "source": "self-exam-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "movement-questions",
+   "target": "gonorrhea-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "anus-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "blood-test-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "massage-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "burn-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "low-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "undescended-testicle-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "itch-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "cramps-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "gonorrhea-questions",
+   "target": "bacterial-vaginosis-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "abdominal-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "sperm-questions",
+   "value": 1
+ },
+ {
+   "source": "reaction-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "typhoid-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "clitoris-questions",
+   "value": 1
+ },
+ {
+   "source": "screening-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "salt-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "hematoma-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "injury-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "rectal-prolapse-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "aspirin-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "prostatitis-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "protein-questions",
+   "value": 1
+ },
+ {
+   "source": "ejaculation-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "incontinence-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "nervousness-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "cramps-questions",
+   "value": 1
+ },
+ {
+   "source": "protein-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "antidepressant-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "incontinence-questions",
+   "value": 1
+ },
+ {
+   "source": "nerve-questions",
+   "target": "genital-herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "prostatitis-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "waist-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "testosterone-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-cancer-questions",
+   "target": "heartburn-questions",
+   "value": 1
+ },
+ {
+   "source": "erectile-dysfunction-questions",
+   "target": "walking-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "prostate-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "walking-questions",
+   "target": "erectile-dysfunction-questions",
+   "value": 1
+ },
+ {
+   "source": "genital-herpes-questions",
+   "target": "masturbation-questions",
+   "value": 1
+ },
+ {
+   "source": "waist-questions",
+   "target": "testicular-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "testicular-cancer-questions",
+   "target": "weight-questions",
+   "value": 1
+ }
+]
+}

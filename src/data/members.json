@@ -1,0 +1,722 @@
+[
+ {
+   "topicId": "artery",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "artery",
+   "memberName": "Elizabeth Hanes",
+   "id": 2
+ },
+ {
+   "topicId": "artery",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 3
+ },
+ {
+   "topicId": "congestive-heart-failure",
+   "memberName": "Beachbaby012",
+   "id": 1
+ },
+ {
+   "topicId": "congestive-heart-failure",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "congestive-heart-failure",
+   "memberName": "James Beckerman, MD, FACC",
+   "id": 3
+ },
+ {
+   "topicId": "arrhythmias",
+   "memberName": "David W. Stein, MD",
+   "id": 1
+ },
+ {
+   "topicId": "arrhythmias",
+   "memberName": "Jadedu",
+   "id": 2
+ },
+ {
+   "topicId": "arrhythmias",
+   "memberName": "money1971",
+   "id": 3
+ },
+ {
+   "topicId": "heart-attack",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "heart-attack",
+   "memberName": "Elizabeth Hanes",
+   "id": 2
+ },
+ {
+   "topicId": "heart-attack",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 3
+ },
+ {
+   "topicId": "heart-disease",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "heart-disease",
+   "memberName": "Elizabeth Hanes",
+   "id": 2
+ },
+ {
+   "topicId": "heart-disease",
+   "memberName": "Elaine Magee, MPH, RD",
+   "id": 3
+ },
+ {
+   "topicId": "gallstone",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "gallstone",
+   "memberName": "Elizabeth Hanes",
+   "id": 2
+ },
+ {
+   "topicId": "gallstone",
+   "memberName": "trayoder",
+   "id": 3
+ },
+ {
+   "topicId": "hemorrhoid",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "hemorrhoid",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "hemorrhoid",
+   "memberName": "learntolivehealthy",
+   "id": 3
+ },
+ {
+   "topicId": "diverticulitis",
+   "memberName": "Beachbaby012",
+   "id": 1
+ },
+ {
+   "topicId": "diverticulitis",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "diverticulitis",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 3
+ },
+ {
+   "topicId": "polyp",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "polyp",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "polyp",
+   "memberName": "Elizabeth Hanes",
+   "id": 3
+ },
+ {
+   "topicId": "hepatitis-c",
+   "memberName": "Ren2aqua",
+   "id": 1
+ },
+ {
+   "topicId": "hepatitis-c",
+   "memberName": "Carolyn O'Neil, MS, RD",
+   "id": 2
+ },
+ {
+   "topicId": "hepatitis-c",
+   "memberName": "Elizabeth Hanes",
+   "id": 3
+ },
+ {
+   "topicId": "thyroid",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "thyroid",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "thyroid",
+   "memberName": "Beachbaby012",
+   "id": 3
+ },
+ {
+   "topicId": "hypothyroidism",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "hypothyroidism",
+   "memberName": "Beachbaby012",
+   "id": 2
+ },
+ {
+   "topicId": "hypothyroidism",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 3
+ },
+ {
+   "topicId": "diabetes",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "diabetes",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "diabetes",
+   "memberName": "Michael Dansinger, MD",
+   "id": 3
+ },
+ {
+   "topicId": "menopause",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "menopause",
+   "memberName": "Laura Corio, MD",
+   "id": 2
+ },
+ {
+   "topicId": "menopause",
+   "memberName": "Mary Jane Minkin, MD",
+   "id": 3
+ },
+ {
+   "topicId": "type-2-diabetes",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "type-2-diabetes",
+   "memberName": "Beachbaby012",
+   "id": 2
+ },
+ {
+   "topicId": "type-2-diabetes",
+   "memberName": "Michael Dansinger, MD",
+   "id": 3
+ },
+ {
+   "topicId": "genital-herpes",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "genital-herpes",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "genital-herpes",
+   "memberName": "shwanmartin",
+   "id": 3
+ },
+ {
+   "topicId": "chlamydia",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "chlamydia",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "chlamydia",
+   "memberName": "Terri Warren, RN, ANP",
+   "id": 3
+ },
+ {
+   "topicId": "trichomoniasis",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "trichomoniasis",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "trichomoniasis",
+   "memberName": "Louise Chang, MD",
+   "id": 3
+ },
+ {
+   "topicId": "ovarian-cancer",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "ovarian-cancer",
+   "memberName": "Andrew Berchuck, MD",
+   "id": 2
+ },
+ {
+   "topicId": "ovarian-cancer",
+   "memberName": "NOHARD",
+   "id": 3
+ },
+ {
+   "topicId": "infertility",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "infertility",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "infertility",
+   "memberName": "ChristinaR01",
+   "id": 3
+ },
+ {
+   "topicId": "erectile-dysfunction",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "erectile-dysfunction",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "erectile-dysfunction",
+   "memberName": "Sheldon Marks, MD",
+   "id": 3
+ },
+ {
+   "topicId": "prostate-cancer",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "prostate-cancer",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "prostate-cancer",
+   "memberName": "Sheldon Marks, MD",
+   "id": 3
+ },
+ {
+   "topicId": "gonorrhea",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "gonorrhea",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "gonorrhea",
+   "memberName": "Georgia_Peach",
+   "id": 3
+ },
+ {
+   "topicId": "testicular-cancer",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "testicular-cancer",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "testicular-cancer",
+   "memberName": "kathybus123",
+   "id": 3
+ },
+ {
+   "topicId": "sprain",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "sprain",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "sprain",
+   "memberName": "Heather Free, PharmD",
+   "id": 3
+ },
+ {
+   "topicId": "fibromyalgia",
+   "memberName": "Mark J. Pellegrino, MD",
+   "id": 1
+ },
+ {
+   "topicId": "fibromyalgia",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "fibromyalgia",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 3
+ },
+ {
+   "topicId": "carpal-tunnel-syndrome",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "carpal-tunnel-syndrome",
+   "memberName": "aug82664",
+   "id": 2
+ },
+ {
+   "topicId": "carpal-tunnel-syndrome",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 3
+ },
+ {
+   "topicId": "lupus",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "lupus",
+   "memberName": "David Zelman, MD",
+   "id": 2
+ },
+ {
+   "topicId": "lupus",
+   "memberName": "tyson211",
+   "id": 3
+ },
+ {
+   "topicId": "rotator-cuff",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "rotator-cuff",
+   "memberName": "Elizabeth Hanes",
+   "id": 2
+ },
+ {
+   "topicId": "rotator-cuff",
+   "memberName": "Beachbaby012",
+   "id": 3
+ },
+ {
+   "topicId": "parkinsons-disease",
+   "memberName": "Mark A. Stacy, MD",
+   "id": 1
+ },
+ {
+   "topicId": "parkinsons-disease",
+   "memberName": "Michael W. Smith, MD",
+   "id": 2
+ },
+ {
+   "topicId": "parkinsons-disease",
+   "memberName": "Michael J. Breus, PhD, ABSM",
+   "id": 3
+ },
+ {
+   "topicId": "alzheimers-disease",
+   "memberName": "Helene Bergman, LMSW",
+   "id": 1
+ },
+ {
+   "topicId": "alzheimers-disease",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "alzheimers-disease",
+   "memberName": "VineQueen",
+   "id": 3
+ },
+ {
+   "topicId": "epilepsy",
+   "memberName": "Rodney A. Radtke, MD",
+   "id": 1
+ },
+ {
+   "topicId": "epilepsy",
+   "memberName": "Beachbaby012",
+   "id": 2
+ },
+ {
+   "topicId": "epilepsy",
+   "memberName": "edanis",
+   "id": 3
+ },
+ {
+   "topicId": "multiple-sclerosis",
+   "memberName": "Neil S. Lava, MD",
+   "id": 1
+ },
+ {
+   "topicId": "multiple-sclerosis",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "multiple-sclerosis",
+   "memberName": "DeeMann1100",
+   "id": 3
+ },
+ {
+   "topicId": "pneumonia",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "pneumonia",
+   "memberName": "Beachbaby012",
+   "id": 2
+ },
+ {
+   "topicId": "pneumonia",
+   "memberName": "NOHARD",
+   "id": 3
+ },
+ {
+   "topicId": "chronic-obstructive-pulmonary-disease",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "chronic-obstructive-pulmonary-disease",
+   "memberName": "Elizabeth Hanes",
+   "id": 2
+ },
+ {
+   "topicId": "chronic-obstructive-pulmonary-disease",
+   "memberName": "sayem",
+   "id": 3
+ },
+ {
+   "topicId": "asthma",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "asthma",
+   "memberName": "Gregory M. Metz, MD",
+   "id": 2
+ },
+ {
+   "topicId": "asthma",
+   "memberName": "NOHARD",
+   "id": 3
+ },
+ {
+   "topicId": "bronchitis",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "bronchitis",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "bronchitis",
+   "memberName": "Beachbaby012",
+   "id": 3
+ },
+ {
+   "topicId": "cough",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "cough",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "cough",
+   "memberName": "Elizabeth Hanes",
+   "id": 3
+ },
+ {
+   "topicId": "scoliosis",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "scoliosis",
+   "memberName": "Beachbaby012",
+   "id": 2
+ },
+ {
+   "topicId": "scoliosis",
+   "memberName": "mendy44",
+   "id": 3
+ },
+ {
+   "topicId": "osteoporosis",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "osteoporosis",
+   "memberName": "Susan Allison, RNC, BSN, MPA",
+   "id": 2
+ },
+ {
+   "topicId": "osteoporosis",
+   "memberName": "Elizabeth Hanes",
+   "id": 3
+ },
+ {
+   "topicId": "bone-spurs",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "bone-spurs",
+   "memberName": "Carolyn O'Neil, MS, RD",
+   "id": 2
+ },
+ {
+   "topicId": "bone-spurs",
+   "memberName": "Elizabeth Hanes",
+   "id": 3
+ },
+ {
+   "topicId": "fracture",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "fracture",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "fracture",
+   "memberName": "Elizabeth Hanes",
+   "id": 3
+ },
+ {
+   "topicId": "osteoarthritis",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "osteoarthritis",
+   "memberName": "sharim",
+   "id": 2
+ },
+ {
+   "topicId": "osteoarthritis",
+   "memberName": "sueb4343",
+   "id": 3
+ },
+ {
+   "topicId": "kidney-stone",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "kidney-stone",
+   "memberName": "NOHARD",
+   "id": 2
+ },
+ {
+   "topicId": "kidney-stone",
+   "memberName": "Dhammika",
+   "id": 3
+ },
+ {
+   "topicId": "urinary-tract-infection",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "urinary-tract-infection",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "urinary-tract-infection",
+   "memberName": "Kristen A. Binaso, RPh, CCP, FASCP",
+   "id": 3
+ },
+ {
+   "topicId": "kidney-infection",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 1
+ },
+ {
+   "topicId": "kidney-infection",
+   "memberName": "Elizabeth Hanes",
+   "id": 2
+ },
+ {
+   "topicId": "kidney-infection",
+   "memberName": "NOHARD",
+   "id": 3
+ },
+ {
+   "topicId": "kidney-failure",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "kidney-failure",
+   "memberName": "Carolyn O'Neil, MS, RD",
+   "id": 2
+ },
+ {
+   "topicId": "kidney-failure",
+   "memberName": "Elizabeth Hanes",
+   "id": 3
+ },
+ {
+   "topicId": "kidney-disease",
+   "memberName": "NOHARD",
+   "id": 1
+ },
+ {
+   "topicId": "kidney-disease",
+   "memberName": "Rod Moser, PA, PhD",
+   "id": 2
+ },
+ {
+   "topicId": "kidney-disease",
+   "memberName": "Maryann Tomovich Jacobsen, RD",
+   "id": 3
+ }
+]

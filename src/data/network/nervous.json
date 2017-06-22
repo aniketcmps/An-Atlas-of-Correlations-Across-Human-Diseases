@@ -1,0 +1,1518 @@
+{
+"nodes":
+[
+ {
+   "id": "alzheimers-disease-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "anger-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ankle-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "antibiotic-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "arm-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "arthritis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "baby-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "blood-clot-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "brain-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "breastfeed-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "broken-arm-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "carbohydrate-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "carpal-tunnel-syndrome-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "confusion-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "consciousness-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "depression-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "diabetes-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "digestive-system-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "dizziness-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "dog-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "down-syndrome-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "drainage-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "drug-test-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "elbow-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "electric-shock-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "epilepsy-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "eyes-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "fear-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fibromyalgia-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "fingernail-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "finger-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "flu-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "foot-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "forearm-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "generalized-epilepsy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "genetic-disorder-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "genetic-testing-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "hand-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "headache-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hearing-loss-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "herpes-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "high-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "hypothyroidism-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "infusion-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "injection-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "kernel-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "knee-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "ligament-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "long-term-effect-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lump-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "luteinizing-hormone-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "lyme-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "magnetic-resonance-imaging-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "marijuana-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "melatonin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "memory-loss-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "morphine-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "mouth-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "multiple-sclerosis-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "muscle-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "neck-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "nerve-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "oxycodone-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "parkinsons-disease-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "personality-disorder-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "polio-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pregnancy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pressure-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "rheumatoid-arthritis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "scalp-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "seizure-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "short-stature-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "short-term-memory-loss-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "smell-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "spasm-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "splint-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "stitches-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "transfusion-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "virus-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "vitamin-questions",
+   "group": 1,
+   "clusterid": 5
+ },
+ {
+   "id": "walking-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "weakness-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "weight-loss-pill-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "wound-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "wrist-questions",
+   "group": 1,
+   "clusterid": 2
+ }
+],
+"links":
+[
+ {
+   "source": "surgery-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 7
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "surgery-questions",
+   "value": 7
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "wrist-questions",
+   "value": 5
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "hand-questions",
+   "value": 5
+ },
+ {
+   "source": "hand-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 5
+ },
+ {
+   "source": "wrist-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 5
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "seizure-questions",
+   "value": 3
+ },
+ {
+   "source": "seizure-questions",
+   "target": "epilepsy-questions",
+   "value": 3
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "arm-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "family-questions",
+   "value": 2
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "forearm-questions",
+   "value": 2
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "surgery-questions",
+   "value": 2
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "finger-questions",
+   "value": 2
+ },
+ {
+   "source": "surgery-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 2
+ },
+ {
+   "source": "drug-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "finger-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "drug-questions",
+   "value": 2
+ },
+ {
+   "source": "family-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "forearm-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "arm-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 2
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "ankle-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "long-term-effect-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "lump-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "infusion-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "luteinizing-hormone-questions",
+   "value": 1
+ },
+ {
+   "source": "oxycodone-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "hearing-loss-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "personality-disorder-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "walking-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "generalized-epilepsy-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "drainage-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "eyes-questions",
+   "value": 1
+ },
+ {
+   "source": "morphine-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "mouth-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "blood-clot-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "knee-questions",
+   "value": 1
+ },
+ {
+   "source": "eyes-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "luteinizing-hormone-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-test-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "anger-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "electric-shock-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "short-term-memory-loss-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "ligament-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "memory-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "ankle-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "pressure-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "depression-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "dog-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "fear-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "scalp-questions",
+   "value": 1
+ },
+ {
+   "source": "nerve-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 1
+ },
+ {
+   "source": "stitches-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "virus-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "antibiotic-questions",
+   "value": 1
+ },
+ {
+   "source": "scalp-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "elbow-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "splint-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "herpes-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "depression-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "dog-questions",
+   "value": 1
+ },
+ {
+   "source": "lump-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "consciousness-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "fingernail-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "wound-questions",
+   "value": 1
+ },
+ {
+   "source": "broken-arm-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "kernel-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "marijuana-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "consciousness-questions",
+   "value": 1
+ },
+ {
+   "source": "fingernail-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "stitches-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "broken-arm-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "kernel-questions",
+   "value": 1
+ },
+ {
+   "source": "marijuana-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "transfusion-questions",
+   "value": 1
+ },
+ {
+   "source": "fear-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "splint-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "virus-questions",
+   "value": 1
+ },
+ {
+   "source": "melatonin-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "hypothyroidism-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "polio-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "nerve-questions",
+   "value": 1
+ },
+ {
+   "source": "wound-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "herpes-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "melatonin-questions",
+   "value": 1
+ },
+ {
+   "source": "hypothyroidism-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "transfusion-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "lump-questions",
+   "value": 1
+ },
+ {
+   "source": "polio-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "elbow-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "genetic-disorder-questions",
+   "value": 1
+ },
+ {
+   "source": "genetic-disorder-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "genetic-testing-questions",
+   "value": 1
+ },
+ {
+   "source": "genetic-testing-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "arthritis-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "walking-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "carbohydrate-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "dizziness-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "arthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "spasm-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "electric-shock-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "dizziness-questions",
+   "value": 1
+ },
+ {
+   "source": "walking-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "carbohydrate-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "brain-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "down-syndrome-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "weight-loss-pill-questions",
+   "value": 1
+ },
+ {
+   "source": "digestive-system-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "foot-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "fibromyalgia-questions",
+   "value": 1
+ },
+ {
+   "source": "breastfeed-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "seizure-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "foot-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "fibromyalgia-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "baby-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-loss-pill-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "digestive-system-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "depression-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "breastfeed-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "down-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "spasm-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "rheumatoid-arthritis-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "weakness-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "baby-questions",
+   "value": 1
+ },
+ {
+   "source": "seizure-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "muscle-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "rheumatoid-arthritis-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "weakness-questions",
+   "target": "parkinsons-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "muscle-questions",
+   "value": 1
+ },
+ {
+   "source": "parkinsons-disease-questions",
+   "target": "depression-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "morphine-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "mouth-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "generalized-epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "vitamin-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "lyme-disease-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "lump-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "magnetic-resonance-imaging-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "anger-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-clot-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "ligament-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "long-term-effect-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "drainage-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "epilepsy-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "carpal-tunnel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "infusion-questions",
+   "target": "multiple-sclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "drug-test-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "walking-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "short-term-memory-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "memory-loss-questions",
+   "target": "epilepsy-questions",
+   "value": 1
+ },
+ {
+   "source": "knee-questions",
+   "target": "alzheimers-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "lyme-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "vitamin-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "carpal-tunnel-syndrome-questions",
+   "target": "pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "magnetic-resonance-imaging-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "oxycodone-questions",
+   "value": 1
+ },
+ {
+   "source": "alzheimers-disease-questions",
+   "target": "hearing-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "multiple-sclerosis-questions",
+   "target": "personality-disorder-questions",
+   "value": 1
+ }
+]
+}

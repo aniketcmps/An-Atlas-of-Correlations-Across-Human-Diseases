@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="shortcut icon" href="img/shortcut.jpeg" />
+  <title>WebMD : Learn All About the Human Body</title>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"  crossorigin="anonymous">
+  <link  href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+  <script src="http://code.jquery.com/jquery-1.12.4.js" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.1.1/d3.min.js"></script>
+  <script type="text/javascript" src ="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/main.js"></script>
+  <script type="text/javascript" src="js/barplot.js"></script>
+  <script type="text/javascript" src="js/lineplot.js"></script>
+  <script type="text/javascript" src="js/network.js"></script>
+  <script type="text/javascript" src="js/drawstar.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+  <div class="row col-lg-12 col-md-12" id="mainContainer">
+    <div class="row col-lg-12" style="margin:0 !important">
+      <table width='100%'>
+        <tr>
+          <td width='15%'><img src="img/webmdlogo.jpg" title="WebMD logo"/></td>
+          <td width='25%'><h2><font color="#3498DB"> - Data Analysis    </font></h2></td>
+    		  <td width='40%' align="left">
+            <form id="tfnewsearch" method="get" action="http://www.google.com/search" target="_blank">
+    		        <input type="text" class="tftextinput" name="q" size="21" maxlength="120"><input type="submit" value="search" class="tfbutton">
+    		    </form>
+  		    <td width='70%' align="right"><input type="button" style="background-color:#3498DB; color:#FFFFFF" value="SUBSCRIBE" onclick="window.open('http://www.webmd.com/')" /></td>
+        </tr>
+      </table>
+      <h4> Select a Human Anatomy System Below to Begin:</h4>
+      <div class="row">
+        <div class="tabordion col-md-2 innerTabs" style="color:#3498DB">
+          <div id="selectionContent">
+            <ul><!-- need to add file names for corresponding system once we create them  -->
+              <li data-file="data/bar/skeletal_count.csv" data-file1="data/network/skeleton.json">Skeletal System</li>
+              <li data-file="data/bar/muscular_count.csv" data-file1="data/network/muscle.json">Muscular System</li>
+              <li data-file="data/bar/cardio_count.csv" data-file1="data/network/cardio.json">Cardiovascular System</li>
+              <li data-file="data/bar/digestive_count.csv" data-file1="data/network/digestive.json">Digestive System</li>
+  		        <li data-file="data/bar/endocrine_count.csv" data-file1="data/network/endocrine.json">Endocrine System</li>
+  		        <li data-file="data/bar/nervous_count.csv" data-file1="data/network/nervous.json">Nervous System</li>
+  		        <li data-file="data/bar/respiratory_count.csv" data-file1="data/network/respiratory.json">Respiratory System</li>
+  		        <li data-file="data/bar/urinary_count.csv" data-file1="data/network/urinary.json">Urinary System</li>
+  		        <li data-file="data/bar/female_count.csv" data-file1="data/network/frep.json">Female Reproductive System</li>
+  		        <li data-file="data/bar/male_count.csv" data-file1="data/network/mrep.json">Male Reproductive System</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="showImage col-md-3 innerTabs">
+          <div id="ImagesClass">
+            <ul>
+              <li><img src="img/skeletalsys.png" title="skeletal system"/>
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','scoliosis','#yearlytrend')" title="scoliosis" alt="circle" style="position:absolute; top:180px; left:102px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','fracture','#yearlytrend')" title="fracture" alt="circle" style="position:absolute; bottom:45px; left:75px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','bone-spurs','#yearlytrend')" title="bone spurs" alt="circle" style="position:absolute; bottom:118px; left:129px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','osteoporosis','#yearlytrend')" title="osteoporosis" alt="circle" style="position:absolute; bottom:192px; left:75px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','osteoarthritis','#yearlytrend')" title="osteoarthritis" alt="circle" style="position:absolute; top:244px; left:165px; width:10px; height:10px" SRC="img/circle.png"></li>
+              <li><img src="img/muscularsys.png" title="muscular system"/>
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','fibromyalgia','#yearlytrend')" title="fibromyalgia" alt="circle" style="position:absolute; top:95px; left:85px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','carpal-tunnel-syndrome','#yearlytrend')" title="carpal tunnel" alt="circle" style="position:absolute; bottom:295px; left:28px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','sprain','#yearlytrend')" title="sprain" alt="circle" style="position:absolute; bottom:55px; left:125px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','rotator-cuff','#yearlytrend')" title="rotator cuff" alt="circle" style="position:absolute; top:120px; left:153px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','lupus','#yearlytrend')" title="lupus" alt="circle" style="position:absolute; top:60px; left:115px; width:10px; height:10px" SRC="img/circle.png"></li>
+              <li><img src="img/cardiovascularsys.PNG" title="cardiovascular system"/>
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','artery','#yearlytrend')" title="artery" alt="circle" style="position:absolute; top:200px; left:104px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','arrhythmias','#yearlytrend')" title="arrhythmias" alt="circle" style="position:absolute; top:163px; left:120px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','congestive-heart-failure','#yearlytrend')" title="congestive heart failure" alt="circle" style="position:absolute; top:150px; left:118px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','heart-attack','#yearlytrend')" title="heart attack" alt="circle" style="position:absolute; top:153px; left:100px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','heart-disease','#yearlytrend')" title="heart disease" alt="circle" style="position:absolute; top:143px; left:105px; width:10px; height:10px" SRC="img/circle.png"></li>
+              <li><img src="img/digestivesys.PNG"title="digestive system"/>
+				        <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','gallstone','#yearlytrend')" title="gallstone" alt="circle" style="position:absolute; top:198px; left:85px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','hemorrhoid','#yearlytrend')" title="hemorrhoid" alt="circle" style="position:absolute; bottom:303px; left:101px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','diverticulitis','#yearlytrend')" title="diverticulitis" alt="circle" style="position:absolute; top:223px; left:133px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','polyp','#yearlytrend')" title="polyp" alt="circle" style="position:absolute; top:230px; left:72px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','hepatitis-c','#yearlytrend')" title="hepatitis-c" alt="circle" style="position:absolute; top:172px; left:107px; width:10px; height:10px" SRC="img/circle.png"></li>
+    	        <li><img src="img/endocrinesys.PNG" title="endocrine system"/>
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','thyroid','#yearlytrend')" title="thyroid" alt="circle" style="position:absolute; top:95px; left:98px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','hypothyroidism','#yearlytrend')" title="hypothyroidism" alt="circle" style="position:absolute; top:95px; left:108px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','diabetes','#yearlytrend')" title="diabetes" alt="circle" style="position:absolute; top:198px; left:95px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','type-2-diabetes','#yearlytrend')" title="type 2 diabetes" alt="circle" style="position:absolute; top:198px; left:107px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','menopause','#yearlytrend')" title="menopause" alt="circle" style="position:absolute; bottom:335px; left:115px; width:10px; height:10px" SRC="img/circle.png"></li>
+    	        <li><img src="img/nervoussys.PNG" title="nervous system"/>
+				        <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','parkinsons-disease','#yearlytrend')" title="parkinsons disease" alt="circle" style="position:absolute; top:30px; left:101px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','alzheimers-disease','#yearlytrend')" title="alzheimers disease" alt="circle" style="position:absolute; top:45px; left:110px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','epilepsy','#yearlytrend')" title="epilepsy" alt="circle" style="position:absolute; top:42px; left:88px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','multiple-sclerosis','#yearlytrend')" title="multiple sclerosis" alt="circle" style="position:absolute; top:122px; left:135px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','carpal-tunnel-syndrome','#yearlytrend')" title="carpal tunnel syndrome" alt="circle" style="position:absolute; bottom:303px; left:29px; width:10px; height:10px" SRC="img/circle.png"></li>
+			        <li><img src="img/respiratorysys.PNG" title="respiratory system">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','pneumonia','#yearlytrend')" title="pneumonia" alt="circle" style="position:absolute; top:157px; left:75px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','chronic-obstructive-pulmonary-disease','#yearlytrend')" title="chronic obstructive pulmonary disease" alt="circle" style="position:absolute; top:136px; left:89px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','asthma','#yearlytrend')" title="asthma" alt="circle" style="position:absolute; top:133px; left:124px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','bronchitis','#yearlytrend')" title="bronchitis" alt="circle" style="position:absolute; bottom:477px; left:101px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','cough','#yearlytrend')" title="cough" alt="circle" style="position:absolute; top:155px; left:125px; width:10px; height:10px" SRC="img/circle.png"></li>
+    	        <li><img src="img/urinarysys.PNG" title="urinary system"/>
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','kidney-stone','#yearlytrend')" title="kidney stone" alt="circle" style="position:absolute; top:188px; left:87px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','urinary-tract-infection','#yearlytrend')" title="urinary tract infection" alt="circle" style="position:absolute; bottom:313px; left:101px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','kidney-infection','#yearlytrend')" title="kidney infection" alt="circle" style="position:absolute; top:209px; left:83px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','kidney-failure','#yearlytrend')" title="kidney failure" alt="circle" style="position:absolute; top:189px; left:119px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','kidney-disease','#yearlytrend')" title="kidney disease" alt="circle" style="position:absolute; top:208px; left:117px; width:10px; height:10px" SRC="img/circle.png"></li>
+    	        <li><img src="img/femalesys.PNG" title="female reproductive system"/>
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','genital-herpes','#yearlytrend')" title="genital herpes" alt="circle" style="position:absolute; bottom:297px; left:97px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','chlamydia','#yearlytrend')" title="chlamydia" alt="circle" style="position:absolute; bottom:297px; left:106px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','trichomoniasis','#yearlytrend')" title="trichomoniasis" alt="circle" style="position:absolute; bottom:310px; left:101px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','ovarian-cancer','#yearlytrend')" title="ovarian cancer" alt="circle" style="position:absolute; bottom:334px; left:87px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','infertility','#yearlytrend')" title="infertility" alt="circle" style="position:absolute; bottom:334px; left:114px; width:10px; height:10px" SRC="img/circle.png"></li>
+              <li><img src="img/malesys.PNG" title="male reproductive system"/>
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','genital-herpes','#yearlytrend')" title="genital herpes" alt="circle" style="position:absolute; bottom:297px; left:106px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','erectile-dysfunction','#yearlytrend')" title="erectile dysfunction" alt="circle" style="position:absolute; bottom:299px; left:96px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','prostate-cancer','#yearlytrend')" title="prostate cancer" alt="circle" style="position:absolute; bottom:311px; left:100px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','testicular-cancer','#yearlytrend')" title="testicular cancer" alt="circle" style="position:absolute; bottom:287px; left:90px; width:10px; height:10px" SRC="img/circle.png">
+                <img onmouseover="bigImg(this)" onmouseout="normalImg(this)" onclick="plotLine('data/line/trend_data.json','gonorrhea','#yearlytrend')" title="gonorrhea" alt="circle" style="position:absolute; bottom:288px; left:100px; width:10px; height:10px" SRC="img/circle.png"></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="Analysis col-md-7 innerTabs">
+    	    <div class="panel panel-default" id="ContextClass">
+    	      <div class="panel-heading">
+    		      <h3 class="panel-title">Selected System:</h3>
+    	      </div>
+    	      <div class="panel-body" id="ImagesClass">
+    		      <ul>
+                <li><h3><font color="#3498DB">Skeletal System</font></h3>The skeletal system includes all of the bones and joints in the body. Each bone is a complex living organ that is made up of many cells, protein fibers, and minerals. The adult human skeletal system consists of 206 bones, as well as a network of tendons, ligaments and cartilage that connects them. The skeletal system performs vital functions - support, movement, protection, blood cell production, calcium storage and endocrine regulation — that enable us to survive.</li>
+                <li><h3><font color="#3498DB">Muscular System</font></h3>The skeleton is covered by layers of skeletal muscle. Each muscle is attached to two or more bones so that when the muscle contracts (shortens) it produces MOVEMENT. Skeletal muscle makes up about 40 per cent of body weight. As well as producing movement, some muscles remain partially contracted for long periods to maintain the body’s posture. Muscles also help to maintain posture and circulate blood and other substances throughout the body.</li>
+                <li><h3><font color="#3498DB">Cardiovascular System</font></h3>The cardiovascular system consists of the heart and blood vessels (arteries, veins, and capillaries). It delivers oxygen and nutrients to the tissues and carries waste products to the organs responsible for elimination. The arteries carry blood from the heart to the rest of the body, and the veins carry blood back to the heart. An adult’s heart pumps nearly 4000 gallons of blood each day. Heart beats some 30 million times a year</li>
+                <li><h3><font color="#3498DB">Digestive System</font></h3>The digestive system is made up of the gastrointestinal (GI) tract—also called the digestive tract—and the liver, pancreas, and gallbladder. The GI tract is a series of hollow organs joined in a long, twisting tube from the mouth to the anus. The hollow organs that make up the GI tract are the mouth, esophagus, stomach, small intestine, large intestine—which includes the rectum—and anus. Digestive system turn the food into nutrients which the body uses for energy, cell growth.</li>
+                <li><h3><font color="#3498DB">Endocrine System</font></h3>The endocrine system is the collection of glands that produce hormones that regulate metabolism, growth and development, tissue function, sexual function, reproduction, sleep, and mood, among other things. In general, the endocrine system is in charge of body processes that happen slowly, such as cell growth. The endocrine system is made up of the pituitary gland, thyroid gland, parathyroid glands, adrenal glands, pancreas, ovaries (in females) and testicles (in males).</li>
+                <li><h3><font color="#3498DB">Nervous System</font></h3> The nervous system is a complex network of nerves and cells that carry messages to and from the brain and spinal cord to various parts of the body.The nervous system includes both the Central nervous system and Peripheral nervous system. The Central nervous system is made up of the brain and spinal cord and The Peripheral nervous system is made up of the Somatic and the Autonomic nervous systems. Faster processes like breathing and body movement are controlled by the this system.</li>
+                <li><h3><font color="#3498DB">Respiratory System</font></h3>The human respiratory system is a series of organs responsible for taking in oxygen and expelling carbon dioxide. The primary organs of the respiratory system are lungs, which carry out this exchange of gases as we breathe. Through breathing, inhalation and exhalation, the respiratory system facilitates the exchange of gases between the air and the blood and between the blood and the body’s cells. The respiratory system also helps us to smell and create sound</li>
+                <li><h3><font color="#3498DB">Urinary System</font></h3> The urinary system, also known as the renal system, produces, stores and eliminates urine, the fluid waste excreted by the kidneys. The kidneys make urine by filtering wastes and extra water from blood. Urine travels from the kidneys through two thin tubes called ureters and fills the bladder. When the bladder is full, a person urinates through the urethra to eliminate the waste. In short he urinary tract is the body’s drainage system for removing wastes and extra fluid. </li>
+                <li><h3><font color="#3498DB">Female Reproductive System</font></h3>The female reproductive system includes a group of organs in a woman's lower belly and pelvis. It includes the ovaries, fallopian tubes, uterus, vagina, vulva, mammary glands and breasts. These organs are involved in the production and transportation of gametes and the production of sex hormones. The female reproductive system also facilitates the fertilization of ova by sperm and supports the development of offspring during pregnancy.</li>
+                <li><h3><font color="#3498DB">Male Reproductive System</font></h3>The male reproductive system includes the scrotum, testes, spermatic ducts, sex glands, and penis. These organs work together to produce sperm, the male gamete, and the other components of semen. These organs also work together to deliver semen out of the body and into the vagina where it can fertilize egg cells. </li>
+              </ul>
+    		      <div class="panel panel-default">
+                <div id="displayBar"></div>
+                <div> We highlight the five most commonly queried issues for the system and shows the aggregated data over 5 years. This helps us to analyze which ailments are predominant in the society as they are the most queried topics. </div><br>
+                <div> We show the trend for health issue from 2010-2014 for the selected topic below. </div>
+                <div id="displayLine"></div>
+    		      </div>
+    	      </div>
+          </div> <!--  end of panel -->
+        </div> <!--  end of col -->
+      </div> <!--  end of row -->
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-12">
+    	    <div class="panel panel-default">
+    	      <div class="panel-heading">
+    		      <h3 class="panel-title">Topic Network</h3>
+    	      </div>
+    	      <div class="panel-body" id="displayNetwork"></div>
+            <div> The network graph above shows the five issues identified during the data analysis phase are enlarged circles. The other bubbles are all the issues related to that system. The links between the two issues define the closeness of the two clusters. There is one cluster for each of the five issues. And other clusters are formed as per their correlations with other issues. </div>
+    	    </div>
+        </div>
+      </div> <!--  end of row -->
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-12">
+    	    <div class="panel panel-default">
+    	      <div class="panel-heading">
+    		      <h3 class="panel-title">Experts</h3>
+    	      </div>
+            <div> We show the top three members based on the responses they provide for the selected topic.  </div>
+    	      <div class="panel-body" id="displayMembers"></div>
+    	    </div>  <!--  end of panel -->
+        </div>
+      </div> <!--  end of row -->
+    </div>
+    <footer class="footer">
+       <div id="contribution" class="container">
+         <table width='100%' >
+           <br>
+           <tr>
+             <td width='70%'align="left">Group members <br>
+             <table width='70%'align="left">
+               <tr><td>Aniket Deshpande</td><td>Kavita Korgaonkar</td></tr>
+               <tr><td>Radhika Kinage</td><td>Tejal Sabnis</td></tr>
+             </table>
+             </td>
+            <td width='30%' align="right"><img src="img/asulogo.jpg" title="ASU logo" /></td>
+           </tr>
+         </table>
+       </div>
+     </footer>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,5528 @@
+{
+"nodes":
+[
+ {
+   "id": "abdominal-pain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ablation-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "acetaminophen-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "acute-bronchitis-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "adenoidectomy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "air-quality-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "allergic-reaction-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "allergy-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "ammonia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "amoxicillin-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "anger-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "antibiotic-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "antidepressant-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "anus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "anxiety-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "appendix-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "arm-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "arrhythmia-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "aspiration-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "aspirin-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "asthma-attack-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "asthma-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "attention-deficit-hyperactivity-disorder-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "autism-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "baby-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "back-pain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bacterial-pneumonia-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "bacterial-vaginosis-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "bacterium-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "barium-swallow-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "belly-button-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bicep-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "bipolar-disorder-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "birth-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "blood-clot-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "blood-pressure-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "blood-test-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "boil-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "breast-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "bronchitis-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "bruise-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "burn-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cancer-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cartilage-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cats-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cavity-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "chest-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "chickenpox-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "choking-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cholesterol-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "chronic-obstructive-pulmonary-disease-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "cirrhosis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "coffee-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "coldness-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "cold-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "collapsed-lung-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "colorado-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "coma-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "condom-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "confusion-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "congestive-heart-failure-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "corpulence-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "cough-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "cramps-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "crying-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cyst-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "dairy-product-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "dehydration-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "dental-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "diarrhea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "diet-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "dizziness-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "dog-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "drainage-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "drowsiness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ear-infection-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "ears-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "echocardiogram-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "edema-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "elbow-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "emergency-room-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "erosion-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "esophagus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "exercise-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "exposure-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "eyes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "fatigue-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "fear-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "feeding-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fever-blister-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "fever-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "flu-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "food-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "foot-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "gallbladder-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hair-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hamburger-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "hand-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "hay-fever-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "headache-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "head-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "hearing-loss-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "heart-disease-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "heart-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "hematoma-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hernia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "herniated-disc-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hiatal-hernia-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "hiccup-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "high-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "hiv-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "hoarseness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "honey-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hunger-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hydrocodone-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ibuprofen-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "ice-cream-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "immune-system-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "immunization-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "incontinence-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "infant-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "inflammation-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "infusion-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "inhaler-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "injection-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "injury-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "insurance-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "iron-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "itch-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "jaw-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "knee-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "laboratory-test-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "labor-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "laryngitis-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lemon-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lightheadedness-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "lip-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "low-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "lump-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "lung-cancer-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "lung-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "lymph-node-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "marijuana-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "medicare-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "memory-loss-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "menieres-disease-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "menstrual-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "methicillin-resistant-staphylococcus-aureus-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "middle-ear-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "milk-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "mite-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "mold-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "mouth-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "movement-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "mucus-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "muscle-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nasal-spray-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "nausea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "neck-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "nervousness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "newborn-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "nightmare-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "nipple-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "nose-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "nostril-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "oil-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "ovary-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "over-the-counter-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "oxygen-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "palpitation-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "pancreas-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "panic-attack-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pap-test-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "pasta-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pelvic-area-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "penicillin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "period-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "pets-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "pink-eye-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "plaque-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pleurisy-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "pneumonia-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "post-nasal-drip-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "postpartum-depression-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "pregnancy-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "pressure-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pulse-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "quit-smoking-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "rabies-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "rash-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "reaction-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "ribcage-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "running-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "runny-nose-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "scar-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "schizophrenia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "seizure-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "separation-anxiety-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sepsis-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "shingles-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "shock-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "short-stature-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "shoulder-blade-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "shoulder-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sinus-infection-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "sinus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "skin-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "sleep-apnea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sleepiness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "smell-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "smoking-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "sore-throat-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "spasm-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "spit-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "spitting-up-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "steroid-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "stomach-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "strep-throat-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "stuffy-nose-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "swallow-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "sweating-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "swine-flu-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "syrup-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tachycardia-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "taste-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "temperature-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "tenderness-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "testicle-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "therapeutic-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "thigh-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "throat-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "thrush-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "thyroid-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tightness-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "toddler-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "toe-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tongue-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tonsillitis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tonsil-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "tooth-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "travel-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "type-2-diabetes-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "ulcer-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ultrasound-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "vaccination-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "vaccines-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "vagina-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "vein-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "ventricle-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "viral-pneumonia-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "virus-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 15
+ },
+ {
+   "id": "vomit-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "waist-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "walking-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "watery-eyes-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weakness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weight-gain-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "weight-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "whooping-cough-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "workout-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "wound-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "wrist-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "x-ray-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "yeast-infection-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "yeast-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "zinc-questions",
+   "group": 1,
+   "clusterid": 1
+ }
+],
+"links":
+[
+ {
+   "source": "cough-questions",
+   "target": "coldness-questions",
+   "value": 41
+ },
+ {
+   "source": "coldness-questions",
+   "target": "cough-questions",
+   "value": 41
+ },
+ {
+   "source": "pain-questions",
+   "target": "cough-questions",
+   "value": 34
+ },
+ {
+   "source": "cough-questions",
+   "target": "pain-questions",
+   "value": 34
+ },
+ {
+   "source": "cough-questions",
+   "target": "fever-questions",
+   "value": 30
+ },
+ {
+   "source": "fever-questions",
+   "target": "cough-questions",
+   "value": 30
+ },
+ {
+   "source": "cough-questions",
+   "target": "throat-questions",
+   "value": 26
+ },
+ {
+   "source": "throat-questions",
+   "target": "cough-questions",
+   "value": 26
+ },
+ {
+   "source": "chest-questions",
+   "target": "cough-questions",
+   "value": 24
+ },
+ {
+   "source": "cough-questions",
+   "target": "chest-questions",
+   "value": 24
+ },
+ {
+   "source": "sore-throat-questions",
+   "target": "cough-questions",
+   "value": 24
+ },
+ {
+   "source": "cough-questions",
+   "target": "sore-throat-questions",
+   "value": 24
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "cough-questions",
+   "value": 18
+ },
+ {
+   "source": "cough-questions",
+   "target": "antibiotic-questions",
+   "value": 18
+ },
+ {
+   "source": "cough-questions",
+   "target": "mucus-questions",
+   "value": 18
+ },
+ {
+   "source": "mucus-questions",
+   "target": "cough-questions",
+   "value": 18
+ },
+ {
+   "source": "runny-nose-questions",
+   "target": "cough-questions",
+   "value": 14
+ },
+ {
+   "source": "cough-questions",
+   "target": "cold-questions",
+   "value": 14
+ },
+ {
+   "source": "cold-questions",
+   "target": "cough-questions",
+   "value": 14
+ },
+ {
+   "source": "cough-questions",
+   "target": "runny-nose-questions",
+   "value": 14
+ },
+ {
+   "source": "cough-questions",
+   "target": "running-questions",
+   "value": 12
+ },
+ {
+   "source": "running-questions",
+   "target": "cough-questions",
+   "value": 12
+ },
+ {
+   "source": "cough-questions",
+   "target": "nose-questions",
+   "value": 12
+ },
+ {
+   "source": "vision-questions",
+   "target": "cough-questions",
+   "value": 12
+ },
+ {
+   "source": "nose-questions",
+   "target": "cough-questions",
+   "value": 12
+ },
+ {
+   "source": "cough-questions",
+   "target": "vision-questions",
+   "value": 12
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "pneumonia-questions",
+   "value": 11
+ },
+ {
+   "source": "cough-questions",
+   "target": "drinking-questions",
+   "value": 11
+ },
+ {
+   "source": "lung-questions",
+   "target": "cough-questions",
+   "value": 11
+ },
+ {
+   "source": "cough-questions",
+   "target": "lung-questions",
+   "value": 11
+ },
+ {
+   "source": "cough-questions",
+   "target": "sinus-infection-questions",
+   "value": 11
+ },
+ {
+   "source": "sinus-infection-questions",
+   "target": "cough-questions",
+   "value": 11
+ },
+ {
+   "source": "cough-questions",
+   "target": "ears-questions",
+   "value": 11
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "antibiotic-questions",
+   "value": 11
+ },
+ {
+   "source": "drinking-questions",
+   "target": "cough-questions",
+   "value": 11
+ },
+ {
+   "source": "ears-questions",
+   "target": "cough-questions",
+   "value": 11
+ },
+ {
+   "source": "headache-questions",
+   "target": "cough-questions",
+   "value": 10
+ },
+ {
+   "source": "baby-questions",
+   "target": "cough-questions",
+   "value": 10
+ },
+ {
+   "source": "cough-questions",
+   "target": "baby-questions",
+   "value": 10
+ },
+ {
+   "source": "cough-questions",
+   "target": "pregnancy-questions",
+   "value": 10
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "cough-questions",
+   "value": 10
+ },
+ {
+   "source": "cough-questions",
+   "target": "headache-questions",
+   "value": 10
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "antibiotic-questions",
+   "value": 9
+ },
+ {
+   "source": "cough-questions",
+   "target": "stuffy-nose-questions",
+   "value": 9
+ },
+ {
+   "source": "movement-questions",
+   "target": "cough-questions",
+   "value": 9
+ },
+ {
+   "source": "cough-questions",
+   "target": "sinus-questions",
+   "value": 9
+ },
+ {
+   "source": "sinus-questions",
+   "target": "cough-questions",
+   "value": 9
+ },
+ {
+   "source": "cough-questions",
+   "target": "movement-questions",
+   "value": 9
+ },
+ {
+   "source": "stuffy-nose-questions",
+   "target": "cough-questions",
+   "value": 9
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "cough-questions",
+   "value": 9
+ },
+ {
+   "source": "cough-questions",
+   "target": "bronchitis-questions",
+   "value": 9
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "bronchitis-questions",
+   "value": 9
+ },
+ {
+   "source": "cough-questions",
+   "target": "flu-questions",
+   "value": 8
+ },
+ {
+   "source": "flu-questions",
+   "target": "cough-questions",
+   "value": 8
+ },
+ {
+   "source": "allergy-questions",
+   "target": "cough-questions",
+   "value": 8
+ },
+ {
+   "source": "cough-questions",
+   "target": "allergy-questions",
+   "value": 8
+ },
+ {
+   "source": "walking-questions",
+   "target": "pneumonia-questions",
+   "value": 7
+ },
+ {
+   "source": "asthma-questions",
+   "target": "smoking-questions",
+   "value": 7
+ },
+ {
+   "source": "asthma-questions",
+   "target": "inhaler-questions",
+   "value": 7
+ },
+ {
+   "source": "cough-questions",
+   "target": "head-questions",
+   "value": 7
+ },
+ {
+   "source": "cough-questions",
+   "target": "neck-questions",
+   "value": 7
+ },
+ {
+   "source": "head-questions",
+   "target": "cough-questions",
+   "value": 7
+ },
+ {
+   "source": "neck-questions",
+   "target": "cough-questions",
+   "value": 7
+ },
+ {
+   "source": "cough-questions",
+   "target": "over-the-counter-questions",
+   "value": 7
+ },
+ {
+   "source": "cough-questions",
+   "target": "infant-questions",
+   "value": 7
+ },
+ {
+   "source": "infant-questions",
+   "target": "cough-questions",
+   "value": 7
+ },
+ {
+   "source": "over-the-counter-questions",
+   "target": "cough-questions",
+   "value": 7
+ },
+ {
+   "source": "smoking-questions",
+   "target": "asthma-questions",
+   "value": 7
+ },
+ {
+   "source": "inhaler-questions",
+   "target": "asthma-questions",
+   "value": 7
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "walking-questions",
+   "value": 7
+ },
+ {
+   "source": "eyes-questions",
+   "target": "cough-questions",
+   "value": 6
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "pneumonia-questions",
+   "value": 6
+ },
+ {
+   "source": "cough-questions",
+   "target": "sweating-questions",
+   "value": 6
+ },
+ {
+   "source": "sweating-questions",
+   "target": "cough-questions",
+   "value": 6
+ },
+ {
+   "source": "swallow-questions",
+   "target": "cough-questions",
+   "value": 6
+ },
+ {
+   "source": "cough-questions",
+   "target": "swallow-questions",
+   "value": 6
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "bronchitis-questions",
+   "value": 6
+ },
+ {
+   "source": "cough-questions",
+   "target": "eyes-questions",
+   "value": 6
+ },
+ {
+   "source": "ear-infection-questions",
+   "target": "cough-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "vomit-questions",
+   "value": 5
+ },
+ {
+   "source": "vomit-questions",
+   "target": "cough-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "heart-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "smoking-questions",
+   "value": 5
+ },
+ {
+   "source": "heart-questions",
+   "target": "cough-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "pressure-questions",
+   "value": 5
+ },
+ {
+   "source": "pressure-questions",
+   "target": "cough-questions",
+   "value": 5
+ },
+ {
+   "source": "smoking-questions",
+   "target": "cough-questions",
+   "value": 5
+ },
+ {
+   "source": "allergy-questions",
+   "target": "asthma-questions",
+   "value": 5
+ },
+ {
+   "source": "asthma-questions",
+   "target": "allergy-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "whooping-cough-questions",
+   "value": 5
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "cough-questions",
+   "value": 5
+ },
+ {
+   "source": "lung-questions",
+   "target": "pneumonia-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "ear-infection-questions",
+   "value": 5
+ },
+ {
+   "source": "whooping-cough-questions",
+   "target": "cough-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "pneumonia-questions",
+   "value": 5
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "lung-questions",
+   "value": 5
+ },
+ {
+   "source": "cough-questions",
+   "target": "drowsiness-questions",
+   "value": 4
+ },
+ {
+   "source": "exercise-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "food-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "drowsiness-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "muscle-questions",
+   "value": 4
+ },
+ {
+   "source": "muscle-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "breast-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "stomach-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "breast-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "back-pain-questions",
+   "value": 4
+ },
+ {
+   "source": "stomach-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "tea-questions",
+   "value": 4
+ },
+ {
+   "source": "flu-questions",
+   "target": "pneumonia-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "drug-questions",
+   "value": 4
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "flu-questions",
+   "value": 4
+ },
+ {
+   "source": "tea-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "burn-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "burn-questions",
+   "value": 4
+ },
+ {
+   "source": "drug-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "milk-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "tightness-questions",
+   "value": 4
+ },
+ {
+   "source": "tightness-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "exercise-questions",
+   "value": 4
+ },
+ {
+   "source": "cough-questions",
+   "target": "food-questions",
+   "value": 4
+ },
+ {
+   "source": "milk-questions",
+   "target": "cough-questions",
+   "value": 4
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "chronic-obstructive-pulmonary-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "pulse-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "mouth-questions",
+   "value": 3
+ },
+ {
+   "source": "period-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "asthma-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "fatigue-questions",
+   "value": 3
+ },
+ {
+   "source": "inhaler-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "walking-questions",
+   "value": 3
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "coldness-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "x-ray-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "nausea-questions",
+   "value": 3
+ },
+ {
+   "source": "asthma-questions",
+   "target": "lung-questions",
+   "value": 3
+ },
+ {
+   "source": "fever-questions",
+   "target": "pneumonia-questions",
+   "value": 3
+ },
+ {
+   "source": "mouth-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "nausea-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "lung-questions",
+   "target": "asthma-questions",
+   "value": 3
+ },
+ {
+   "source": "walking-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "shoulder-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "blood-pressure-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "honey-questions",
+   "value": 3
+ },
+ {
+   "source": "cats-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "honey-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "cats-questions",
+   "value": 3
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "asthma-questions",
+   "value": 3
+ },
+ {
+   "source": "asthma-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "baby-questions",
+   "target": "bronchitis-questions",
+   "value": 3
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "arm-questions",
+   "value": 3
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "baby-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "steroid-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "amoxicillin-questions",
+   "value": 3
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "taste-questions",
+   "value": 3
+ },
+ {
+   "source": "hoarseness-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "chest-questions",
+   "target": "asthma-questions",
+   "value": 3
+ },
+ {
+   "source": "swelling-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "acute-bronchitis-questions",
+   "target": "bronchitis-questions",
+   "value": 3
+ },
+ {
+   "source": "asthma-questions",
+   "target": "exercise-questions",
+   "value": 3
+ },
+ {
+   "source": "arm-questions",
+   "target": "pneumonia-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "quit-smoking-questions",
+   "value": 3
+ },
+ {
+   "source": "steroid-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "amoxicillin-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "inhaler-questions",
+   "value": 3
+ },
+ {
+   "source": "taste-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "acute-bronchitis-questions",
+   "value": 3
+ },
+ {
+   "source": "exercise-questions",
+   "target": "asthma-questions",
+   "value": 3
+ },
+ {
+   "source": "quit-smoking-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "vaccination-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "hoarseness-questions",
+   "value": 3
+ },
+ {
+   "source": "asthma-questions",
+   "target": "chest-questions",
+   "value": 3
+ },
+ {
+   "source": "inhaler-questions",
+   "target": "bronchitis-questions",
+   "value": 3
+ },
+ {
+   "source": "vaccination-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "swelling-questions",
+   "value": 3
+ },
+ {
+   "source": "baby-questions",
+   "target": "asthma-questions",
+   "value": 3
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "baby-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "strep-throat-questions",
+   "value": 3
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "vision-questions",
+   "value": 3
+ },
+ {
+   "source": "vision-questions",
+   "target": "bronchitis-questions",
+   "value": 3
+ },
+ {
+   "source": "strep-throat-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "baby-questions",
+   "target": "pneumonia-questions",
+   "value": 3
+ },
+ {
+   "source": "asthma-questions",
+   "target": "baby-questions",
+   "value": 3
+ },
+ {
+   "source": "coldness-questions",
+   "target": "bronchitis-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "tooth-questions",
+   "value": 3
+ },
+ {
+   "source": "asthma-questions",
+   "target": "bronchitis-questions",
+   "value": 3
+ },
+ {
+   "source": "fatigue-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "chronic-obstructive-pulmonary-disease-questions",
+   "target": "pneumonia-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "period-questions",
+   "value": 3
+ },
+ {
+   "source": "tooth-questions",
+   "target": "cough-questions",
+   "value": 3
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "fever-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "inhaler-questions",
+   "value": 3
+ },
+ {
+   "source": "cough-questions",
+   "target": "pulse-questions",
+   "value": 3
+ },
+ {
+   "source": "zinc-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "ice-cream-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "diarrhea-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "spit-questions",
+   "value": 2
+ },
+ {
+   "source": "penicillin-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "insurance-questions",
+   "value": 2
+ },
+ {
+   "source": "sore-throat-questions",
+   "target": "bronchitis-questions",
+   "value": 2
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "mold-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "cold-questions",
+   "value": 2
+ },
+ {
+   "source": "insurance-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "spit-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "vision-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "virus-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "virus-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "heart-questions",
+   "value": 2
+ },
+ {
+   "source": "virus-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "virus-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "shoulder-blade-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "rash-questions",
+   "value": 2
+ },
+ {
+   "source": "vision-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "shoulder-blade-questions",
+   "value": 2
+ },
+ {
+   "source": "rash-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "emergency-room-questions",
+   "value": 2
+ },
+ {
+   "source": "emergency-room-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "foot-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "weakness-questions",
+   "value": 2
+ },
+ {
+   "source": "foot-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "sweating-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "injury-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "watery-eyes-questions",
+   "value": 2
+ },
+ {
+   "source": "weakness-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "sweating-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "itch-questions",
+   "value": 2
+ },
+ {
+   "source": "injury-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "watery-eyes-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "exposure-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 2
+ },
+ {
+   "source": "choking-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "oxygen-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "swine-flu-questions",
+   "value": 2
+ },
+ {
+   "source": "pain-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "chest-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "medicare-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "choking-questions",
+   "value": 2
+ },
+ {
+   "source": "oxygen-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "swine-flu-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "nasal-spray-questions",
+   "value": 2
+ },
+ {
+   "source": "itch-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "pelvic-area-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "family-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "virus-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "toddler-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "family-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "pain-questions",
+   "value": 2
+ },
+ {
+   "source": "nasal-spray-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "ibuprofen-questions",
+   "value": 2
+ },
+ {
+   "source": "virus-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "exposure-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "pelvic-area-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "chest-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "medicare-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "chronic-obstructive-pulmonary-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "toddler-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "chronic-obstructive-pulmonary-disease-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "ibuprofen-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "neck-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "surgery-questions",
+   "value": 2
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "ears-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "corpulence-questions",
+   "value": 2
+ },
+ {
+   "source": "injection-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "walking-questions",
+   "value": 2
+ },
+ {
+   "source": "surgery-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "blood-test-questions",
+   "value": 2
+ },
+ {
+   "source": "corpulence-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "neck-questions",
+   "value": 2
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "virus-questions",
+   "value": 2
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "laryngitis-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "injection-questions",
+   "value": 2
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "movement-questions",
+   "value": 2
+ },
+ {
+   "source": "ears-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "walking-questions",
+   "target": "bronchitis-questions",
+   "value": 2
+ },
+ {
+   "source": "movement-questions",
+   "target": "bronchitis-questions",
+   "value": 2
+ },
+ {
+   "source": "virus-questions",
+   "target": "bronchitis-questions",
+   "value": 2
+ },
+ {
+   "source": "laryngitis-questions",
+   "target": "bronchitis-questions",
+   "value": 2
+ },
+ {
+   "source": "head-questions",
+   "target": "pneumonia-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "head-questions",
+   "value": 2
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "sore-throat-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "tonsil-questions",
+   "value": 2
+ },
+ {
+   "source": "asthma-questions",
+   "target": "walking-questions",
+   "value": 2
+ },
+ {
+   "source": "cold-questions",
+   "target": "bronchitis-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "ice-cream-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "penicillin-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "bacterium-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "zinc-questions",
+   "value": 2
+ },
+ {
+   "source": "tonsil-questions",
+   "target": "cough-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "diarrhea-questions",
+   "value": 2
+ },
+ {
+   "source": "walking-questions",
+   "target": "asthma-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "dizziness-questions",
+   "value": 2
+ },
+ {
+   "source": "cough-questions",
+   "target": "mold-questions",
+   "value": 2
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "bacterial-pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "fever-questions",
+   "value": 1
+ },
+ {
+   "source": "seizure-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "immune-system-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "fatigue-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "ibuprofen-questions",
+   "value": 1
+ },
+ {
+   "source": "nervousness-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "coldness-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "dental-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "nipple-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "antidepressant-questions",
+   "value": 1
+ },
+ {
+   "source": "acute-bronchitis-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "waist-questions",
+   "value": 1
+ },
+ {
+   "source": "anger-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "chronic-obstructive-pulmonary-disease-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "spitting-up-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "nostril-questions",
+   "value": 1
+ },
+ {
+   "source": "air-quality-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "separation-anxiety-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "allergic-reaction-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "anger-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "chronic-obstructive-pulmonary-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "air-quality-questions",
+   "value": 1
+ },
+ {
+   "source": "tenderness-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "fever-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "allergic-reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "acute-bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "waist-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "ibuprofen-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "steroid-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "collapsed-lung-questions",
+   "value": 1
+ },
+ {
+   "source": "nostril-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "syrup-questions",
+   "value": 1
+ },
+ {
+   "source": "erosion-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "palpitation-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "collapsed-lung-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "lymph-node-questions",
+   "value": 1
+ },
+ {
+   "source": "ablation-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "sinus-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "appendix-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "boil-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "syrup-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "shock-questions",
+   "value": 1
+ },
+ {
+   "source": "sinus-infection-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "ablation-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "appendix-questions",
+   "value": 1
+ },
+ {
+   "source": "lymph-node-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "boil-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "palpitation-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "shock-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "steroid-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "vaccines-questions",
+   "value": 1
+ },
+ {
+   "source": "collapsed-lung-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "palpitation-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "sleepiness-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "erosion-questions",
+   "value": 1
+ },
+ {
+   "source": "palpitation-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "collapsed-lung-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "vaccines-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "jaw-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "pasta-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "bicep-questions",
+   "value": 1
+ },
+ {
+   "source": "testicle-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "mucus-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "tongue-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "workout-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "edema-questions",
+   "value": 1
+ },
+ {
+   "source": "jaw-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pasta-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "bicep-questions",
+   "value": 1
+ },
+ {
+   "source": "lump-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "fatigue-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "ribcage-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "edema-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cancer-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "sinus-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "mucus-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "tongue-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "workout-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "incontinence-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "gallbladder-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "testicle-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "fatigue-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "ribcage-questions",
+   "value": 1
+ },
+ {
+   "source": "incontinence-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "gallbladder-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "lump-questions",
+   "value": 1
+ },
+ {
+   "source": "sinus-infection-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "exposure-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "cyst-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "tightness-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "pain-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "rash-questions",
+   "value": 1
+ },
+ {
+   "source": "yeast-infection-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "vein-questions",
+   "value": 1
+ },
+ {
+   "source": "dog-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "sleep-apnea-questions",
+   "value": 1
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "spasm-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "autism-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "ear-infection-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "pap-test-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "vaccination-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cavity-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "chickenpox-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "acetaminophen-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "toe-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "menieres-disease-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "hamburger-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "tachycardia-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "skin-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "knee-questions",
+   "value": 1
+ },
+ {
+   "source": "reaction-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "allergy-questions",
+   "value": 1
+ },
+ {
+   "source": "vein-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "schizophrenia-questions",
+   "value": 1
+ },
+ {
+   "source": "esophagus-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "attention-deficit-hyperactivity-disorder-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "ear-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "pap-test-questions",
+   "value": 1
+ },
+ {
+   "source": "immunization-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "cavity-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "chickenpox-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "acetaminophen-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "menieres-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "hamburger-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "lung-cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "bicep-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "echocardiogram-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pancreas-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "dizziness-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "amoxicillin-questions",
+   "value": 1
+ },
+ {
+   "source": "exposure-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "fear-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "tightness-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "wrist-questions",
+   "value": 1
+ },
+ {
+   "source": "insurance-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "pets-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "autism-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-attack-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "laboratory-test-questions",
+   "value": 1
+ },
+ {
+   "source": "amoxicillin-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "hiv-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-attack-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hernia-questions",
+   "value": 1
+ },
+ {
+   "source": "aspirin-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "lightheadedness-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "throat-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "ventricle-questions",
+   "value": 1
+ },
+ {
+   "source": "condom-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "ovary-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "colorado-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterial-vaginosis-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "rabies-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "yeast-questions",
+   "value": 1
+ },
+ {
+   "source": "laboratory-test-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "amoxicillin-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "hiv-questions",
+   "value": 1
+ },
+ {
+   "source": "arrhythmia-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "hernia-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "lemon-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "aspirin-questions",
+   "value": 1
+ },
+ {
+   "source": "lung-cancer-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "viral-pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "throat-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "tachycardia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "condom-questions",
+   "value": 1
+ },
+ {
+   "source": "cyst-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "colorado-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pain-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "rash-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "bacterial-vaginosis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "dog-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "heart-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "yeast-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "sleepiness-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "allergy-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "wrist-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "dog-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "attention-deficit-hyperactivity-disorder-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "asthma-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "vaccination-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "toe-questions",
+   "value": 1
+ },
+ {
+   "source": "bicep-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "tonsil-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hydrocodone-questions",
+   "value": 1
+ },
+ {
+   "source": "methicillin-resistant-staphylococcus-aureus-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "echocardiogram-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "skin-questions",
+   "value": 1
+ },
+ {
+   "source": "belly-button-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "lightheadedness-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "knee-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "rabies-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "sleep-apnea-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "barium-swallow-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "x-ray-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "spasm-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "running-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "shingles-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "asthma-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "viral-pneumonia-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "tonsil-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "hydrocodone-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "methicillin-resistant-staphylococcus-aureus-questions",
+   "value": 1
+ },
+ {
+   "source": "ventricle-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "pancreas-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "belly-button-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "amoxicillin-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "fear-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "ovary-questions",
+   "value": 1
+ },
+ {
+   "source": "dog-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "yeast-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "schizophrenia-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "x-ray-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "barium-swallow-questions",
+   "value": 1
+ },
+ {
+   "source": "pets-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "x-ray-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "insurance-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "esophagus-questions",
+   "value": 1
+ },
+ {
+   "source": "running-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "shingles-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "arrhythmia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "immunization-questions",
+   "value": 1
+ },
+ {
+   "source": "lemon-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "wound-questions",
+   "value": 1
+ },
+ {
+   "source": "pleurisy-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "ears-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "coldness-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "mold-questions",
+   "value": 1
+ },
+ {
+   "source": "fear-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "drainage-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "steroid-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "cartilage-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "allergic-reaction-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "thrush-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "immune-system-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hair-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "cholesterol-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hunger-questions",
+   "value": 1
+ },
+ {
+   "source": "vagina-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "ultrasound-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "ulcer-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "low-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "throat-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "plaque-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "scar-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "sepsis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "feeding-questions",
+   "value": 1
+ },
+ {
+   "source": "anus-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "thigh-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "pregnancy-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "chest-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "dairy-product-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "tonsillitis-questions",
+   "value": 1
+ },
+ {
+   "source": "oil-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "mold-questions",
+   "value": 1
+ },
+ {
+   "source": "drainage-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "iron-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "reaction-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "cartilage-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "allergic-reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "mouth-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "immune-system-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "blood-test-questions",
+   "value": 1
+ },
+ {
+   "source": "hunger-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "bacterium-questions",
+   "value": 1
+ },
+ {
+   "source": "ultrasound-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "elbow-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "ulcer-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "acute-bronchitis-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "panic-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "plaque-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "scar-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "sepsis-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "feeding-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "anus-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "pregnancy-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "dairy-product-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "oil-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "pleurisy-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "mold-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "travel-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "coldness-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "inflammation-questions",
+   "value": 1
+ },
+ {
+   "source": "lip-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "infant-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "swallow-questions",
+   "value": 1
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "vagina-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "immune-system-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "skin-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "oil-questions",
+   "value": 1
+ },
+ {
+   "source": "cirrhosis-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "vagina-questions",
+   "value": 1
+ },
+ {
+   "source": "ammonia-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "acute-bronchitis-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "nightmare-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "weight-gain-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "knee-questions",
+   "value": 1
+ },
+ {
+   "source": "memory-loss-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "birth-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "coffee-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "thigh-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "hiatal-hernia-questions",
+   "value": 1
+ },
+ {
+   "source": "menstrual-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "pink-eye-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "middle-ear-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "family-questions",
+   "value": 1
+ },
+ {
+   "source": "wound-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "hearing-loss-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hiv-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "runny-nose-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "allergy-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "infusion-questions",
+   "value": 1
+ },
+ {
+   "source": "aspiration-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "runny-nose-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "fear-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "type-2-diabetes-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "reaction-questions",
+   "value": 1
+ },
+ {
+   "source": "oil-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "cirrhosis-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "elbow-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "vagina-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "ammonia-questions",
+   "value": 1
+ },
+ {
+   "source": "throat-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-gain-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "knee-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "low-blood-pressure-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "birth-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "coffee-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "chest-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "pink-eye-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "tonsillitis-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "family-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "menstrual-questions",
+   "value": 1
+ },
+ {
+   "source": "bipolar-disorder-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "ears-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "hiv-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "hand-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "nose-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "allergy-questions",
+   "value": 1
+ },
+ {
+   "source": "steroid-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "aspiration-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "runny-nose-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "fear-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "inflammation-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "fever-blister-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "infant-questions",
+   "value": 1
+ },
+ {
+   "source": "swallow-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-test-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "panic-attack-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "postpartum-depression-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "temperature-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hematoma-questions",
+   "value": 1
+ },
+ {
+   "source": "dog-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "marijuana-questions",
+   "value": 1
+ },
+ {
+   "source": "hiatal-hernia-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "labor-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "newborn-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "mite-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-clot-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "menstrual-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "blood-test-questions",
+   "value": 1
+ },
+ {
+   "source": "antibiotic-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "therapeutic-questions",
+   "value": 1
+ },
+ {
+   "source": "abdominal-pain-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "pleurisy-questions",
+   "value": 1
+ },
+ {
+   "source": "mold-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "travel-questions",
+   "value": 1
+ },
+ {
+   "source": "iron-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "fear-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "type-2-diabetes-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "bruise-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "lip-questions",
+   "value": 1
+ },
+ {
+   "source": "coma-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "sinus-infection-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hiccup-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "travel-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "cramps-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "thrush-questions",
+   "value": 1
+ },
+ {
+   "source": "skin-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "herniated-disc-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "crying-questions",
+   "value": 1
+ },
+ {
+   "source": "adenoidectomy-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "dehydration-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "acute-bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "newborn-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "middle-ear-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "mite-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "blood-clot-questions",
+   "value": 1
+ },
+ {
+   "source": "menstrual-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "bipolar-disorder-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "antibiotic-questions",
+   "value": 1
+ },
+ {
+   "source": "therapeutic-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "abdominal-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "pleurisy-questions",
+   "value": 1
+ },
+ {
+   "source": "runny-nose-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "hearing-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "infusion-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "nose-questions",
+   "value": 1
+ },
+ {
+   "source": "smell-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "bruise-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "fever-blister-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "coma-questions",
+   "value": 1
+ },
+ {
+   "source": "sinus-infection-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "bacterium-questions",
+   "value": 1
+ },
+ {
+   "source": "hiccup-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "travel-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cramps-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "mouth-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "immune-system-questions",
+   "value": 1
+ },
+ {
+   "source": "reaction-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "herniated-disc-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "crying-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "adenoidectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "smell-questions",
+   "value": 1
+ },
+ {
+   "source": "dehydration-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "acute-bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "nightmare-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "postpartum-depression-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "temperature-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "memory-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "hematoma-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "dog-questions",
+   "value": 1
+ },
+ {
+   "source": "marijuana-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "labor-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "nightmare-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "post-nasal-drip-questions",
+   "value": 1
+ },
+ {
+   "source": "nipple-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "smoking-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterial-pneumonia-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "temperature-questions",
+   "value": 1
+ },
+ {
+   "source": "fatigue-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "hay-fever-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "dental-questions",
+   "value": 1
+ },
+ {
+   "source": "antidepressant-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "sore-throat-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "smoking-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "hand-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "sore-throat-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "immune-system-questions",
+   "value": 1
+ },
+ {
+   "source": "temperature-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "hay-fever-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "coldness-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "bronchitis-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "tenderness-questions",
+   "value": 1
+ },
+ {
+   "source": "asthma-questions",
+   "target": "anxiety-questions",
+   "value": 1
+ },
+ {
+   "source": "fever-questions",
+   "target": "asthma-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "separation-anxiety-questions",
+   "value": 1
+ },
+ {
+   "source": "bronchitis-questions",
+   "target": "fever-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "seizure-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "nervousness-questions",
+   "value": 1
+ },
+ {
+   "source": "nightmare-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "spitting-up-questions",
+   "value": 1
+ },
+ {
+   "source": "post-nasal-drip-questions",
+   "target": "cough-questions",
+   "value": 1
+ }
+]
+}

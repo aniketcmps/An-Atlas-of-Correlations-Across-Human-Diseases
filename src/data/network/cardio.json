@@ -1,0 +1,3393 @@
+{
+"nodes":
+[
+ {
+   "id": "abdominal-pain-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "abscess-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "acupuncture-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "aids-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "alcoholism-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "allergy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "amputation-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "anemia-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "anger-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "anxiety-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "aorta-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "arm-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "arrhythmias-questions",
+   "group": 2,
+   "clusterid": 5
+ },
+ {
+   "id": "artery-questions",
+   "group": 2,
+   "clusterid": 3
+ },
+ {
+   "id": "aspirin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "atherosclerosis-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "attention-deficit-hyperactivity-disorder-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "back-pain-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "bacterial-pneumonia-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "bacterium-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "belly-button-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "beta-blocker-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "bloating-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "blood-pressure-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "blood-sugar-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "blood-thinner-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "boil-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "brain-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "bundle-nerve-branch-block-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "burn-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "calf-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "cancer-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "cardiomyopathy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "cardiovascular-sys-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "carotid-artery-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "central-nervous-system-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "chest-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "cholesterol-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "chronic-obstructive-pulmonary-disease-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "cocaine-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "coldness-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "confusion-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "congestive-heart-failure-questions",
+   "group": 2,
+   "clusterid": 4
+ },
+ {
+   "id": "coronary-angioplasty-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "cough-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "dehydration-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "depression-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "diabetes-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "diet-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "dilated-cardiomyopathy-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "dizziness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "drainage-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "drinking-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "drug-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "edema-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "electrocardiogram-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "electrocution-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "emphysema-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "endometrium-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "erection-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "esophagus-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "exercise-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "exercise-stress-test-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "eyes-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "family-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "fatty-liver-disease-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "fear-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "feeding-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "femur-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "finger-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "flat-feet-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "flu-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "food-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "foot-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "fruit-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "garlic-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "gender-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "grief-questions",
+   "group": 1,
+   "clusterid": 14
+ },
+ {
+   "id": "hair-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "hand-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "headache-questions",
+   "group": 1,
+   "clusterid": 6
+ },
+ {
+   "id": "heart-attack-questions",
+   "group": 2,
+   "clusterid": 1
+ },
+ {
+   "id": "heart-disease-questions",
+   "group": 2,
+   "clusterid": 2
+ },
+ {
+   "id": "heart-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "herniated-disk-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "high-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "high-cholesterol-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "hirschsprungs-disease-questions",
+   "group": 1,
+   "clusterid": 12
+ },
+ {
+   "id": "hunger-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "hydrocodone-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "hypogonadism-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "index-finger-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "inflammation-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "injection-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "irritable-bowel-syndrome-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "kidney-disease-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "kidney-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "knee-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "leg-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "lemon-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "limb-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "liver-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "low-blood-pressure-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "lower-jaw-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "lung-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "meat-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "narcotic-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "nausea-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "neck-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "nicotine-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "numbness-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "open-heart-surgery-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "ovary-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "oxygen-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "pacemaker-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "pain-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "panic-attack-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "penicillin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "penis-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "period-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "peripheral-neuropathy-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "peripheral-vascular-disease-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "plaque-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "pneumonia-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "polyp-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "potassium-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "pressure-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "prostate-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "pulmonary-hypertension-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "pulse-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "running-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "salt-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "seizure-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "septic-shock-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "sexual-intercourse-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "short-stature-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "shoulder-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "sinus-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "skin-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "sleepiness-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "smoking-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "sodium-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "stem-cell-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "stent-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "stitches-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "stomach-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "stress-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "stroke-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "surgery-questions",
+   "group": 1,
+   "clusterid": 11
+ },
+ {
+   "id": "swallow-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "swelling-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tenderness-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "testosterone-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "thigh-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "thumb-questions",
+   "group": 1,
+   "clusterid": 8
+ },
+ {
+   "id": "thyroid-disease-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "thyroid-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "tightness-questions",
+   "group": 1,
+   "clusterid": 9
+ },
+ {
+   "id": "tonsillectomy-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tonsil-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "tooth-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "travel-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "triglyceride-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "ulcer-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "urination-questions",
+   "group": 1,
+   "clusterid": 4
+ },
+ {
+   "id": "uterine-fibroid-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "uterus-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "vaginal-hysterectomy-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "vasectomy-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "vegetable-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "vein-questions",
+   "group": 1,
+   "clusterid": 3
+ },
+ {
+   "id": "vision-questions",
+   "group": 1,
+   "clusterid": 13
+ },
+ {
+   "id": "walking-questions",
+   "group": 1,
+   "clusterid": 10
+ },
+ {
+   "id": "weakness-questions",
+   "group": 1,
+   "clusterid": 1
+ },
+ {
+   "id": "weight-loss-questions",
+   "group": 1,
+   "clusterid": 2
+ },
+ {
+   "id": "weight-questions",
+   "group": 1,
+   "clusterid": 7
+ },
+ {
+   "id": "wound-questions",
+   "group": 1,
+   "clusterid": 3
+ }
+],
+"links":
+[
+ {
+   "source": "heart-questions",
+   "target": "heart-attack-questions",
+   "value": 11
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "heart-questions",
+   "value": 11
+ },
+ {
+   "source": "heart-questions",
+   "target": "artery-questions",
+   "value": 7
+ },
+ {
+   "source": "artery-questions",
+   "target": "heart-questions",
+   "value": 7
+ },
+ {
+   "source": "pain-questions",
+   "target": "artery-questions",
+   "value": 6
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "heart-questions",
+   "value": 6
+ },
+ {
+   "source": "heart-questions",
+   "target": "heart-disease-questions",
+   "value": 6
+ },
+ {
+   "source": "artery-questions",
+   "target": "pain-questions",
+   "value": 6
+ },
+ {
+   "source": "artery-questions",
+   "target": "plaque-questions",
+   "value": 6
+ },
+ {
+   "source": "plaque-questions",
+   "target": "artery-questions",
+   "value": 6
+ },
+ {
+   "source": "pain-questions",
+   "target": "heart-attack-questions",
+   "value": 5
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "stroke-questions",
+   "value": 5
+ },
+ {
+   "source": "stroke-questions",
+   "target": "heart-attack-questions",
+   "value": 5
+ },
+ {
+   "source": "artery-questions",
+   "target": "surgery-questions",
+   "value": 5
+ },
+ {
+   "source": "surgery-questions",
+   "target": "artery-questions",
+   "value": 5
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "pain-questions",
+   "value": 5
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "stent-questions",
+   "value": 4
+ },
+ {
+   "source": "walking-questions",
+   "target": "heart-attack-questions",
+   "value": 4
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "heart-questions",
+   "value": 4
+ },
+ {
+   "source": "artery-questions",
+   "target": "stent-questions",
+   "value": 4
+ },
+ {
+   "source": "stent-questions",
+   "target": "artery-questions",
+   "value": 4
+ },
+ {
+   "source": "fear-questions",
+   "target": "heart-attack-questions",
+   "value": 4
+ },
+ {
+   "source": "heart-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 4
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 4
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "heart-disease-questions",
+   "value": 4
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "fear-questions",
+   "value": 4
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "walking-questions",
+   "value": 4
+ },
+ {
+   "source": "stent-questions",
+   "target": "heart-attack-questions",
+   "value": 4
+ },
+ {
+   "source": "artery-questions",
+   "target": "vein-questions",
+   "value": 3
+ },
+ {
+   "source": "vein-questions",
+   "target": "artery-questions",
+   "value": 3
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "heart-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "heart-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "artery-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "heart-attack-questions",
+   "value": 3
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "pain-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "smoking-questions",
+   "value": 3
+ },
+ {
+   "source": "aspirin-questions",
+   "target": "heart-attack-questions",
+   "value": 3
+ },
+ {
+   "source": "artery-questions",
+   "target": "cholesterol-questions",
+   "value": 3
+ },
+ {
+   "source": "smoking-questions",
+   "target": "heart-attack-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "grief-questions",
+   "value": 3
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "drinking-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "aspirin-questions",
+   "value": 3
+ },
+ {
+   "source": "drinking-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 3
+ },
+ {
+   "source": "pain-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 3
+ },
+ {
+   "source": "grief-questions",
+   "target": "heart-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "walking-questions",
+   "value": 3
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "diabetes-questions",
+   "value": 3
+ },
+ {
+   "source": "walking-questions",
+   "target": "heart-disease-questions",
+   "value": 3
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "oxygen-questions",
+   "value": 2
+ },
+ {
+   "source": "diet-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 2
+ },
+ {
+   "source": "leg-questions",
+   "target": "heart-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "arm-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "vision-questions",
+   "target": "artery-questions",
+   "value": 2
+ },
+ {
+   "source": "penis-questions",
+   "target": "artery-questions",
+   "value": 2
+ },
+ {
+   "source": "drinking-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "tightness-questions",
+   "value": 2
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "vision-questions",
+   "value": 2
+ },
+ {
+   "source": "fear-questions",
+   "target": "artery-questions",
+   "value": 2
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "grief-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "drinking-questions",
+   "value": 2
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "arm-questions",
+   "value": 2
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "edema-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "surgery-questions",
+   "value": 2
+ },
+ {
+   "source": "diet-questions",
+   "target": "heart-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "diet-questions",
+   "value": 2
+ },
+ {
+   "source": "smoking-questions",
+   "target": "artery-questions",
+   "value": 2
+ },
+ {
+   "source": "exercise-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "pressure-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "carotid-artery-questions",
+   "target": "artery-questions",
+   "value": 2
+ },
+ {
+   "source": "fruit-questions",
+   "target": "heart-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "family-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "travel-questions",
+   "value": 2
+ },
+ {
+   "source": "diabetes-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "travel-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "foot-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "pressure-questions",
+   "value": 2
+ },
+ {
+   "source": "artery-questions",
+   "target": "smoking-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "exercise-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "artery-questions",
+   "value": 2
+ },
+ {
+   "source": "artery-questions",
+   "target": "heart-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "family-questions",
+   "target": "heart-disease-questions",
+   "value": 2
+ },
+ {
+   "source": "hand-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "grief-questions",
+   "target": "artery-questions",
+   "value": 2
+ },
+ {
+   "source": "artery-questions",
+   "target": "carotid-artery-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "fruit-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "diabetes-questions",
+   "value": 2
+ },
+ {
+   "source": "artery-questions",
+   "target": "grief-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "hand-questions",
+   "value": 2
+ },
+ {
+   "source": "foot-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 2
+ },
+ {
+   "source": "chest-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "alcoholism-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "oxygen-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 2
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "leg-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "diet-questions",
+   "value": 2
+ },
+ {
+   "source": "tightness-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "alcoholism-questions",
+   "value": 2
+ },
+ {
+   "source": "grief-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "blood-pressure-questions",
+   "value": 2
+ },
+ {
+   "source": "artery-questions",
+   "target": "fear-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "anxiety-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "leg-questions",
+   "value": 2
+ },
+ {
+   "source": "vision-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "chest-questions",
+   "value": 2
+ },
+ {
+   "source": "artery-questions",
+   "target": "vision-questions",
+   "value": 2
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "leg-questions",
+   "value": 2
+ },
+ {
+   "source": "artery-questions",
+   "target": "penis-questions",
+   "value": 2
+ },
+ {
+   "source": "edema-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 2
+ },
+ {
+   "source": "surgery-questions",
+   "target": "heart-attack-questions",
+   "value": 2
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "aids-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "feeding-questions",
+   "value": 1
+ },
+ {
+   "source": "brain-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "ovary-questions",
+   "value": 1
+ },
+ {
+   "source": "vasectomy-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "stress-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "pulse-questions",
+   "value": 1
+ },
+ {
+   "source": "high-blood-pressure-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "attention-deficit-hyperactivity-disorder-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "stem-cell-questions",
+   "value": 1
+ },
+ {
+   "source": "tonsil-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "belly-button-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "hirschsprungs-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "burn-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "central-nervous-system-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "anxiety-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "polyp-questions",
+   "value": 1
+ },
+ {
+   "source": "stitches-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "eyes-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "hypogonadism-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "drainage-questions",
+   "value": 1
+ },
+ {
+   "source": "period-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "exercise-stress-test-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "drainage-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-disease-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "boil-questions",
+   "value": 1
+ },
+ {
+   "source": "penicillin-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "electrocution-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "irritable-bowel-syndrome-questions",
+   "value": 1
+ },
+ {
+   "source": "eyes-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "cough-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-disease-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "open-heart-surgery-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "nicotine-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "swallow-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "foot-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "lung-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "blood-sugar-questions",
+   "value": 1
+ },
+ {
+   "source": "knee-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "stomach-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "cardiovascular-sys-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "calf-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "salt-questions",
+   "value": 1
+ },
+ {
+   "source": "stem-cell-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "blood-thinner-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "peripheral-vascular-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "hirschsprungs-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "potassium-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "urination-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "vaginal-hysterectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "finger-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "sinus-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "index-finger-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "allergy-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "testosterone-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "confusion-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "electrocardiogram-questions",
+   "value": 1
+ },
+ {
+   "source": "meat-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "pulmonary-hypertension-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "thumb-questions",
+   "value": 1
+ },
+ {
+   "source": "thigh-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "weight-loss-questions",
+   "value": 1
+ },
+ {
+   "source": "injection-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "fatty-liver-disease-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "dizziness-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "kidney-questions",
+   "value": 1
+ },
+ {
+   "source": "anemia-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "arrhythmias-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "weakness-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "esophagus-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "flat-feet-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "high-cholesterol-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "stent-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "flu-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "sodium-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "cocaine-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "salt-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "lemon-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "endometrium-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "tenderness-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "stroke-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "sinus-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "thyroid-questions",
+   "value": 1
+ },
+ {
+   "source": "aorta-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "allergy-questions",
+   "value": 1
+ },
+ {
+   "source": "hypogonadism-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "chest-questions",
+   "value": 1
+ },
+ {
+   "source": "hunger-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "pulmonary-hypertension-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "stitches-questions",
+   "value": 1
+ },
+ {
+   "source": "drainage-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "kidney-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "fatty-liver-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "irritable-bowel-syndrome-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "penicillin-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "anemia-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "arrhythmias-questions",
+   "value": 1
+ },
+ {
+   "source": "weakness-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "dehydration-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "stomach-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "smoking-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "kidney-questions",
+   "value": 1
+ },
+ {
+   "source": "back-pain-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "cardiovascular-sys-questions",
+   "value": 1
+ },
+ {
+   "source": "calf-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "salt-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "cocaine-questions",
+   "value": 1
+ },
+ {
+   "source": "feeding-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "garlic-questions",
+   "value": 1
+ },
+ {
+   "source": "uterine-fibroid-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "stomach-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-stress-test-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "pacemaker-questions",
+   "value": 1
+ },
+ {
+   "source": "short-stature-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "septic-shock-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "sinus-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "stem-cell-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-thinner-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "peripheral-neuropathy-questions",
+   "value": 1
+ },
+ {
+   "source": "hirschsprungs-disease-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "low-blood-pressure-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "lemon-questions",
+   "value": 1
+ },
+ {
+   "source": "central-nervous-system-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "uterus-questions",
+   "value": 1
+ },
+ {
+   "source": "polyp-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "hand-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "atherosclerosis-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "atherosclerosis-questions",
+   "value": 1
+ },
+ {
+   "source": "stroke-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "amputation-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "foot-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "headache-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "bacterium-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "seizure-questions",
+   "value": 1
+ },
+ {
+   "source": "arm-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "sodium-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "diet-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "amputation-questions",
+   "value": 1
+ },
+ {
+   "source": "flat-feet-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "headache-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "bacterial-pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "pneumonia-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "chest-questions",
+   "value": 1
+ },
+ {
+   "source": "hydrocodone-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "limb-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "kidney-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "bloating-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "walking-questions",
+   "value": 1
+ },
+ {
+   "source": "seizure-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "beta-blocker-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "lower-jaw-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "prostate-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "weight-questions",
+   "value": 1
+ },
+ {
+   "source": "thumb-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "foot-questions",
+   "value": 1
+ },
+ {
+   "source": "dilated-cardiomyopathy-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "pneumonia-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "arm-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "narcotic-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "lower-jaw-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "sodium-questions",
+   "value": 1
+ },
+ {
+   "source": "skin-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "stroke-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "foot-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "femur-questions",
+   "value": 1
+ },
+ {
+   "source": "cancer-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "cholesterol-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "alcoholism-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterium-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "emphysema-questions",
+   "value": 1
+ },
+ {
+   "source": "gender-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "drug-questions",
+   "value": 1
+ },
+ {
+   "source": "chest-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "hydrocodone-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "flat-feet-questions",
+   "value": 1
+ },
+ {
+   "source": "limb-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "tooth-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "beta-blocker-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "prostate-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "dilated-cardiomyopathy-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "flat-feet-questions",
+   "value": 1
+ },
+ {
+   "source": "femur-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "cancer-questions",
+   "value": 1
+ },
+ {
+   "source": "tooth-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "walking-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "bacterial-pneumonia-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "gender-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "thumb-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "dilated-cardiomyopathy-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "vegetable-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "panic-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "bloating-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "wound-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "tightness-questions",
+   "value": 1
+ },
+ {
+   "source": "narcotic-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "depression-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "dilated-cardiomyopathy-questions",
+   "value": 1
+ },
+ {
+   "source": "vegetable-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "panic-attack-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "alcoholism-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "sexual-intercourse-questions",
+   "value": 1
+ },
+ {
+   "source": "emphysema-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "running-questions",
+   "value": 1
+ },
+ {
+   "source": "drug-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "depression-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "skin-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "triglyceride-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "erection-questions",
+   "value": 1
+ },
+ {
+   "source": "tightness-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "wound-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "running-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "triglyceride-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "chest-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "cholesterol-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "nausea-questions",
+   "value": 1
+ },
+ {
+   "source": "sexual-intercourse-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "nausea-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "erection-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "chest-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "cholesterol-questions",
+   "value": 1
+ },
+ {
+   "source": "ovary-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "anger-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "carotid-artery-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "injection-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "shoulder-questions",
+   "value": 1
+ },
+ {
+   "source": "hair-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "cardiomyopathy-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "cough-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "esophagus-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "open-heart-surgery-questions",
+   "value": 1
+ },
+ {
+   "source": "lung-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "nicotine-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "swelling-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "exercise-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "sleepiness-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "low-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "drinking-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "stroke-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "pulse-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "coldness-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "brain-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "attention-deficit-hyperactivity-disorder-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "ulcer-questions",
+   "value": 1
+ },
+ {
+   "source": "peripheral-vascular-disease-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "liver-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "abdominal-pain-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "vaginal-hysterectomy-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "finger-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "tonsillectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "chronic-obstructive-pulmonary-disease-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "coronary-angioplasty-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "potassium-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "confusion-questions",
+   "value": 1
+ },
+ {
+   "source": "electrocardiogram-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "numbness-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "herniated-disk-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "index-finger-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "eyes-questions",
+   "value": 1
+ },
+ {
+   "source": "abscess-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "acupuncture-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "weight-loss-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "period-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "inflammation-questions",
+   "value": 1
+ },
+ {
+   "source": "bundle-nerve-branch-block-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "dehydration-questions",
+   "value": 1
+ },
+ {
+   "source": "high-cholesterol-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "stent-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "swallow-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "diet-questions",
+   "value": 1
+ },
+ {
+   "source": "sleepiness-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "knee-questions",
+   "value": 1
+ },
+ {
+   "source": "lemon-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "back-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "vision-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "pacemaker-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "neck-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "coldness-questions",
+   "value": 1
+ },
+ {
+   "source": "thyroid-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "aorta-questions",
+   "value": 1
+ },
+ {
+   "source": "ulcer-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "peripheral-neuropathy-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "hirschsprungs-disease-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-pressure-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "urination-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "abdominal-pain-questions",
+   "value": 1
+ },
+ {
+   "source": "uterus-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "tonsil-questions",
+   "value": 1
+ },
+ {
+   "source": "belly-button-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "coronary-angioplasty-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "low-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "burn-questions",
+   "value": 1
+ },
+ {
+   "source": "chest-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "herniated-disk-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "hand-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "abscess-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "acupuncture-questions",
+   "value": 1
+ },
+ {
+   "source": "surgery-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "drainage-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "meat-questions",
+   "value": 1
+ },
+ {
+   "source": "inflammation-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "bundle-nerve-branch-block-questions",
+   "value": 1
+ },
+ {
+   "source": "endometrium-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "anger-questions",
+   "value": 1
+ },
+ {
+   "source": "boil-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "shoulder-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "hair-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "cardiomyopathy-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "stomach-questions",
+   "value": 1
+ },
+ {
+   "source": "blood-sugar-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "low-blood-pressure-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "garlic-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "tenderness-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "flu-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "leg-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "sodium-questions",
+   "value": 1
+ },
+ {
+   "source": "aids-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "salt-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "uterine-fibroid-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "vasectomy-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "exercise-stress-test-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "stress-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "short-stature-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "septic-shock-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "high-blood-pressure-questions",
+   "value": 1
+ },
+ {
+   "source": "lemon-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "drinking-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "stem-cell-questions",
+   "value": 1
+ },
+ {
+   "source": "tonsillectomy-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "congestive-heart-failure-questions",
+   "target": "chronic-obstructive-pulmonary-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "liver-questions",
+   "value": 1
+ },
+ {
+   "source": "anxiety-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "numbness-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "sinus-questions",
+   "value": 1
+ },
+ {
+   "source": "thumb-questions",
+   "target": "artery-questions",
+   "value": 1
+ },
+ {
+   "source": "kidney-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "testosterone-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "food-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "hunger-questions",
+   "value": 1
+ },
+ {
+   "source": "exercise-stress-test-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "vision-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "thigh-questions",
+   "value": 1
+ },
+ {
+   "source": "leg-questions",
+   "target": "congestive-heart-failure-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-attack-questions",
+   "target": "carotid-artery-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "electrocution-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "neck-questions",
+   "value": 1
+ },
+ {
+   "source": "dizziness-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ },
+ {
+   "source": "artery-questions",
+   "target": "eyes-questions",
+   "value": 1
+ },
+ {
+   "source": "heart-disease-questions",
+   "target": "thyroid-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "food-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "smoking-questions",
+   "target": "heart-disease-questions",
+   "value": 1
+ },
+ {
+   "source": "swelling-questions",
+   "target": "heart-attack-questions",
+   "value": 1
+ }
+]
+}
